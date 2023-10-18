@@ -1,6 +1,5 @@
 # ComicBook
-The Walking Dead Compendium Vol. 01 (2011)
-
+*The Walking Dead Compendium Vol. 01 (2011)*
 
 Resource Information:
 ---------------------------
@@ -40,12 +39,5 @@ The resource's availability and content may change over time. Users are responsi
 
 ---------------------------
 
-The Walking Dead Compendium Vol. 01 (2011)
-
-The Walking Dead Compendium vol. 02 (2013)
-
-The Walking Dead Compendium vol. 03 (2015)
-
-The Walking Dead Compendium vol. 04 (2019)
 
 
