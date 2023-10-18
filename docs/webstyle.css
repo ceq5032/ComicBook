@@ -1,10 +1,16 @@
 
 body {
-background-color: BurlyWood;
 color: indigo;
+font-family: "comic sans";
 font-family: deathrattlebb_reg;
 }
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+
+img {
+    padding: 0;
+    display: table;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100vw;
+    top: 0;
 }
+
