@@ -1,5 +1,6 @@
 ```markdown
 Comic Book
+
 **Title**:The Walking Dead Compendium Vol. 01 (2011), Chapter 1
 
 **Resource Information:**
