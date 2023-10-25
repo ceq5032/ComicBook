@@ -1,5 +1,4 @@
-
-Comic Book
+# #Comic Book
 
 **Title**:The Walking Dead Compendium Vol. 01 (2011), Chapter 1
 
@@ -26,7 +25,7 @@ The plot of the first chapter of "The Walking Dead" comic is relatively similar 
 **Differences from the Show:**
 While Chapter 1 of the comic closely follows the show's first season, there are some differences in character introductions, the reunion with family, and the exploration of group dynamics. The comic provides a more in-depth look at the dynamics between Rick and Shane and the group's interactions.
 
-**Legal Notice:**
+**Legal Notice:**#
 Please be aware of the legal implications of accessing and using copyrighted materials. Ensure that you are abiding by copyright laws and terms of use specified on the website. The availability of this resource may be subject to copyright and licensing restrictions.
 
 **Support and Contact:**
@@ -34,5 +33,4 @@ If you have any questions, or concerns, or require additional information about 
 
 **Disclaimer:**
 The resource's availability and content may change over time. Users are responsible for ensuring compliance with applicable laws and regulations when accessing and using digital content.
-
 
