@@ -1,4 +1,4 @@
-```markdown
+
 Comic Book
 
 **Title**:The Walking Dead Compendium Vol. 01 (2011), Chapter 1
@@ -34,5 +34,5 @@ If you have any questions, or concerns, or require additional information about 
 
 **Disclaimer:**
 The resource's availability and content may change over time. Users are responsible for ensuring compliance with applicable laws and regulations when accessing and using digital content.
-```
+
 
