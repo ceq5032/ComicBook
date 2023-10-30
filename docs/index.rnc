@@ -1,0 +1,30 @@
+start = html 
+html = element html { head, body }
+head = element head {title, meta, link}
+title = element title {text}
+meta = element meta {charset,name,content, text}
+charset = attribute charset {text}
+name = attribute name {text}
+content = attribute content {text}
+link = element link {rel,type,href,text}
+rel = attribute rel {text}
+type = attribute type {text}
+href = attribute href {text}
+body = element body { header, p}
+header = element header {img, ul}
+img = element img {src,alt,style}
+src = attribute src {text}
+alt = attribute alt {text}
+style = attribute style {text} 
+ul = element ul {class, li, a}
+class = attribute class {text}
+li = element li {class}
+a = element a {href, text}
+p = element p {class, text}
+
+
+
+
+
+
+
