@@ -96,7 +96,7 @@
 
 
     <page num="2">
-
+        <div type="panelGrp">
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -107,8 +107,10 @@
                 </balloon>
             </panel-desc>
         </panel>
+        </div>
     </page>
     <page num="3">
+        <div type="panelGrp">
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -186,6 +188,7 @@
 
             </panel-desc>
         </panel>
+        </div>
     </page>
 
 </root>
