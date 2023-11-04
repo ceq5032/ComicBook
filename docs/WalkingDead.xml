@@ -5,12 +5,10 @@
         <firstname> Chelsea </firstname>
         <lastname> Quijas </lastname>
         <email> ceq5032@psu.edu </email>
-        <firstname> Misti </firstname>
     </person>
     <person>
         <firstname> Mistie </firstname>
         <lastname> McColm </lastname>
-        <email> </email>
         <email> mmm8989@psu.edu </email>
     </person>
     <person>
@@ -18,7 +16,7 @@
         <lastname> Dollard</lastname>
         <email> </email>
     </person>
-    <addDate> 2023-06-03 </addDate>
+        <addDate> 2023-06-03 </addDate>
     <title> Chapter One: Days Gone By </title>
     <page num="1">
         <div type="panelGrp">
