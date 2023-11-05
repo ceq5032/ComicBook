@@ -16,7 +16,7 @@
         <lastname> Dollard</lastname>
         <email> </email>
     </person>
-        <addDate> 2023-06-03 </addDate>
+    <addDate> 2023-06-03 </addDate>
     <title> Chapter One: Days Gone By </title>
     <page num="1">
         <div type="panelGrp">
@@ -55,7 +55,7 @@
                 <panel-desc>
                     <action> The active shooter is holding a gun. </action>
                     <balloon>
-                    <narration who="Shooter"> I'm ain't goin' back! I'll die first! </narration>
+                        <narration who="Shooter"> I'm ain't goin' back! I'll die first! </narration>
                     </balloon>
                 </panel-desc>
             </panel>
@@ -65,9 +65,9 @@
                 <panel-desc>
                     <action> Rick and Shane are leaning on a cop car and talking. </action>
                     <balloon>
-                    <narration who="Rick"> DAMMIT! Our back-up is probably more than ten miles away!
-                        We're sitting ducks behind this car... Cover me.. I'm going to try and make
-                        it to that ditch so we can surround him. </narration>
+                        <narration who="Rick"> DAMMIT! Our back-up is probably more than ten miles
+                            away! We're sitting ducks behind this car... Cover me.. I'm going to try
+                            and make it to that ditch so we can surround him. </narration>
                     </balloon>
                 </panel-desc>
             </panel>
@@ -87,7 +87,7 @@
                     <action> Shane is holding his hand that was shot and he see's rick being shot in
                         the chest by the shooter. </action>
                     <balloon>
-                    <narration who="Shane"> RICK!! </narration>
+                        <narration who="Shane"> RICK!! </narration>
                     </balloon>
                 </panel-desc>
             </panel>
@@ -97,59 +97,888 @@
 
     <page num="2">
         <div type="panelGrp">
-        <panel>
-            <url>
-                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
-            <panel-desc>
-                <action> Rick is laying in a hospital bed and just woke up </action>
-                <balloon>
-                <narration who="Rick"> GASP! </narration>
-                </balloon>
-            </panel-desc>
-        </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is laying in a hospital bed and just woke up </action>
+                    <balloon>
+                        <narration who="Rick"> GASP! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
         </div>
     </page>
     <page num="3">
         <div type="panelGrp">
-        <panel>
-            <url>
-                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
-            <panel-desc>
-                <action> Rick is laying in a hospital bed and then removes his oxygen. </action>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is laying in a hospital bed and then removes his oxygen. </action>
 
-            </panel-desc>
-        </panel>
-        <panel>
-            <url>
-                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
-            <panel-desc>
-                <action> Rick sits up and swings his leg to the side of the bed. </action>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sits up and swings his leg to the side of the bed. </action>
 
-            </panel-desc>
-        </panel>
-        <panel>
-            <url>
-                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
-            <panel-desc>
-                <action> Rick hangs onto the IV pole and tries to stand up. </action>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick hangs onto the IV pole and tries to stand up. </action>
 
-            </panel-desc>
-        </panel>
-        <panel>
-            <url>
-                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
-            <panel-desc>
-                <action> Rick takes a step and falls instantly to the ground. </action>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick takes a step and falls instantly to the ground. </action>
 
-            </panel-desc>
-        </panel>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks up from the ground and looks for the nurse.</action>
+                    <balloon>
+                        <narration who="Rick"> NURSE!! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick crawls his way back to the bed and finds the emergency button. He
+                        pushes the button. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sits with his back against the bed on the floor. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sits with his back against the bed on the floor. He notices the
+                        dresser to his right. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the dresser and sees his belongings which include his
+                        clothes, shoes, keys , and his badge. </action>
+
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="4">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is standing the door way of hospital room 251. </action>
+                    <balloon>
+                        <narration who="Rick"> Hello? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick starts his way down the hall way. Its empty. </action>
+                    <balloon>
+                        <narration who="Rick"> Hello?! Anybody?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is at the information desk in the hospital. </action>
+                    <balloon>
+                        <narration who="Rick"> What the hell?! Did everyone just decide to take a
+                            break at the same time?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues walking through the empty halls of the hospital </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick finds an elevator. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick eneters the elevator.</action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> DING! </sound>
+                    <action> The elevator stops and Rick is waiting for the door to open. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> FWUMP!</sound>
+                    <action> The elevator door opens and a zo,bie falls into the elevator. </action>
+                    <balloon>
+                        <narration who="Rick"> AHH! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="5">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is standing over the zombie scared.</action>
+                    <balloon>
+                        <narration who="Rick"> Help!! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick jumps over the zombie and out of the elevator. </action>
+                    <balloon>
+                        <narration who="Rick"> Somebody Help!! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick coninues his way down the hospital hall. </action>
+                    <balloon>
+                        <narration who="Rick"> Anybody? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues his way down the hospital halls. </action>
+
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sees a double door and its blocked with a board. </action>
+                    <balloon>
+                        <narration who="Rick"> What the Hell? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick removed the wooden board. </action>
+                    <balloon>
+                        <narration who="Rick"> What happened here? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the door slowly. </action>
+
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+<page num="6">
+    <div type="panelGrp">
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
             <panel-desc>
-                <action> Rick looks up from the ground and looks for the nurse.</action>
+                <action> Rick opens the door to a room filled with over 20 zombies. </action>
                 <balloon>
-                <narration who="Rick"> NURSE!! </narration>
+                    <narration who="Zombie"> UUNGH. </narration>
+                </balloon>
+            </panel-desc>
+        </panel>
+       </div>
+</page>
+    <page num="7">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is scared and moving away from the zombie at the door. </action>
+                    <balloon>
+                        <narration who="Rick"> Uh. Uh. Uh. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> THAP!</sound>
+                    <action> Rick falls to the ground as hes backing away from the zombies. They are startig there way towards them. </action>
+                    <balloon>
+                        <narration who="Zombie"> UFF! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is on the floor moving away from the zombie. </action>
+                    <balloon>
+                        <narration who="Rick"> STOP! Get away from me ! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie grabs rick by the shirt has he tries to exit the hospital. </action>
+                    <balloon>
+                        <narration who="Rick"> Cant you understand?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> FWUMP! </sound>
+                    <action> The zombie pushes Rick out of the door and they are falling to the ground. </action>
+                    <balloon>
+                        <narration who="Rick"> PLEASE! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound>WHUMP!</sound>
+                    <action> The zombie is ontop of Rick and they are falling down the stairs </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> SNAP! </sound>
+                    <action> The zombies neck snaps on the way down the stairs. </action>
+                    
+                </panel-desc>
+            </panel>
+            
+        </div>
+    </page>
+    <page num="8">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> WHUMP! </sound>
+                    <action> Rick falls onto the zombie at the end of the stairs. </action>
+                    <balloon>
+                        <narration who="Rick"> OOF! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets up and makes his way down the stairs. Zombies are after him.</action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick pushes a door openand is taking off his belt. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gopes through the door and closes it shut with his belt. </action>
+                    <balloon>
+                        <narration who="Rick"> What the hell was all that? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is standing in an almost empty parking structure and there is one car. </action>
+                    <balloon>
+                        <narration who="Rick"> ... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick tries to open the car door. </action>
+                    <balloon>
+                        <narration who="Rick"> Damn. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks away from the car. </action>
+                    
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="9">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is outside of the hospital walking down the sidewalk. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick contunies to walk down the sidewalk. </action>
+                 
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick comes across a wrecked car and there is a dead body hanging out of it. </action>
+                    <balloon>
+                        <narration who="Rick"> Jesus.. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sees a bike in the grass up ahead of him. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks up to the bike. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks horrified by what he sees. </action>
+                    <balloon>
+                        <narration who="Rick"> GASP! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="10">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A deteriated zombie is laying by the bike. </action>
+                    <balloon>
+                        <narration who="Zombie"> GUK...GLAKK. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick covers his mouth in disbelief. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie sees rick and is looking at him. </action>
+                    <balloon>
+                        <narration who="Zombie"> GUK. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A close up to Rick's face. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie lays there on the ground with its mouth open. </action>
+                    <balloon>
+                        <narration who="Zombie"> GUH. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A close up to Ricks face and he starts to cry. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie lays on the ground looking at Rick. </action>
+                    <balloon>
+                        <narration who="Zombie"> GAR. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="11">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is walking down the road with a bike. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick falls to his knees dropping the bike. </action>
+                    <balloon>
+                        <narration who="Rick"> Oh God... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick crys into his hands in the middle of the road. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is still crying into his hands in the middle of the road. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stands up and is looking at the bike. </action>
+                    <balloon>
+                        <narration who="Rick"> ... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets on the bike. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick wipes away his tears. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick starts riding the bike. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is riding the bike down the empty road. </action>
+                 
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="12">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is riding a bike through a neighborhood. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stops infront of a rundown house. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets off the bike and makes his way to the front door of the house. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets closer to the front door. </action>
+                    <balloon>
+                        <narration who="Rick"> Son of a bitch. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the screen door and grabs the door knob. </action>
+                    
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="13">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks into the house. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks pass a family picture showing two parents and a son. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens a door and peaks into a bedroom. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks into the kitchen. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick steps outside is on the porch. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick leans on the railing of the porch. </action>
+                    <balloon>
+                        <narration who="Rick"> Nothing. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks around the outside of the house. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks around. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A shovel is being swung. </action>
+                    
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="14">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <sound> CLUNGG!!</sound>
+                    <action> Rick is hit in the back of the head with a shovel. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A young boy is standing above rick holding a shovel. </action>
+                    <balloon>
+                        <narration who="Duane"> Dad! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father and son are standing above Rick. </action>
+                    <balloon>
+                        <narration who="Morgan"> Jesus, Shit! Son.. What did you do? </narration>
+                    </balloon>
+                    <balloon> 
+                        <narration who="Duane"> He was going to try to eat us, Dad.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father and son are standing above rick. </action>
+                    <balloon>
+                        <narration who="Morgan"> No, son..This man is alive.</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Duane"> Oh. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> Grab his feet.. Help me get him inside.</narration>
+                    </balloon>
+                    
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="15">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick wakes up on a couch. </action>
+                    <balloon>
+                        <narration who="Rick"> Huh! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father and son are in the kitchen. Rick is sitting up looking at them. </action>
+                    <balloon>
+                        <narration who="Morgan"> Oh, You're awake. We're just getting ready to have dinner. Would you care to join us? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Wait, what the hell is going on here?!</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick, the father, and the son are sitting at the dining room table. </action>
+                    <balloon>
+                        <narration who="Morgan"> Oh, sorry about my boy. He hit you over the head with a shovel. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration type="Rick"> Huh? What are you talking about? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration type="Morgan"> He thought you were one of those things..</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is confused. </action>
+                    <balloon>
+                        <narration who="Rick"> "Things?" You mean those monsters that are at the hospital?! Who are you people? What the hell is going on? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father is trying to calm Rick down. </action>
+                    <balloon>
+                        <narration who="Morgan"> Whoa, whoa.. calm down there buddy. This was all just a misunderstanding. My boy didn't mean nothing. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is wanting answers. </action>
+                    <balloon>
+                        <narration who="Rick"> How did it all happen? What went wrong? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father is confused that Rick doesnt know what has happened. </action>
+                    <balloon>
+                        <narration who="Morgan"> What a minute. Hold up. Damn son.. You don't know about any of it? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+<page num="16">
+    <div type="panelGrp">
+        <panel>
+            <url>
+                https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+            <panel-desc>
+                <action> Rick, the father and son are sittign infront of a fireplace. The son is drawing on the floor. </action>
+                <balloon>
+                    <narration who="Rick"> I was shot... I woke up in the hospital and was atacked. i came home.. My wife and kid were gone.. The whole damn town was deserted. i didn't know what the hell was going on. </narration>
+                </balloon>
+                <balloon>
+                    <narration who="Morgan"> All media shut down after a few weeks. I haven't heard much of anything after that. It they found a way to stop it.. they haven't made it here yet. Those things are everywhere.</narration>
+                </balloon>
+                <balloon>
+                    <narration who="Rick"> You say nobody knows what caused it? </narration>
+                </balloon>
+                <balloon>
+                    <narration who="Morgan"> A good blow to the head will take 'em out. That's why the boy whacked you with our shovel. Nothing much else seems to faze them. Anytime one wanders into the yard we take care of it. We try to keep quiet.. They'd come after us if they knew we was here.</narration>
                 </balloon>
             </panel-desc>
         </panel>
@@ -157,38 +986,1817 @@
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
             <panel-desc>
-                <action> Rick crawls his way back to the bed and finds the emergency button. He
-                    pushes the button. </action>
-
+                <action> The father looks worried. </action>
+                <balloon>
+                    <narration who="Morgan"> Before they stopped broadcasting they told us to relocate to the bigger cities. They said they could protect us all there. I figured i'd be better off taking my chances here. </narration>
+                </balloon>
             </panel-desc>
         </panel>
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
             <panel-desc>
-                <action> Rick sits with his back against the bed on the floor. </action>
-
+                <action> Rick seems relieved. </action>
+                <balloon>
+                    <narration who="Rick"> My in-laws line in Atlanta..That's only a five-hour drive from here. That's probably where my wife went. Thank god.. If they're protecting the cities.. Man, I was so worried. </narration>
+                </balloon>
             </panel-desc>
         </panel>
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
             <panel-desc>
-                <action> Rick sits with his back against the bed on the floor. He notices the
-                    dresser to his right. </action>
-
+                <action> The father leans back in his chair. He seems suspicious. </action>
+                <balloon>
+                    <narration who="Morgan"> Oh, yeah.. I'm sure they're fine. </narration>
+                </balloon>
             </panel-desc>
         </panel>
         <panel>
             <url>
                 https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
             <panel-desc>
-                <action> Rick opens the dresser and sees his belongings which include his clothes,
-                    shoes, keys , and his badge. </action>
-
+                <action> Rick stands up holding a key. </action>
+                <balloon>
+                    <narration who="Rick"> Well.. I need a car if im going to Atlanta.. Want to go shopping? </narration>
+                </balloon>
             </panel-desc>
         </panel>
+    </div>
+</page>
+    <page num="17">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick, the father, and the son are standing infront of the police station. </action>
+                    <balloon>
+                        <narration who="Morgan"> So, you're a cop, huh? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Yep. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> I figured you for a hunter, after you said you got shot and all. You being a cop.. You don't mind my boy and I taking residence in your neighbor's place do you?</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks back at the father while putting the key in the door. </action>
+                    <balloon>
+                        <narration who="Rick"> I'm not going to arrect you if that's what you mean. Most of the houses on my street had been looted. You seemed to be fixing the place up. The Thompson's will probably thank you when they get back. As long as you don't put up a fight over the place. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the father, and his son are standing in the entry of the police station. </action>
+                    <balloon>
+                        <narration who="Morgan"> It's not like we're stealing the place.. Your neighborhood just seemed safer. We don't figure that we're hurting anybody by staying there.. and in my book that makes it okay. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> You don't have to justify anything to me. You're keeping your son safe. I'm worried sick about mine. I understand.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The father seems happy. </action>
+                    <balloon>
+                        <narration who="Morgan"> I appreciate that y'know... I don't think I got your name? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the father are shaking hands. </action>
+                    <balloon>
+                        <narration who="Rick"> Rick.. officer Rick Grimes at your service. And you? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> Oh, Morgan Jones.. and this here is little Duane.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and Morgan are looking around the police station. </action>
+                    <balloon>
+                        <narration who="Rick"> You're a good man, Morgan. I really appreciate you driving me over here. you've helped me out a lot. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> It's worth it just to get to talk to someone. If it ain't about cartoons or passing gas..My boy don't want to talk about it.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
         </div>
     </page>
-
+    <page num="18">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick does a half smile and laughs. </action>
+                    <balloon>
+                        <narration who="Rick"> Heh. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks sad. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks guilty. </action>
+                    <balloon>
+                        <narration who="Rick"> Damn. After everything I've seen today... I feel guil;ty for laughing. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is standing with Morgan and Duane infront of a computer desk. Rick is holding a gun. </action>
+                    <balloon>
+                        <narration who="Morgan"> Hey, man... It's okay. you've seen some crazy shit out there... We all have. You can't let it get to you. You just gotta keep going. you can't stop to think about it.. or you'll go crazy. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Yeah... </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> What's up with that?</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is looks at his gun. Morgan and Duane watch him. </action>
+                    <balloon>
+                        <narration who="Rick"> Oh, this? I figured I might as well bring a few along... just incase. Speaking of which.. Follow me. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is opening a locked door. Morgan and Duane are standing behind him. </action>
+                    <balloon>
+                        <narration who="Rick"> I just need to find the right key... here we are.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="19">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens and door to a gun vault. Morgan and duane walk in. </action>
+                    <balloon>
+                        <narration who="Morgan"> Wow. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Grab a couple for yourself. if whacking those things over the head with a shovel does them in.. I'm sure those things will work. Should save you some effort.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is pointing out where the ammo is located. </action>
+                    <balloon>
+                        <narration who="Rick"> The shells are in the cabinet below the gun rack. Make sure you save some for me. I'll be right back.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Duane watches his father Morgan reach for a shot gun. </action>
+                    <balloon>
+                        <narration who="Duane"> Can I--? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> No, dammit. Don't touch anything. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Morgan is holding two guns while Duane watches. </action>
+                    <balloon>
+                        <narration who="Duane"> But I'm old enough. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> Yes, you are.. and I'm gonna teach you how to use one of them tomorrow... but until then they're off limits.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks back into the room and is dressed in his cop uniform. </action>
+                    <balloon>
+                        <narration who="Rick"> Are there enough shells for both of us in there? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks towards Morgan. </action>
+                    <balloon>
+                        <narration who="Morgan"> Well.. that getup certainly suits you. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> I keep a spare uniform in my locker. I figured if I was going into a big city, and they've got a ton of people holled up there.. I could get around easier being a cop so I might as well look the part.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is smiling with a handful of guns and ammo. </action>
+                    <balloon>
+                        <narration who="Rick"> Grab what you're getting and follow me out back. i got another suprise for you. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="20">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick, Morgan and Duane exit the back of the police station into the parking lot. There are patrol cars parked by the door. </action>
+                    <balloon>
+                        <narration who="Rick"> You take that one of the left. It doesn't run as good as the one I'm taking but btter than that hatchback you're driving. If I'm going to make it all the way to Atlanta I'm going to need the newer one. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> Wait... what? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is holding his bag filled with guns and ammo on his back.  </action>
+                    <balloon>
+                        <narration who="Rick"> You'll be safer in one of these things if you need to go anywhere. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> But I... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is handing Morgan car keys. </action>
+                    <balloon>
+                        <narration who="Rick"> Don't sweat it, man. I'm just doing my job. I can't think of a better way to "protect and serve" under the circumstances. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the door to his patrol car. Morgan and Duane watch. </action>
+                    <balloon>
+                        <narration who="Rick"> When things get back to normal... You'll have to give it back.. So try not to bang it up or put too many miles on it. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Morgan looks grateful. </action>
+                    <balloon>
+                        <narration who="Morgan"> Thank you, Rick. I can't tell you how much this will help us. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues to put his stuff in the patrol car. </action>
+                    <balloon>
+                        <narration who="Rick"> Look you've already helped-- </narration>
+                    </balloon>
+                    <sound> CLINK.</sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks up from the car.  </action>
+                    <balloon>
+                        <narration who="Rick"> What was that?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="21">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick, Morgan and Duane look to the chainlink fence. Theres a Zombie. </action>
+                    <balloon>
+                        <narration who="Zombie"> UHH! UHH! UHH! </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> LOOK OUT! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts his hand on his pistol in the holster of his belt. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie is leaning on the fence. It's face is smooshed against the chain links. </action>
+                    <balloon>
+                        <narration who="Zombie"> RUH! RUOALIAGH! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick draws his pistol ready to shoot the zombie. Morgan put's his hand ontop of the gun. </action>
+                    <balloon>
+                        <narration who="Morgan"> No. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="22">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Morgan holds his arms out to Rick to stop him from shooting the zombie. </action>
+                    <balloon>
+                        <narration who="Morgan"> Leave it be. it can't get to us in here.. you may need that bullet later. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts his gun away. </action>
+                    <balloon>
+                        <narration who="Rick"> Yeah.. you're right. We better get these cars out of here before it makes its way around to the gate.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and Morgan are getting into the patrol cars. </action>
+                    <balloon>
+                        <narration who="Morgan"> I'll see you around? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Of course.. we're neighbors. Keep an eye on my house for me.</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Morgan"> Will do. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the gate for Morgan and Duane to exit. Morgan drives out the gate. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick drives the patrol car out of the gate. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets out of the car and closes the gate behind him. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A zombie watches Rick drive off.</action>
+                    <balloon>
+                        <narration who="Zombie"> UHH. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="23">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick drives through the empty town.</action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick makes it to the highway. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stops the car and gets out. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks over to the side of the road. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie that Rick ran into by the bicycle is still laying in the same spot. </action>
+                    <balloon>
+                        <narration who="Zombie"> GAK! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="24">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    
+                    <action> Rick pulls his pistol out and shoots the zombie. </action>
+                   <sound> BLAM ! </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks down at the zombie. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie lays dead with a shot to the head. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick starts to cry. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick wipes away his tears. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks back to the car. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets into the car. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick drives away. </action>
+                    
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="25">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is driving down the highway at night.</action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick drives past a welcome to Georgia sign. </action>
+                 
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stops for gas, and its empty. </action>
+                    <balloon>
+                        <narration who="Rick"> God dammit!! Not again! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets into his patrol car and looks over to see a zombie in a car next to him. </action>
+                    <balloon>
+                        <narration who="Rick"> ... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues driving down the highway. </action>
+               
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="26">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stops his car and gets out. </action>
+                    <balloon>
+                        <narration who="Rick"> Damn it! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="27">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick grabs his gear out of the patrol car. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick starts walking leaving his car behind. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is farther into the ditance leaving his car behind. </action>
+                 
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sees a farm house in the ditance. </action>
+                 
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks at the farm house. </action>
+                    <balloon>
+                        <narration who="Rick"> Huh.. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick jumps over the fence heading his way towards the farm house. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is standing infront of the house. </action>
+                  
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="28">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick knocks on the door. </action>
+                   <sound> Knock! Knock! </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick calls out to see if anyone is home. </action>
+                    <balloon>
+                        <narration who="Rick"> Anybody home?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick turns the door knob to enter the house. </action>
+                    <balloon>
+                        <narration who="Rick"> I'm coming in... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick opens the door and steps in. </action>
+                    <balloon>
+                        <narration who="Rick"> I'm not here to hurt or rob you.. I just need some gasoline... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks into the house. </action>
+                    <balloon>
+                        <narration who="Rick"> Sniff.. Sniff </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is terrified. </action>
+                    <balloon>
+                        <narration who="Rick"> GAH! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick holds is hand to his mouth looking into a living room filled with a dead rotting family. </action>
+                  
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="29">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick runs for the door holding his mouth. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick makes it to the door and throws up. </action>
+                  <sound> HWAGG! </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick wipes his face. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks towards a locked barn. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick unlocked the barn and goes inside. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick sees a horse in the barn. </action>
+                    <balloon>
+                        <narration who="Rick"> Hello...</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="30">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks up to the horse and pets her. </action>
+                    <balloon>
+                        <narration who="Rick"> Hey, girl. they leave you in here all alone? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick grabs a saddle to put on the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> I sure could use your help... if you're interested. I'm trying to get to Atlanta. To see my wife and son. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts the saddle on the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> You ever been to Atlanta? It's not really that far away... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick see's an axe.</action>
+                    <balloon>
+                        <narration who="Rick"> You mind if I take this? I think it might come in handy... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets on the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> Your ready, girl? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick leaves the barn on the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> Let's go! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="31">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick rides the horse through a field. </action>
+                    <balloon>
+                        <narration who="Rick"> Slow down, girl! I know you've been in that barn for a while, but you're going to wear yourself out. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the horse jump over a fence. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick pulls back the reigns. </action>
+                    <balloon>
+                        <narration who="Rick"> Whoa!! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the horse find a road. </action>
+                    <balloon>
+                        <narration who="Rick"> That's better... I don't want you passing out before we get there. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick rides the horse down the road. </action>
+                    <balloon>
+                        <narration who="Rick"> So... you got a name? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="32">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is riding the horse and talking to her. </action>
+                    <balloon>
+                        <narration who="Rick"> Y'know... That's a good idea. Talking about the happiest day of my life will surely get my mind off all the messed up shit I've seen recently... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is reminiscing. </action>
+                    <balloon>
+                        <narration who="Rick"> i had just gone into work that morning. I was sitting at the station drinking my second cup of coffee for the day. Gilroy was telling me about the drunk they brought in the night before... then the call came. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is still talking to the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> It was my wife Lori, her water had broken not ten minutes after I left. I grabbed my coat and ran home to get her. Got Gilory to call Doc Stevens so he could meet us at the hospital. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is talking to the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> I got her to the hospital without a hitch. One of the only times I got to use the sirens on my car... It was a small town we lived in. I held her hand the whole time. there were some complications... and she had to get a cesarean. I was really worried... but everything went okay. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is talking to the horse.</action>
+                    <balloon>
+                        <narration who="Rick"> The first time I laid eyes on little Carl.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks off into the distance as he rides the horse. </action>
+                    <balloon>
+                        <narration who="Rick"> I -- </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is holding back his tears. </action>
+                    <balloon>
+                        <narration who="Rick"> ... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is riding the horse down the road. </action>
+                    <balloon>
+                        <narration who="Rick"> Y'know... on second thought... thinking about the good times makes all this seem so much worse. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="33">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the horse arrive in Atlanta. </action>
+                    <balloon>
+                        <narration who="Rick"> Here we are... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick rides the horse into the city. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick passes by an alley. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A zombie laying against a building notices Rick. </action>
+                    <balloon>
+                        <narration who="Zombie"> RUH? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues riding the horse into the city surrounded by zombies. </action>
+                
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombies on the street are noticing Rick and the horse. </action>
+               
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="34">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick finds himself surrounded by zombies. </action>
+                    <balloon>
+                    <narration who="Rick"> Shit. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="35">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the horse are surrounded by zombies. </action>
+                    <balloon>
+                        <narration who="Rick"> C'mon, girl...let's get the hell out of here! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick realizes there is no way out. </action>
+                    <balloon>
+                        <narration who="Rick"> Shit. Shit. Shit. Shit. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombies close in on Rick and the horse. Making the horse buck Rick off. </action>
+                    <balloon>
+                        <narration who="Rick"> AAAHH! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick falls to the ground with zombies surrounding him. </action>
+                    <balloon>
+                        <narration who="Rick"> UFF! </narration>
+                    </balloon>
+                    <sound> THUMP! </sound>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="36">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombies attack the horse. </action>
+                    <balloon>
+                        <narration who="Zombie"> GUH. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The horse is being eaten by zombies. </action>
+                    <balloon>
+                        <narration who="Horse"> REEEARHHH! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick watches the horse being eaten and the notices a zombie notice him. </action>
+                    <balloon>
+                        <narration who="Zombie"> Ruh? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Oh, God. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A zombie grabs Rick as he is on the ground with his axe. </action>
+                    <balloon>
+                        <narration who="Rick"> Shit! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick swings the axe into the zombies head. </action>
+                    <sound> THONK! </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The zombie falls to the side of Rick. </action>
+                    <balloon>
+                        <narration who="Rick"> UGH. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stands up and grabs his axe out of the head of the zombie. </action>
+                    <sound> SHUKK! </sound>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="37">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick stands up and is surrounded by hundreds of zombies. </action>
+                    <balloon>
+                        <narration who="Rick"> Son of a bitch... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> The zombies are tearing a person apart. </action>
+            
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick is outraged. </action>
+            <balloon>
+                <narration who="Rick"> Bastards!! What the hell is wrong with you?! </narration>
+            </balloon>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick starts shooting the zombies. </action>
+           <sound> BLAM! </sound>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick shots a zombie in the head. </action>
+            <sound> BLAM! </sound>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick shoots another zombie in the head. </action>
+           <sound> BLAM! </sound>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick shoots another zombie in the head. </action>
+           <sound> BLAM! </sound>
+        </panel-desc>
+    </panel>
+    <page num="38">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick takes an axe and cuts off a zombies head. </action>
+                  <sound> Thunk!</sound>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Rick finds an alley and makes a run for it. </action>
+            
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> Someone grabed Ricks shoulder. </action>
+            <balloon>
+                <narration who="Rick"> AAUGH! </narration>
+            </balloon>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> A man holds Rick to the side. </action>
+            <balloon>
+                <narration who="Glenn"> I can get you out of here. Follow me. </narration>
+            </balloon>
+        </panel-desc>
+    </panel>
+    <panel>
+        <url>
+            https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+        <panel-desc>
+            <action> The man runs ahead of Rick down an alley. </action>
+            <balloon>
+                <narration who="Glenn"> And stop using that gun! You'll have the whole city on us! </narration>
+            </balloon>
+        </panel-desc>
+    </panel>
+    <page num="39">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man look behind them and see zombies are following. </action>
+                    <balloon>
+                        <narration who="Glenn"> Don't worry about them. We'll be long gone before they get down here. Stay there. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man pulls down an escape ladder. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man is pulling the ladder down. Rick is watching the zombies move toward them. </action>
+                    <balloon>
+                        <narration who="Glenn"> Got it on the first try... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man starts to climb the ladder while Rick watches. </action>
+                    <balloon>
+                        <narration who="Glenn"> C'mon man. I'm trying to save your life here! What're you waiting on?! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man start climbing up the ladder. </action>
+                    <balloon>
+                        <narration who="Rick"> Sorry... ... It's just ... I've never seen so many of them. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="40">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man is climbing on the roof. </action>
+                    <balloon>
+                        <narration who="Glenn"> Then you're a lucky man... That's nothing down there... had you gotten fifty more feet into the city before they attacked.. you would not be here right now. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man helps Rick off the ladder and onto the roof. </action>
+                    <balloon>
+                        <narration who="Rick"> What? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man starts to run but Rick just stands there. </action>
+                    <balloon>
+                        <narration who="Glenn"> C'mon we must hurry! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick holds his hand out. </action>
+                    <balloon>
+                        <narration who="Rick"> Wait! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man jumps to the next building. </action>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks over the side of the building scared. </action>
+                    <balloon>
+                        <narration who="Rick"> No. No way in hell. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man look at each other ontop of the buildings. </action>
+                    <balloon>
+                        <narration who="Glenn"> You're going to have to. Listen.. It's easy... I do it all the time. When we climb down this building those things will still be waiting for us at the bottom of that building. And there's no way out of that one. All these buildings are filled with zombies. Trust me. </narration>
+                    </balloon>
+                   
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick gets ready to jump. </action>
+                    <balloon>
+                        <narration who="Rick"> God damn it. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="41">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick jumps to the other building. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick lands short and grabs the side of the building. </action>
+                    <balloon>
+                        <narration who="Rick"> OOF! </narration>
+                    </balloon>
+                    <sound> FWUMP! </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man grabs Rick and helps him onto the building. </action>
+                    <balloon>
+                        <narration who="Glenn"> Jesus man! You should have thrown the duffle bag over first! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick adjusting his hat. </action>
+                    <balloon>
+                        <narration who="Rick"> Now you tell me. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick follows the man across the roof top. </action>
+                    <balloon>
+                        <narration who="Glenn"> We've got to hurry before they spread out again. When we climb down this building, be ready to run. Don't worry, we don't have far to go.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man starts to climb down the ladder. </action>
+                    <balloon>
+                        <narration who="Glenn"> We're not in the clear yet... but this building is close to the woods at the edge of the city. We've got to run about a block before we get to them... and there's liable to be a few of those things on the way. As long as we keep moving, though... they shouldn't be able to surround us. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick follows the man down the ladder. </action>
+                    <balloon>
+                        <narration who="Glenn"> those things are slow as hell, so you should be able to maneuver around them. Don't use your gun.. and don't let them touch you. One bite and it's all over for you. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="42">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man and Rick make it to the end of the ladder. </action>
+                    <balloon>
+                        <narration who="Glenn"> This way. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man and Rick start running down the alley. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man slip through a wooden fence. </action>
+                    <balloon>
+                        <narration who="Glenn"> From this point on is where we need to be careful. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Gotcha. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick slips through the wooden panels and the man is standing infront of a warehouse. </action>
+                    <balloon>
+                        <narration who="Glenn"> It's not far, now. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the Man run inbetween the warehouses. </action>
+                  
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> While running they go by a zombie that's leaning on the wall. </action>
+                    <balloon>
+                        <narration who="Glenn"> Heads up! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the guy continue running. </action>
+                    <balloon>
+                        <narration who="Rick"> I didn't even see it! </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Glenn"> You're going to have to keep your eyes open, man. Where've you been for the past month?</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Coma. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="43">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man are running through the woods. </action>
+                    <balloon>
+                        <narration who="Glenn"> Seriously? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is running. </action>
+                    <balloon>
+                        <narration who="Rick"> Yeah... I woke up in the hospital yesterday.. I... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts his hand on the mans shoulder. </action>
+                    <balloon>
+                        <narration who="Rick"> Can we stop here? Is it safe? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Glenn"> For a minute. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks at the man. </action>
+                    <balloon>
+                        <narration who="Rick"> What you said about the city earlier.. How dangerous it is. Where are all the people that were there? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man looks concerned. </action>
+                    <balloon>
+                        <narration who="Glenn"> That... That was them trying to eat us back there. You can't go into the cities anymore.. Everyone that was there is dead. The government tried to herd everyone into the cities so we'd be easier to protect. All that did was put all the food in one place. Every time one of those things kills one of us we become one of them. It took a week for just about everyone in the city to be killed. After that... We don't know. Nobody can get in or out. Did you have family in there? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="44">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick falls to his knees. </action>
+                    <balloon>
+                        <narration who="Rick"> My wife... my son... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man tries to comfort Rick. </action>
+                    <balloon>
+                        <narration who="Glenn"> I'm sorry, man.. I hate for you to have to hear it this way. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick is crying and wiping away his tears. </action>
+                    <balloon>
+                        <narration who="Rick"> We... we're from Kentucky... but when I was told people were ordered to larger cities I figured my wife would have taken my son to her parents place.. here in Atlanta. They may not have come.. but I don't know where else they'd be. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man offers Rick his hand to help him up. </action>
+                    <balloon>
+                        <narration who="Glenn"> Don't give up hope, man... I've seen all kinds of people that have survived some crazy shit. We've got a guy at the camp that actually made it out of Atlanta.. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick wipes his tears away. </action>
+                    <balloon>
+                        <narration who="Rick"> Did you say... camp? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man start walking. </action>
+                    <balloon>
+                        <narration who="Glenn"> Yeah... That's where we're headed. They're more people there. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="45">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man are standing in a big field. </action>
+                    <balloon>
+                        <narration who="Glenn"> We're almost there, c'mon. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man continue walking. </action>
+                    <balloon>
+                        <narration who="Glenn"> We're mostly latecomers, people that tried to get into Atlanta too late.. like you. We couldn't get in, so we set up camp here. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick continues to walk with the man. </action>
+                    <balloon>
+                        <narration who="Rick"> So you're just camping out here? Is that safe? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> The man responds to Ricks question. </action>
+                    <balloon>
+                        <narration who="Glenn"> Yeah... we've got some cars for shelter.. and we all take turns keeping watch at night. We figure if we stick close to the city they'll be able to find us when the government sorts all this mess out. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and the man walk up to the camp </action>
+                    <balloon>
+                        <narration who="Glenn"> Here we are. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks super suprised. </action>
+                    <balloon>
+                        <narration who="Rick"> Holy shit. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="46">
+        <div type="panelGrp">
+            
+        </div>
+    </page>
 </root>
