@@ -14,7 +14,7 @@
     <person>
         <firstname> Tyler </firstname>
         <lastname> Dollard</lastname>
-        <email> </email>
+        <email> tcd5275@psu.edu </email>
     </person>
     <addDate> 2023-06-03 </addDate>
     <title> Chapter One: Days Gone By </title>
@@ -3254,7 +3254,495 @@
     </page>
     <page num="54">
         <div type="panelGrp">
-         
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick walks into the camper and Dale is there. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks suprised. </action>
+                    <balloon>
+                        <narration who="Rick"> Oh, Hey! </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Dale and Rick are talking. </action>
+                    <balloon>
+                        <narration who="Rick"> I didn't see you there, man... you almost scared me to death. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Dale"> So you're Lori's husband huh?</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Yeah. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Dale is talking to Rick.  </action>
+                    <balloon>
+                        <narration who="Dale"> I don't want to stir nothing up... and you gotta understand this has nothing to do with your wife. She did nothing but talk about you while you were gone... she worried about you. She felt bad about leaving you. But that Shane... he's a good man... he helps out a lot around here... he took care of your wife.. but he's not glad you're back. he's had his eye on Lori for as long as I've known them. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts his hand on Dale's shoulder. </action>
+                    <balloon>
+                        <narration who="Rick"> I appreciate the advice, but Shane is my friend. he was just keeping her safe. I don't have anything to worry about. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick turns to leave the RV and on his way out Dale say's something to him. </action>
+                    <balloon>
+                        <narration who="Dale"> I woulnd't trust him around my wife...</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> I'll keep that in mind. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="55">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick leaves the RV holding clothes.. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori and Shane are laughing with each other.  </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick contemplates. </action>
+                    <balloon>
+                        <narration who="Rick"> Crazy old man... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane stops talking to Lori and looks over to Rick.  </action>
+                    <balloon>
+                        <narration who="Shane"> You ready? We should get going if we're going to find anything. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> I'm ready when you are. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick hands Lori his clothes. </action>
+                    <balloon>
+                        <narration who="Lori"> I'll take those hon. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Scrub 'em really good... they're a bit funky.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane hands Rick a shot gun. </action>
+                    <balloon>
+                        <narration who="Lori"> Uh-huh... Don't you have some animals to try and shoot? </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> That's the plan..love you.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick puts his cowboy hat on and turns to leave with Shane.  </action>
+                    <balloon>
+                        <narration who="Lori"> I lov eyou too. Be careful. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="56">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori watches Rick and Shane leave. </action>
+                 
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori sees Carl with a bucket. </action>
+                    <balloon>
+                        <narration who="Lori"> CARL! Where are you going? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Carl is holding a small shovel and pointing behind him. </action>
+                    <balloon>
+                        <narration who="Carl"> Over by Sophia's car... we're going to play in the dirt. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori grabs Carl by the chin. </action>
+                    <balloon>
+                        <narration who="Lori"> Alright, i'm going to go wash our clothes with Donna and Carol. you make sure you and Sophia keep an eye on Allen. if he tells you to get in the RV, you do it! </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Carl"> Okay, momma.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Donna and Carol talk to Lori. Amy and Andrea are in the back ground standing with the twins. </action>
+                    <balloon>
+                        <narration who="Donna"> Don't worry. Amy and Andrea are going to watch the kids. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Carol"> Anything to get out of laundry duty.</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Amy"> You're damn right!</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Donna turns to Amy angry. </action>
+                    <balloon>
+                        <narration who="Donna"> Not in front of the kids. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Amy"> Oh, bite me.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Amy and Andrea watch Lori and Donna leave to wash the clothes. </action>
+                    <balloon>
+                        <narration who="Amy"> Stay safe. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Lori"> Always. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="57">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Donna, Carol and Lori walk away from the camp. </action>
+                    <balloon>
+                        <narration who="Carol"> I can't wait to see how these things smell with the new detergent Glenn got from the city! </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Lori"> That stuff Dale had in the RV just wasn't working. It made the clothes smell better.. but not by much.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Donna is carrying a laundry bag on her back. </action>
+                    <balloon>
+                        <narration who="Donna"> Jesus christ, will you listen to yourselves?! You're excited about trying out a new detergent?! This is such bullshit. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori looks at Donna. </action>
+                    <balloon>
+                        <narration who="Rick"> Damn, Donna. We're not throwing a party. i'm just looking forward to the possibility of clean smelling clothes. that'd be a welcome change at this point. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Donna is frustrated while talking to Lori. </action>
+                    <balloon>
+                        <narration who="Donna"> I just don't understand why we're the ones doing laundry while they go off and hunt. when things get back to normal I wonder if we'll still be allowed to vote. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who='Lori'> Are you serious? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori talks back to Donna. </action>
+                    <balloon>
+                        <narration who="Lori"> I don't know about you but I can't shoot a gun... I've never even tried. To be honest... I wouldn't trust any of those guys to wash my clothes. Rick couldn't do it with a washing machine.. he'd be lost out here.  </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Lori, Donna and Carol make it to the creek. </action>
+                    <balloon>
+                        <narration who="Lori"> This isn't about women's rights.. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Donna"> Whatever. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Lori"> It' about being realistic and doing what needs to be done.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="58">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Sophia and Carrl play in the dirt while Amy and Andrea are watching them. </action>
+                    <balloon>
+                        <narration who="Sophia"> You think my daddy will come back too? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Carl puts dirt into a bucket. </action>
+                    <balloon>
+                        <narration who="Carl"> Ain't your daddy dead? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Sophia is making a castle in the dirt. </action>
+                    <balloon>
+                        <narration who="Sophia"> Yeah, but so was your daddy and he came back. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Carl looks up at Sophia. </action>
+                    <balloon>
+                        <narration who="Carl"> My dady was just sick. we had to leave him in the hospital back home so he could get better. He wasn't dead. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Carl and Sophia continue to play. </action>
+                    <balloon>
+                        <narration who="Sophia"> oh... I miss my daddy.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="59">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane and Rick are in the woods hunting. </action>
+                    <balloon>
+                        <narration who="Shane"> I thought I'd take Lori and Carl down here to her parents and come back. I thought this thing would be over in a week. I didn't want to explain stolen guns to the captain when I got back. </narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Rick"> Well.. if you had seen the place the way I did.. you wouldn't have been so worried about the rules. I don't think it'll ever be the same again.</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Shane"> Don't say that man.. this won't last.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks back at Shane. </action>
+                    <balloon>
+                        <narration who="Rick"> i don't know, man... it looked bad.</narration>
+                    </balloon>
+                    <balloon>
+                        <narration who="Shane"> Well... I'm glad you brought these guns.</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick and Shane looks for animals. </action>
+                    <balloon>
+                        <narration who="Shane"> We just had Dale's rifle and my side arm. Someone had to keep watch with the rifle at all times.. and it's hard as hell to hunt with a pistol. Just about all we've had to eat was canned goods Glenn brought back from the city. </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Rick looks back at Shane. </action>
+                    <balloon>
+                        <narration who="Rick"> Man... what's up with that guy? Risking his life every day to get toilet paper and candy bars? I mean... it's a great help, and he did save my life, but damn... </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane and Rick continue to talk. </action>
+                    <balloon>
+                        <narration who="Shane"> I have no idea... he seems to know how to get in and get out before they gang up on him. It's-- </narration>
+                    </balloon>
+                    <sound> Rustle Rustle </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane tells Rick to be quiet. </action>
+                   
+                </panel-desc>
+            </panel>
+        </div>
+    </page>
+    <page num="60">
+        <div type="panelGrp">
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> A zombie is eating a deer. </action>
+                    <sound> CHOMP </sound>
+                    <balloon>
+                        <narration who="Zombie"> GUH. </narration>
+                    </balloon>
+                    <sound> SLURP </sound>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane and Rick look suprised to see the zombie. </action>
+                    
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane and Rick watch the zombie eat the deer. </action>
+                    <balloon>
+                        <narration who="Rick"> It doesn't even know we're here..., </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane is looking at the deer. </action>
+                    <balloon>
+                        <narration who="Shane"> Do you think we should get the deer away from it?</narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
+            <panel>
+                <url>
+                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                <panel-desc>
+                    <action> Shane and Rick are still watching the zombie eat the deer. </action>
+                    <balloon>
+                        <narration who="Shane"> Do you think it's be safe to eat? </narration>
+                    </balloon>
+                </panel-desc>
+            </panel>
         </div>
     </page>
 </root>
