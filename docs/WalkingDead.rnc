@@ -1,30 +1,21 @@
-start = html 
-html = element html { head, body }
-head = element head {title, meta+, link*}
+
+start = root
+root = element root { title, person+, addDate, char, page+ }
 title = element title {text}
-meta = element meta {charset?, name?, content?}
-charset = attribute charset {text}
-name = attribute name {text}
-content = attribute content {text}
-link = element link {rel?, type?, href}
-rel = attribute rel {text}
+person = element person {mixed{firstname, lastname, email}}
+firstname = element firstname {text}
+lastname = element lastname {text}
+email = element email {text}
+addDate = element addDate {text}
+char = element char {text}
+page = element page {text, num, panel+}
+num = attribute num {text}
 type = attribute type {text}
-href = attribute href {text}
-body = element body {header, p}
-header = element header {img, ul}
-img = element img {src, alt, style}
-src = attribute src {text}
-alt = attribute alt {text}
-style = attribute style {text} 
-ul = element ul {class, li+}
-class = attribute class {text}
-li = element li {class?, a}
-a = element a {href, text}
-p = element p {class, text}
-
-
-
-
-
-
-
+panel = element panel {url, panelDesc}
+url = element url {text}
+panelDesc = element panelDesc {mixed{sound*, action?, balloon*, sound*}}
+sound = element sound {text}
+action = element action {text}
+balloon = element balloon {narration}
+narration = element narration {who, text}
+who = attribute who {text}
