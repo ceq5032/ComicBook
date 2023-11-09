@@ -1,8 +1,17 @@
 
 start = root
-root = element root { title, person+, addDate, char, page+ }
+root = element root {metadata, comic}
+metadata = element metadata {title, digitalEdition, source}
+digitalEdition = element digitalEdition {about, editor+}
+
+source = element source {digital, print}
+
+
+comic = element comic {(title | page)+}
+
+# { title, person+, addDate, char, page+ }
 title = element title {text}
-person = element person {mixed{firstname, lastname, email}}
+editor = element editor {mixed{firstname, lastname, email}}
 firstname = element firstname {text}
 lastname = element lastname {text}
 email = element email {text}
