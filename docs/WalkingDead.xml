@@ -3,7 +3,7 @@
         <title> The Walking Dead Compendium V01, Chapter 1. </title>
 
         <digitalEdition>
-            <about>Prepared in <date>Fall 2023</date> as a digital edition at <url/>, and published
+            <about>Prepared in Fall <date>2023</date> as a digital edition at <url/>, and published
                 at <url/>. </about>
             <editor>
                 <firstname> Chelsea </firstname>
@@ -22,10 +22,13 @@
             </editor>
         </digitalEdition>
         <source>
-            <digital>Prepared on the Internet Archive at <url/> on <date>2023-06-03</date></digital>
+            <digital>
+                
+                <about>Prepared on the Internet Archive at <url><!--What's my URL? --></url> on <date>2023-06-03</date></about>
+            </digital>
 
             <print>
-                <!-- What do you know about the original writers and illustrators -->
+             
 
 
                 <author><!-- Who wrote the comic originally for print? --></author>
@@ -39,7 +42,7 @@
 
     </metadata>
     <comic>
-        <char> Chapter One: Days Gone By </char>
+        <title> Chapter One: Days Gone By </title>
         <page num="1">
             <!-- <div type="panelGrp"> -->
             <panel>
@@ -49,7 +52,7 @@
                     <action> Rick and Shane are hiding behind a police car to avoid an active
                         shooter. </action>
                     
-                        <ballon who="Rick"> This is not good. </ballon>
+                        <balloon who="Rick"> This is not good. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -60,12 +63,12 @@
                     <sound> Boom </sound>
                     <action> Rick and Shane are leaning on a cop car and talking. </action>
                     
-                        <ballon who="Shane"> I don't think he is from around here. </ballon>
+                        <balloon who="Shane"> I don't think he is from around here. </balloon>
                     
                     
-                        <ballon who="Rick"> I think that's a safe bet. When they opened that
+                        <balloon who="Rick"> I think that's a safe bet. When they opened that
                             prison in grant county I didn't think we'd be getting their run-off!
-                        </ballon>
+                        </balloon>
                     
                     <sound> Spak </sound>
                 </panelDesc>
@@ -76,7 +79,7 @@
                 <panelDesc>
                     <action> The active shooter is holding a gun. </action>
                     
-                        <ballon who="Shooter"> I'm ain't goin' back! I'll die first! </ballon>
+                        <balloon who="Shooter"> I'm ain't goin' back! I'll die first! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -86,9 +89,9 @@
                 <panelDesc>
                     <action> Rick and Shane are leaning on a cop car and talking. </action>
                     
-                        <ballon who="Rick"> DAMMIT! Our back-up is probably more than ten miles
+                        <balloon who="Rick"> DAMMIT! Our back-up is probably more than ten miles
                             away! We're sitting ducks behind this car... Cover me.. I'm going to try
-                            and make it to that ditch so we can surround him. </ballon>
+                            and make it to that ditch so we can surround him. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -107,7 +110,7 @@
                     <action> Shane is holding his hand that was shot and he see's rick being shot in
                         the chest by the shooter. </action>
                     
-                        <ballon who="Shane"> RICK!! </ballon>
+                        <balloon who="Shane"> RICK!! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -123,7 +126,7 @@
                 <panelDesc>
                     <action> Rick is laying in a hospital bed and just woke up </action>
                     
-                        <ballon who="Rick"> GASP! </ballon>
+                        <balloon who="Rick"> GASP! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -165,7 +168,7 @@
                 <panelDesc>
                     <action> Rick looks up from the ground and looks for the nurse.</action>
                     
-                        <ballon who="Rick"> NURSE!! </ballon>
+                        <balloon who="Rick"> NURSE!! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -210,7 +213,7 @@
                 <panelDesc>
                     <action> Rick is standing the door way of hospital room 251. </action>
                     
-                        <ballon who="Rick"> Hello? </ballon>
+                        <balloon who="Rick"> Hello? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -220,7 +223,7 @@
                 <panelDesc>
                     <action> Rick starts his way down the hall way. Its empty. </action>
                     
-                        <ballon who="Rick"> Hello?! Anybody?! </ballon>
+                        <balloon who="Rick"> Hello?! Anybody?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -230,8 +233,8 @@
                 <panelDesc>
                     <action> Rick is at the information desk in the hospital. </action>
                     
-                        <ballon who="Rick"> What the hell?! Did everyone just decide to take a
-                            break at the same time?! </ballon>
+                        <balloon who="Rick"> What the hell?! Did everyone just decide to take a
+                            break at the same time?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -272,7 +275,7 @@
                     <sound> FWUMP!</sound>
                     <action> The elevator door opens and a zo,bie falls into the elevator. </action>
                     
-                        <ballon who="Rick"> AHH! </ballon>
+                        <balloon who="Rick"> AHH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -286,7 +289,7 @@
                 <panelDesc>
                     <action> Rick is standing over the zombie scared.</action>
                     
-                        <ballon who="Rick"> Help!! </ballon>
+                        <balloon who="Rick"> Help!! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -296,7 +299,7 @@
                 <panelDesc>
                     <action> Rick jumps over the zombie and out of the elevator. </action>
                     
-                        <ballon who="Rick"> Somebody Help!! </ballon>
+                        <balloon who="Rick"> Somebody Help!! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -306,7 +309,7 @@
                 <panelDesc>
                     <action> Rick coninues his way down the hospital hall. </action>
                     
-                        <ballon who="Rick"> Anybody? </ballon>
+                        <balloon who="Rick"> Anybody? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -323,7 +326,7 @@
                 <panelDesc>
                     <action> Rick sees a double door and its blocked with a board. </action>
                     
-                        <ballon who="Rick"> What the Hell? </ballon>
+                        <balloon who="Rick"> What the Hell? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -333,7 +336,7 @@
                 <panelDesc>
                     <action> Rick removed the wooden board. </action>
                     
-                        <ballon who="Rick"> What happened here? </ballon>
+                        <balloon who="Rick"> What happened here? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -354,7 +357,7 @@
                 <panelDesc>
                     <action> Rick opens the door to a room filled with over 20 zombies. </action>
                     
-                        <ballon who="Zombie"> UUNGH. </ballon>
+                        <balloon who="Zombie"> UUNGH. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -368,7 +371,7 @@
                 <panelDesc>
                     <action> Rick is scared and moving away from the zombie at the door. </action>
                     
-                        <ballon who="Rick"> Uh. Uh. Uh. </ballon>
+                        <balloon who="Rick"> Uh. Uh. Uh. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -380,7 +383,7 @@
                     <action> Rick falls to the ground as hes backing away from the zombies. They are
                         startig there way towards them. </action>
                     
-                        <ballon who="Zombie"> UFF! </ballon>
+                        <balloon who="Zombie"> UFF! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -390,7 +393,7 @@
                 <panelDesc>
                     <action> Rick is on the floor moving away from the zombie. </action>
                     
-                        <ballon who="Rick"> STOP! Get away from me ! </ballon>
+                        <balloon who="Rick"> STOP! Get away from me ! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -400,7 +403,7 @@
                 <panelDesc>
                     <action> The zombie grabs rick by the shirt has he tries to exit the hospital. </action>
                     
-                        <ballon who="Rick"> Cant you understand?! </ballon>
+                        <balloon who="Rick"> Cant you understand?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -412,7 +415,7 @@
                     <action> The zombie pushes Rick out of the door and they are falling to the
                         ground. </action>
                     
-                        <ballon who="Rick"> PLEASE! </ballon>
+                        <balloon who="Rick"> PLEASE! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -444,7 +447,7 @@
                     <sound> WHUMP! </sound>
                     <action> Rick falls onto the zombie at the end of the stairs. </action>
                     
-                        <ballon who="Rick"> OOF! </ballon>
+                        <balloon who="Rick"> OOF! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -469,7 +472,7 @@
                 <panelDesc>
                     <action> Rick gopes through the door and closes it shut with his belt. </action>
                     
-                        <ballon who="Rick"> What the hell was all that? </ballon>
+                        <balloon who="Rick"> What the hell was all that? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -480,7 +483,7 @@
                     <action> Rick is standing in an almost empty parking structure and there is one
                         car. </action>
                     
-                        <ballon who="Rick"> ... </ballon>
+                        <balloon who="Rick"> ... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -490,7 +493,7 @@
                 <panelDesc>
                     <action> Rick tries to open the car door. </action>
                     
-                        <ballon who="Rick"> Damn. </ballon>
+                        <balloon who="Rick"> Damn. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -526,7 +529,7 @@
                     <action> Rick comes across a wrecked car and there is a dead body hanging out of
                         it. </action>
                     
-                        <ballon who="Rick"> Jesus.. </ballon>
+                        <balloon who="Rick"> Jesus.. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -550,7 +553,7 @@
                 <panelDesc>
                     <action> Rick looks horrified by what he sees. </action>
                     
-                        <ballon who="Rick"> GASP! </ballon>
+                        <balloon who="Rick"> GASP! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -564,7 +567,7 @@
                 <panelDesc>
                     <action> A deteriated zombie is laying by the bike. </action>
                     
-                        <ballon who="Zombie"> GUK...GLAKK. </ballon>
+                        <balloon who="Zombie"> GUK...GLAKK. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -581,7 +584,7 @@
                 <panelDesc>
                     <action> The zombie sees rick and is looking at him. </action>
                     
-                        <ballon who="Zombie"> GUK. </ballon>
+                        <balloon who="Zombie"> GUK. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -598,7 +601,7 @@
                 <panelDesc>
                     <action> The zombie lays there on the ground with its mouth open. </action>
                     
-                        <ballon who="Zombie"> GUH. </ballon>
+                        <balloon who="Zombie"> GUH. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -615,7 +618,7 @@
                 <panelDesc>
                     <action> The zombie lays on the ground looking at Rick. </action>
                     
-                        <ballon who="Zombie"> GAR. </ballon>
+                        <balloon who="Zombie"> GAR. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -636,7 +639,7 @@
                 <panelDesc>
                     <action> Rick falls to his knees dropping the bike. </action>
                     
-                        <ballon who="Rick"> Oh God... </ballon>
+                        <balloon who="Rick"> Oh God... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -661,7 +664,7 @@
                 <panelDesc>
                     <action> Rick stands up and is looking at the bike. </action>
                     
-                        <ballon who="Rick"> ... </ballon>
+                        <balloon who="Rick"> ... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -725,7 +728,7 @@
                 <panelDesc>
                     <action> Rick gets closer to the front door. </action>
                     
-                        <ballon who="Rick"> Son of a bitch. </ballon>
+                        <balloon who="Rick"> Son of a bitch. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -782,7 +785,7 @@
                 <panelDesc>
                     <action> Rick leans on the railing of the porch. </action>
                     
-                        <ballon who="Rick"> Nothing. </ballon>
+                        <balloon who="Rick"> Nothing. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -825,7 +828,7 @@
                 <panelDesc>
                     <action> A young boy is standing above rick holding a shovel. </action>
                     
-                        <ballon who="Duane"> Dad! </ballon>
+                        <balloon who="Duane"> Dad! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -835,10 +838,10 @@
                 <panelDesc>
                     <action> The father and son are standing above Rick. </action>
                     
-                        <ballon who="Morgan"> Jesus, Shit! Son.. What did you do? </ballon>
+                        <balloon who="Morgan"> Jesus, Shit! Son.. What did you do? </balloon>
                     
                     
-                        <ballon who="Duane"> He was going to try to eat us, Dad.</ballon>
+                        <balloon who="Duane"> He was going to try to eat us, Dad.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -848,13 +851,13 @@
                 <panelDesc>
                     <action> The father and son are standing above rick. </action>
                     
-                        <ballon who="Morgan"> No, son..This man is alive.</ballon>
+                        <balloon who="Morgan"> No, son..This man is alive.</balloon>
                     
                     
-                        <ballon who="Duane"> Oh. </ballon>
+                        <balloon who="Duane"> Oh. </balloon>
                     
                     
-                        <ballon who="Morgan"> Grab his feet.. Help me get him inside.</ballon>
+                        <balloon who="Morgan"> Grab his feet.. Help me get him inside.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -868,7 +871,7 @@
                 <panelDesc>
                     <action> Rick wakes up on a couch. </action>
                     
-                        <ballon who="Rick"> Huh! </ballon>
+                        <balloon who="Rick"> Huh! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -879,11 +882,11 @@
                     <action> The father and son are in the kitchen. Rick is sitting up looking at
                         them. </action>
                     
-                        <ballon who="Morgan"> Oh, You're awake. We're just getting ready to have
-                            dinner. Would you care to join us? </ballon>
+                        <balloon who="Morgan"> Oh, You're awake. We're just getting ready to have
+                            dinner. Would you care to join us? </balloon>
                     
                     
-                        <ballon who="Rick"> Wait, what the hell is going on here?!</ballon>
+                        <balloon who="Rick"> Wait, what the hell is going on here?!</balloon>
                     
                 </panelDesc>
             </panel>
@@ -893,15 +896,15 @@
                 <panelDesc>
                     <action> Rick, the father, and the son are sitting at the dining room table. </action>
                     
-                        <ballon who="Morgan"> Oh, sorry about my boy. He hit you over the head
-                            with a shovel. </ballon>
+                        <balloon who="Morgan"> Oh, sorry about my boy. He hit you over the head
+                            with a shovel. </balloon>
                     
                     
-                        <ballon who="Rick"> Huh? What are you talking about? </ballon>
+                        <balloon who="Rick"> Huh? What are you talking about? </balloon>
                     
                     
-                        <ballon who="Morgan"> He thought you were one of those
-                            things..</ballon>
+                        <balloon who="Morgan"> He thought you were one of those
+                            things..</balloon>
                     
                 </panelDesc>
             </panel>
@@ -911,8 +914,8 @@
                 <panelDesc>
                     <action> Rick is confused. </action>
                     
-                        <ballon who="Rick"> "Things?" You mean those monsters that are at the
-                            hospital?! Who are you people? What the hell is going on? </ballon>
+                        <balloon who="Rick"> "Things?" You mean those monsters that are at the
+                            hospital?! Who are you people? What the hell is going on? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -922,8 +925,8 @@
                 <panelDesc>
                     <action> The father is trying to calm Rick down. </action>
                     
-                        <ballon who="Morgan"> Whoa, whoa.. calm down there buddy. This was all
-                            just a misunderstanding. My boy didn't mean nothing. </ballon>
+                        <balloon who="Morgan"> Whoa, whoa.. calm down there buddy. This was all
+                            just a misunderstanding. My boy didn't mean nothing. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -933,7 +936,7 @@
                 <panelDesc>
                     <action> Rick is wanting answers. </action>
                     
-                        <ballon who="Rick"> How did it all happen? What went wrong? </ballon>
+                        <balloon who="Rick"> How did it all happen? What went wrong? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -943,8 +946,8 @@
                 <panelDesc>
                     <action> The father is confused that Rick doesnt know what has happened. </action>
                     
-                        <ballon who="Morgan"> What a minute. Hold up. Damn son.. You don't know
-                            about any of it? </ballon>
+                        <balloon who="Morgan"> What a minute. Hold up. Damn son.. You don't know
+                            about any of it? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -959,23 +962,23 @@
                     <action> Rick, the father and son are sittign infront of a fireplace. The son is
                         drawing on the floor. </action>
                     
-                        <ballon who="Rick"> I was shot... I woke up in the hospital and was
+                        <balloon who="Rick"> I was shot... I woke up in the hospital and was
                             atacked. i came home.. My wife and kid were gone.. The whole damn town
-                            was deserted. i didn't know what the hell was going on. </ballon>
+                            was deserted. i didn't know what the hell was going on. </balloon>
                     
                     
-                        <ballon who="Morgan"> All media shut down after a few weeks. I haven't
+                        <balloon who="Morgan"> All media shut down after a few weeks. I haven't
                             heard much of anything after that. It they found a way to stop it.. they
-                            haven't made it here yet. Those things are everywhere.</ballon>
+                            haven't made it here yet. Those things are everywhere.</balloon>
                     
                     
-                        <ballon who="Rick"> You say nobody knows what caused it? </ballon>
+                        <balloon who="Rick"> You say nobody knows what caused it? </balloon>
                     
                     
-                        <ballon who="Morgan"> A good blow to the head will take 'em out. That's
+                        <balloon who="Morgan"> A good blow to the head will take 'em out. That's
                             why the boy whacked you with our shovel. Nothing much else seems to faze
                             them. Anytime one wanders into the yard we take care of it. We try to
-                            keep quiet.. They'd come after us if they knew we was here.</ballon>
+                            keep quiet.. They'd come after us if they knew we was here.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -985,9 +988,9 @@
                 <panelDesc>
                     <action> The father looks worried. </action>
                     
-                        <ballon who="Morgan"> Before they stopped broadcasting they told us to
+                        <balloon who="Morgan"> Before they stopped broadcasting they told us to
                             relocate to the bigger cities. They said they could protect us all
-                            there. I figured i'd be better off taking my chances here. </ballon>
+                            there. I figured i'd be better off taking my chances here. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -997,9 +1000,9 @@
                 <panelDesc>
                     <action> Rick seems relieved. </action>
                     
-                        <ballon who="Rick"> My in-laws line in Atlanta..That's only a five-hour
+                        <balloon who="Rick"> My in-laws line in Atlanta..That's only a five-hour
                             drive from here. That's probably where my wife went. Thank god.. If
-                            they're protecting the cities.. Man, I was so worried. </ballon>
+                            they're protecting the cities.. Man, I was so worried. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1009,7 +1012,7 @@
                 <panelDesc>
                     <action> The father leans back in his chair. He seems suspicious. </action>
                     
-                        <ballon who="Morgan"> Oh, yeah.. I'm sure they're fine. </ballon>
+                        <balloon who="Morgan"> Oh, yeah.. I'm sure they're fine. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1019,8 +1022,8 @@
                 <panelDesc>
                     <action> Rick stands up holding a key. </action>
                     
-                        <ballon who="Rick"> Well.. I need a car if im going to Atlanta.. Want to
-                            go shopping? </ballon>
+                        <balloon who="Rick"> Well.. I need a car if im going to Atlanta.. Want to
+                            go shopping? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1035,15 +1038,15 @@
                     <action> Rick, the father, and the son are standing infront of the police
                         station. </action>
                     
-                        <ballon who="Morgan"> So, you're a cop, huh? </ballon>
+                        <balloon who="Morgan"> So, you're a cop, huh? </balloon>
                     
                     
-                        <ballon who="Rick"> Yep. </ballon>
+                        <balloon who="Rick"> Yep. </balloon>
                     
                     
-                        <ballon who="Morgan"> I figured you for a hunter, after you said you got
+                        <balloon who="Morgan"> I figured you for a hunter, after you said you got
                             shot and all. You being a cop.. You don't mind my boy and I taking
-                            residence in your neighbor's place do you?</ballon>
+                            residence in your neighbor's place do you?</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1053,10 +1056,10 @@
                 <panelDesc>
                     <action> Rick looks back at the father while putting the key in the door. </action>
                     
-                        <ballon who="Rick"> I'm not going to arrect you if that's what you mean.
+                        <balloon who="Rick"> I'm not going to arrect you if that's what you mean.
                             Most of the houses on my street had been looted. You seemed to be fixing
                             the place up. The Thompson's will probably thank you when they get back.
-                            As long as you don't put up a fight over the place. </ballon>
+                            As long as you don't put up a fight over the place. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1067,15 +1070,15 @@
                     <action> Rick and the father, and his son are standing in the entry of the
                         police station. </action>
                     
-                        <ballon who="Morgan"> It's not like we're stealing the place.. Your
+                        <balloon who="Morgan"> It's not like we're stealing the place.. Your
                             neighborhood just seemed safer. We don't figure that we're hurting
                             anybody by staying there.. and in my book that makes it okay.
-                        </ballon>
+                        </balloon>
                     
                     
-                        <ballon who="Rick"> You don't have to justify anything to me. You're
+                        <balloon who="Rick"> You don't have to justify anything to me. You're
                             keeping your son safe. I'm worried sick about mine. I
-                            understand.</ballon>
+                            understand.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1085,8 +1088,8 @@
                 <panelDesc>
                     <action> The father seems happy. </action>
                     
-                        <ballon who="Morgan"> I appreciate that y'know... I don't think I got
-                            your name? </ballon>
+                        <balloon who="Morgan"> I appreciate that y'know... I don't think I got
+                            your name? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1096,12 +1099,12 @@
                 <panelDesc>
                     <action> Rick and the father are shaking hands. </action>
                     
-                        <ballon who="Rick"> Rick.. officer Rick Grimes at your service. And you?
-                        </ballon>
+                        <balloon who="Rick"> Rick.. officer Rick Grimes at your service. And you?
+                        </balloon>
                     
                     
-                        <ballon who="Morgan"> Oh, Morgan Jones.. and this here is little
-                            Duane.</ballon>
+                        <balloon who="Morgan"> Oh, Morgan Jones.. and this here is little
+                            Duane.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1111,13 +1114,13 @@
                 <panelDesc>
                     <action> Rick and Morgan are looking around the police station. </action>
                     
-                        <ballon who="Rick"> You're a good man, Morgan. I really appreciate you
-                            driving me over here. you've helped me out a lot. </ballon>
+                        <balloon who="Rick"> You're a good man, Morgan. I really appreciate you
+                            driving me over here. you've helped me out a lot. </balloon>
                     
                     
-                        <ballon who="Morgan"> It's worth it just to get to talk to someone. If it
+                        <balloon who="Morgan"> It's worth it just to get to talk to someone. If it
                             ain't about cartoons or passing gas..My boy don't want to talk about
-                            it.</ballon>
+                            it.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1131,7 +1134,7 @@
                 <panelDesc>
                     <action> Rick does a half smile and laughs. </action>
                     
-                        <ballon who="Rick"> Heh. </ballon>
+                        <balloon who="Rick"> Heh. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1148,8 +1151,8 @@
                 <panelDesc>
                     <action> Rick looks guilty. </action>
                     
-                        <ballon who="Rick"> Damn. After everything I've seen today... I feel
-                            guil;ty for laughing. </ballon>
+                        <balloon who="Rick"> Damn. After everything I've seen today... I feel
+                            guil;ty for laughing. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1160,16 +1163,16 @@
                     <action> Rick is standing with Morgan and Duane infront of a computer desk. Rick
                         is holding a gun. </action>
                     
-                        <ballon who="Morgan"> Hey, man... It's okay. you've seen some crazy shit
+                        <balloon who="Morgan"> Hey, man... It's okay. you've seen some crazy shit
                             out there... We all have. You can't let it get to you. You just gotta
                             keep going. you can't stop to think about it.. or you'll go crazy.
-                        </ballon>
+                        </balloon>
                     
                     
-                        <ballon who="Rick"> Yeah... </ballon>
+                        <balloon who="Rick"> Yeah... </balloon>
                     
                     
-                        <ballon who="Morgan"> What's up with that?</ballon>
+                        <balloon who="Morgan"> What's up with that?</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1179,8 +1182,8 @@
                 <panelDesc>
                     <action> Rick is looks at his gun. Morgan and Duane watch him. </action>
                     
-                        <ballon who="Rick"> Oh, this? I figured I might as well bring a few
-                            along... just incase. Speaking of which.. Follow me. </ballon>
+                        <balloon who="Rick"> Oh, this? I figured I might as well bring a few
+                            along... just incase. Speaking of which.. Follow me. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1191,8 +1194,8 @@
                     <action> Rick is opening a locked door. Morgan and Duane are standing behind
                         him. </action>
                     
-                        <ballon who="Rick"> I just need to find the right key... here we
-                            are.</ballon>
+                        <balloon who="Rick"> I just need to find the right key... here we
+                            are.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1206,12 +1209,12 @@
                 <panelDesc>
                     <action> Rick opens and door to a gun vault. Morgan and duane walk in. </action>
                     
-                        <ballon who="Morgan"> Wow. </ballon>
+                        <balloon who="Morgan"> Wow. </balloon>
                     
                     
-                        <ballon who="Rick"> Grab a couple for yourself. if whacking those things
+                        <balloon who="Rick"> Grab a couple for yourself. if whacking those things
                             over the head with a shovel does them in.. I'm sure those things will
-                            work. Should save you some effort.</ballon>
+                            work. Should save you some effort.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1221,8 +1224,8 @@
                 <panelDesc>
                     <action> Rick is pointing out where the ammo is located. </action>
                     
-                        <ballon who="Rick"> The shells are in the cabinet below the gun rack.
-                            Make sure you save some for me. I'll be right back.</ballon>
+                        <balloon who="Rick"> The shells are in the cabinet below the gun rack.
+                            Make sure you save some for me. I'll be right back.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1232,10 +1235,10 @@
                 <panelDesc>
                     <action> Duane watches his father Morgan reach for a shot gun. </action>
                     
-                        <ballon who="Duane"> Can I--? </ballon>
+                        <balloon who="Duane"> Can I--? </balloon>
                     
                     
-                        <ballon who="Morgan"> No, dammit. Don't touch anything. </ballon>
+                        <balloon who="Morgan"> No, dammit. Don't touch anything. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1245,11 +1248,11 @@
                 <panelDesc>
                     <action> Morgan is holding two guns while Duane watches. </action>
                     
-                        <ballon who="Duane"> But I'm old enough. </ballon>
+                        <balloon who="Duane"> But I'm old enough. </balloon>
                     
                     
-                        <ballon who="Morgan"> Yes, you are.. and I'm gonna teach you how to use
-                            one of them tomorrow... but until then they're off limits.</ballon>
+                        <balloon who="Morgan"> Yes, you are.. and I'm gonna teach you how to use
+                            one of them tomorrow... but until then they're off limits.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1259,8 +1262,8 @@
                 <panelDesc>
                     <action> Rick walks back into the room and is dressed in his cop uniform. </action>
                     
-                        <ballon who="Rick"> Are there enough shells for both of us in there?
-                        </ballon>
+                        <balloon who="Rick"> Are there enough shells for both of us in there?
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1270,13 +1273,13 @@
                 <panelDesc>
                     <action> Rick walks towards Morgan. </action>
                     
-                        <ballon who="Morgan"> Well.. that getup certainly suits you. </ballon>
+                        <balloon who="Morgan"> Well.. that getup certainly suits you. </balloon>
                     
                     
-                        <ballon who="Rick"> I keep a spare uniform in my locker. I figured if I
+                        <balloon who="Rick"> I keep a spare uniform in my locker. I figured if I
                             was going into a big city, and they've got a ton of people holled up
                             there.. I could get around easier being a cop so I might as well look
-                            the part.</ballon>
+                            the part.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1286,8 +1289,8 @@
                 <panelDesc>
                     <action> Rick is smiling with a handful of guns and ammo. </action>
                     
-                        <ballon who="Rick"> Grab what you're getting and follow me out back. i
-                            got another suprise for you. </ballon>
+                        <balloon who="Rick"> Grab what you're getting and follow me out back. i
+                            got another suprise for you. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1302,13 +1305,13 @@
                     <action> Rick, Morgan and Duane exit the back of the police station into the
                         parking lot. There are patrol cars parked by the door. </action>
                     
-                        <ballon who="Rick"> You take that one of the left. It doesn't run as good
+                        <balloon who="Rick"> You take that one of the left. It doesn't run as good
                             as the one I'm taking but btter than that hatchback you're driving. If
                             I'm going to make it all the way to Atlanta I'm going to need the newer
-                            one. </ballon>
+                            one. </balloon>
                     
                     
-                        <ballon who="Morgan"> Wait... what? </ballon>
+                        <balloon who="Morgan"> Wait... what? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1318,11 +1321,11 @@
                 <panelDesc>
                     <action> Rick is holding his bag filled with guns and ammo on his back. </action>
                     
-                        <ballon who="Rick"> You'll be safer in one of these things if you need to
-                            go anywhere. </ballon>
+                        <balloon who="Rick"> You'll be safer in one of these things if you need to
+                            go anywhere. </balloon>
                     
                     
-                        <ballon who="Morgan"> But I... </ballon>
+                        <balloon who="Morgan"> But I... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1332,9 +1335,9 @@
                 <panelDesc>
                     <action> Rick is handing Morgan car keys. </action>
                     
-                        <ballon who="Rick"> Don't sweat it, man. I'm just doing my job. I can't
+                        <balloon who="Rick"> Don't sweat it, man. I'm just doing my job. I can't
                             think of a better way to "protect and serve" under the circumstances.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1344,9 +1347,9 @@
                 <panelDesc>
                     <action> Rick opens the door to his patrol car. Morgan and Duane watch. </action>
                     
-                        <ballon who="Rick"> When things get back to normal... You'll have to give
+                        <balloon who="Rick"> When things get back to normal... You'll have to give
                             it back.. So try not to bang it up or put too many miles on it.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1356,8 +1359,8 @@
                 <panelDesc>
                     <action> Morgan looks grateful. </action>
                     
-                        <ballon who="Morgan"> Thank you, Rick. I can't tell you how much this
-                            will help us. </ballon>
+                        <balloon who="Morgan"> Thank you, Rick. I can't tell you how much this
+                            will help us. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1367,7 +1370,7 @@
                 <panelDesc>
                     <action> Rick continues to put his stuff in the patrol car. </action>
                     
-                        <ballon who="Rick"> Look you've already helped-- </ballon>
+                        <balloon who="Rick"> Look you've already helped-- </balloon>
                     
                     <sound> CLINK.</sound>
                 </panelDesc>
@@ -1378,7 +1381,7 @@
                 <panelDesc>
                     <action> Rick looks up from the car. </action>
                     
-                        <ballon who="Rick"> What was that?! </ballon>
+                        <balloon who="Rick"> What was that?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1392,10 +1395,10 @@
                 <panelDesc>
                     <action> Rick, Morgan and Duane look to the chainlink fence. Theres a Zombie. </action>
                     
-                        <ballon who="Zombie"> UHH! UHH! UHH! </ballon>
+                        <balloon who="Zombie"> UHH! UHH! UHH! </balloon>
                     
                     
-                        <ballon who="Rick"> LOOK OUT! </ballon>
+                        <balloon who="Rick"> LOOK OUT! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1413,7 +1416,7 @@
                     <action> The zombie is leaning on the fence. It's face is smooshed against the
                         chain links. </action>
                     
-                        <ballon who="Zombie"> RUH! RUOALIAGH! </ballon>
+                        <balloon who="Zombie"> RUH! RUOALIAGH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1424,7 +1427,7 @@
                     <action> Rick draws his pistol ready to shoot the zombie. Morgan put's his hand
                         ontop of the gun. </action>
                     
-                        <ballon who="Morgan"> No. </ballon>
+                        <balloon who="Morgan"> No. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1438,8 +1441,8 @@
                 <panelDesc>
                     <action> Morgan holds his arms out to Rick to stop him from shooting the zombie. </action>
                     
-                        <ballon who="Morgan"> Leave it be. it can't get to us in here.. you may
-                            need that bullet later. </ballon>
+                        <balloon who="Morgan"> Leave it be. it can't get to us in here.. you may
+                            need that bullet later. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1449,8 +1452,8 @@
                 <panelDesc>
                     <action> Rick puts his gun away. </action>
                     
-                        <ballon who="Rick"> Yeah.. you're right. We better get these cars out of
-                            here before it makes its way around to the gate.</ballon>
+                        <balloon who="Rick"> Yeah.. you're right. We better get these cars out of
+                            here before it makes its way around to the gate.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1460,14 +1463,14 @@
                 <panelDesc>
                     <action> Rick and Morgan are getting into the patrol cars. </action>
                     
-                        <ballon who="Morgan"> I'll see you around? </ballon>
+                        <balloon who="Morgan"> I'll see you around? </balloon>
                     
                     
-                        <ballon who="Rick"> Of course.. we're neighbors. Keep an eye on my house
-                            for me.</ballon>
+                        <balloon who="Rick"> Of course.. we're neighbors. Keep an eye on my house
+                            for me.</balloon>
                     
                     
-                        <ballon who="Morgan"> Will do. </ballon>
+                        <balloon who="Morgan"> Will do. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1499,7 +1502,7 @@
                 <panelDesc>
                     <action> A zombie watches Rick drive off.</action>
                     
-                        <ballon who="Zombie"> UHH. </ballon>
+                        <balloon who="Zombie"> UHH. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1542,7 +1545,7 @@
                     <action> The zombie that Rick ran into by the bicycle is still laying in the
                         same spot. </action>
                     
-                        <ballon who="Zombie"> GAK! </ballon>
+                        <balloon who="Zombie"> GAK! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1631,7 +1634,7 @@
                 <panelDesc>
                     <action> Rick stops for gas, and its empty. </action>
                     
-                        <ballon who="Rick"> God dammit!! Not again! </ballon>
+                        <balloon who="Rick"> God dammit!! Not again! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1642,7 +1645,7 @@
                     <action> Rick gets into his patrol car and looks over to see a zombie in a car
                         next to him. </action>
                     
-                        <ballon who="Rick"> ... </ballon>
+                        <balloon who="Rick"> ... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1663,7 +1666,7 @@
                 <panelDesc>
                     <action> Rick stops his car and gets out. </action>
                     
-                        <ballon who="Rick"> Damn it! </ballon>
+                        <balloon who="Rick"> Damn it! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1705,7 +1708,7 @@
                 <panelDesc>
                     <action> Rick looks at the farm house. </action>
                     
-                        <ballon who="Rick"> Huh.. </ballon>
+                        <balloon who="Rick"> Huh.. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1742,7 +1745,7 @@
                 <panelDesc>
                     <action> Rick calls out to see if anyone is home. </action>
                     
-                        <ballon who="Rick"> Anybody home?! </ballon>
+                        <balloon who="Rick"> Anybody home?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1752,7 +1755,7 @@
                 <panelDesc>
                     <action> Rick turns the door knob to enter the house. </action>
                     
-                        <ballon who="Rick"> I'm coming in... </ballon>
+                        <balloon who="Rick"> I'm coming in... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1762,8 +1765,8 @@
                 <panelDesc>
                     <action> Rick opens the door and steps in. </action>
                     
-                        <ballon who="Rick"> I'm not here to hurt or rob you.. I just need some
-                            gasoline... </ballon>
+                        <balloon who="Rick"> I'm not here to hurt or rob you.. I just need some
+                            gasoline... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1773,7 +1776,7 @@
                 <panelDesc>
                     <action> Rick walks into the house. </action>
                     
-                        <ballon who="Rick"> Sniff.. Sniff </ballon>
+                        <balloon who="Rick"> Sniff.. Sniff </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1783,7 +1786,7 @@
                 <panelDesc>
                     <action> Rick is terrified. </action>
                     
-                        <ballon who="Rick"> GAH! </ballon>
+                        <balloon who="Rick"> GAH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1841,7 +1844,7 @@
                 <panelDesc>
                     <action> Rick sees a horse in the barn. </action>
                     
-                        <ballon who="Rick"> Hello...</ballon>
+                        <balloon who="Rick"> Hello...</balloon>
                     
                 </panelDesc>
             </panel>
@@ -1855,8 +1858,8 @@
                 <panelDesc>
                     <action> Rick walks up to the horse and pets her. </action>
                     
-                        <ballon who="Rick"> Hey, girl. they leave you in here all alone?
-                        </ballon>
+                        <balloon who="Rick"> Hey, girl. they leave you in here all alone?
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1866,8 +1869,8 @@
                 <panelDesc>
                     <action> Rick grabs a saddle to put on the horse. </action>
                     
-                        <ballon who="Rick"> I sure could use your help... if you're interested.
-                            I'm trying to get to Atlanta. To see my wife and son. </ballon>
+                        <balloon who="Rick"> I sure could use your help... if you're interested.
+                            I'm trying to get to Atlanta. To see my wife and son. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1877,8 +1880,8 @@
                 <panelDesc>
                     <action> Rick puts the saddle on the horse. </action>
                     
-                        <ballon who="Rick"> You ever been to Atlanta? It's not really that far
-                            away... </ballon>
+                        <balloon who="Rick"> You ever been to Atlanta? It's not really that far
+                            away... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1888,8 +1891,8 @@
                 <panelDesc>
                     <action> Rick see's an axe.</action>
                     
-                        <ballon who="Rick"> You mind if I take this? I think it might come in
-                            handy... </ballon>
+                        <balloon who="Rick"> You mind if I take this? I think it might come in
+                            handy... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1899,7 +1902,7 @@
                 <panelDesc>
                     <action> Rick gets on the horse. </action>
                     
-                        <ballon who="Rick"> Your ready, girl? </ballon>
+                        <balloon who="Rick"> Your ready, girl? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1909,7 +1912,7 @@
                 <panelDesc>
                     <action> Rick leaves the barn on the horse. </action>
                     
-                        <ballon who="Rick"> Let's go! </ballon>
+                        <balloon who="Rick"> Let's go! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1923,8 +1926,8 @@
                 <panelDesc>
                     <action> Rick rides the horse through a field. </action>
                     
-                        <ballon who="Rick"> Slow down, girl! I know you've been in that barn for
-                            a while, but you're going to wear yourself out. </ballon>
+                        <balloon who="Rick"> Slow down, girl! I know you've been in that barn for
+                            a while, but you're going to wear yourself out. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1941,7 +1944,7 @@
                 <panelDesc>
                     <action> Rick pulls back the reigns. </action>
                     
-                        <ballon who="Rick"> Whoa!! </ballon>
+                        <balloon who="Rick"> Whoa!! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1951,8 +1954,8 @@
                 <panelDesc>
                     <action> Rick and the horse find a road. </action>
                     
-                        <ballon who="Rick"> That's better... I don't want you passing out before
-                            we get there. </ballon>
+                        <balloon who="Rick"> That's better... I don't want you passing out before
+                            we get there. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1962,7 +1965,7 @@
                 <panelDesc>
                     <action> Rick rides the horse down the road. </action>
                     
-                        <ballon who="Rick"> So... you got a name? </ballon>
+                        <balloon who="Rick"> So... you got a name? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1976,9 +1979,9 @@
                 <panelDesc>
                     <action> Rick is riding the horse and talking to her. </action>
                     
-                        <ballon who="Rick"> Y'know... That's a good idea. Talking about the
+                        <balloon who="Rick"> Y'know... That's a good idea. Talking about the
                             happiest day of my life will surely get my mind off all the messed up
-                            shit I've seen recently... </ballon>
+                            shit I've seen recently... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -1988,10 +1991,10 @@
                 <panelDesc>
                     <action> Rick is reminiscing. </action>
                     
-                        <ballon who="Rick"> i had just gone into work that morning. I was sitting
+                        <balloon who="Rick"> i had just gone into work that morning. I was sitting
                             at the station drinking my second cup of coffee for the day. Gilroy was
                             telling me about the drunk they brought in the night before... then the
-                            call came. </ballon>
+                            call came. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2001,10 +2004,10 @@
                 <panelDesc>
                     <action> Rick is still talking to the horse. </action>
                     
-                        <ballon who="Rick"> It was my wife Lori, her water had broken not ten
+                        <balloon who="Rick"> It was my wife Lori, her water had broken not ten
                             minutes after I left. I grabbed my coat and ran home to get her. Got
                             Gilory to call Doc Stevens so he could meet us at the hospital.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2014,11 +2017,11 @@
                 <panelDesc>
                     <action> Rick is talking to the horse. </action>
                     
-                        <ballon who="Rick"> I got her to the hospital without a hitch. One of the
+                        <balloon who="Rick"> I got her to the hospital without a hitch. One of the
                             only times I got to use the sirens on my car... It was a small town we
                             lived in. I held her hand the whole time. there were some
                             complications... and she had to get a cesarean. I was really worried...
-                            but everything went okay. </ballon>
+                            but everything went okay. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2028,8 +2031,8 @@
                 <panelDesc>
                     <action> Rick is talking to the horse.</action>
                     
-                        <ballon who="Rick"> The first time I laid eyes on little
-                            Carl.</ballon>
+                        <balloon who="Rick"> The first time I laid eyes on little
+                            Carl.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -2039,7 +2042,7 @@
                 <panelDesc>
                     <action> Rick looks off into the distance as he rides the horse. </action>
                     
-                        <ballon who="Rick"> I -- </ballon>
+                        <balloon who="Rick"> I -- </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2049,7 +2052,7 @@
                 <panelDesc>
                     <action> Rick is holding back his tears. </action>
                     
-                        <ballon who="Rick"> ... </ballon>
+                        <balloon who="Rick"> ... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2059,8 +2062,8 @@
                 <panelDesc>
                     <action> Rick is riding the horse down the road. </action>
                     
-                        <ballon who="Rick"> Y'know... on second thought... thinking about the
-                            good times makes all this seem so much worse. </ballon>
+                        <balloon who="Rick"> Y'know... on second thought... thinking about the
+                            good times makes all this seem so much worse. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2074,7 +2077,7 @@
                 <panelDesc>
                     <action> Rick and the horse arrive in Atlanta. </action>
                     
-                        <ballon who="Rick"> Here we are... </ballon>
+                        <balloon who="Rick"> Here we are... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2098,7 +2101,7 @@
                 <panelDesc>
                     <action> A zombie laying against a building notices Rick. </action>
                     
-                        <ballon who="Zombie"> RUH? </ballon>
+                        <balloon who="Zombie"> RUH? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2127,7 +2130,7 @@
                 <panelDesc>
                     <action> Rick finds himself surrounded by zombies. </action>
                     
-                        <ballon who="Rick"> Shit. </ballon>
+                        <balloon who="Rick"> Shit. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2141,8 +2144,8 @@
                 <panelDesc>
                     <action> Rick and the horse are surrounded by zombies. </action>
                     
-                        <ballon who="Rick"> C'mon, girl...let's get the hell out of here!
-                        </ballon>
+                        <balloon who="Rick"> C'mon, girl...let's get the hell out of here!
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2152,7 +2155,7 @@
                 <panelDesc>
                     <action> Rick realizes there is no way out. </action>
                     
-                        <ballon who="Rick"> Shit. Shit. Shit. Shit. </ballon>
+                        <balloon who="Rick"> Shit. Shit. Shit. Shit. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2163,7 +2166,7 @@
                     <action> The zombies close in on Rick and the horse. Making the horse buck Rick
                         off. </action>
                     
-                        <ballon who="Rick"> AAAHH! </ballon>
+                        <balloon who="Rick"> AAAHH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2173,7 +2176,7 @@
                 <panelDesc>
                     <action> Rick falls to the ground with zombies surrounding him. </action>
                     
-                        <ballon who="Rick"> UFF! </ballon>
+                        <balloon who="Rick"> UFF! </balloon>
                     
                     <sound> THUMP! </sound>
                 </panelDesc>
@@ -2188,7 +2191,7 @@
                 <panelDesc>
                     <action> The zombies attack the horse. </action>
                     
-                        <ballon who="Zombie"> GUH. </ballon>
+                        <balloon who="Zombie"> GUH. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2198,7 +2201,7 @@
                 <panelDesc>
                     <action> The horse is being eaten by zombies. </action>
                     
-                        <ballon who="Horse"> REEEARHHH! </ballon>
+                        <balloon who="Horse"> REEEARHHH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2208,10 +2211,10 @@
                 <panelDesc>
                     <action> Rick watches the horse being eaten and the notices a zombie notice him. </action>
                     
-                        <ballon who="Zombie"> Ruh? </ballon>
+                        <balloon who="Zombie"> Ruh? </balloon>
                     
                     
-                        <ballon who="Rick"> Oh, God. </ballon>
+                        <balloon who="Rick"> Oh, God. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2221,7 +2224,7 @@
                 <panelDesc>
                     <action> A zombie grabs Rick as he is on the ground with his axe. </action>
                     
-                        <ballon who="Rick"> Shit! </ballon>
+                        <balloon who="Rick"> Shit! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2239,7 +2242,7 @@
                 <panelDesc>
                     <action> The zombie falls to the side of Rick. </action>
                     
-                        <ballon who="Rick"> UGH. </ballon>
+                        <balloon who="Rick"> UGH. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2261,7 +2264,7 @@
                 <panelDesc>
                     <action> Rick stands up and is surrounded by hundreds of zombies. </action>
                     
-                        <ballon who="Rick"> Son of a bitch... </ballon>
+                        <balloon who="Rick"> Son of a bitch... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2279,8 +2282,8 @@
                 <panelDesc>
                     <action> Rick is outraged. </action>
                     
-                        <ballon who="Rick"> Bastards!! What the hell is wrong with you?!
-                        </ballon>
+                        <balloon who="Rick"> Bastards!! What the hell is wrong with you?!
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2341,7 +2344,7 @@
                 <panelDesc>
                     <action> Someone grabed Ricks shoulder. </action>
                     
-                        <ballon who="Rick"> AAUGH! </ballon>
+                        <balloon who="Rick"> AAUGH! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2351,7 +2354,7 @@
                 <panelDesc>
                     <action> A man holds Rick to the side. </action>
                     
-                        <ballon who="Glenn"> I can get you out of here. Follow me. </ballon>
+                        <balloon who="Glenn"> I can get you out of here. Follow me. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2361,8 +2364,8 @@
                 <panelDesc>
                     <action> The man runs ahead of Rick down an alley. </action>
                     
-                        <ballon who="Glenn"> And stop using that gun! You'll have the whole city
-                            on us! </ballon>
+                        <balloon who="Glenn"> And stop using that gun! You'll have the whole city
+                            on us! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2375,8 +2378,8 @@
                 <panelDesc>
                     <action> Rick and the man look behind them and see zombies are following. </action>
                     
-                        <ballon who="Glenn"> Don't worry about them. We'll be long gone before
-                            they get down here. Stay there. </ballon>
+                        <balloon who="Glenn"> Don't worry about them. We'll be long gone before
+                            they get down here. Stay there. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2394,7 +2397,7 @@
                     <action> The man is pulling the ladder down. Rick is watching the zombies move
                         toward them. </action>
                     
-                        <ballon who="Glenn"> Got it on the first try... </ballon>
+                        <balloon who="Glenn"> Got it on the first try... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2404,8 +2407,8 @@
                 <panelDesc>
                     <action> The man starts to climb the ladder while Rick watches. </action>
                     
-                        <ballon who="Glenn"> C'mon man. I'm trying to save your life here!
-                            What're you waiting on?! </ballon>
+                        <balloon who="Glenn"> C'mon man. I'm trying to save your life here!
+                            What're you waiting on?! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2415,8 +2418,8 @@
                 <panelDesc>
                     <action> Rick and the man start climbing up the ladder. </action>
                     
-                        <ballon who="Rick"> Sorry... ... It's just ... I've never seen so many of
-                            them. </ballon>
+                        <balloon who="Rick"> Sorry... ... It's just ... I've never seen so many of
+                            them. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2430,9 +2433,9 @@
                 <panelDesc>
                     <action> The man is climbing on the roof. </action>
                     
-                        <ballon who="Glenn"> Then you're a lucky man... That's nothing down
+                        <balloon who="Glenn"> Then you're a lucky man... That's nothing down
                             there... had you gotten fifty more feet into the city before they
-                            attacked.. you would not be here right now. </ballon>
+                            attacked.. you would not be here right now. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2442,7 +2445,7 @@
                 <panelDesc>
                     <action> The man helps Rick off the ladder and onto the roof. </action>
                     
-                        <ballon who="Rick"> What? </ballon>
+                        <balloon who="Rick"> What? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2452,7 +2455,7 @@
                 <panelDesc>
                     <action> The man starts to run but Rick just stands there. </action>
                     
-                        <ballon who="Glenn"> C'mon we must hurry! </ballon>
+                        <balloon who="Glenn"> C'mon we must hurry! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2462,7 +2465,7 @@
                 <panelDesc>
                     <action> Rick holds his hand out. </action>
                     
-                        <ballon who="Rick"> Wait! </ballon>
+                        <balloon who="Rick"> Wait! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2479,7 +2482,7 @@
                 <panelDesc>
                     <action> Rick looks over the side of the building scared. </action>
                     
-                        <ballon who="Rick"> No. No way in hell. </ballon>
+                        <balloon who="Rick"> No. No way in hell. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2489,11 +2492,11 @@
                 <panelDesc>
                     <action> Rick and the man look at each other ontop of the buildings. </action>
                     
-                        <ballon who="Glenn"> You're going to have to. Listen.. It's easy... I do
+                        <balloon who="Glenn"> You're going to have to. Listen.. It's easy... I do
                             it all the time. When we climb down this building those things will
                             still be waiting for us at the bottom of that building. And there's no
                             way out of that one. All these buildings are filled with zombies. Trust
-                            me. </ballon>
+                            me. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2503,7 +2506,7 @@
                 <panelDesc>
                     <action> Rick gets ready to jump. </action>
                     
-                        <ballon who="Rick"> God damn it. </ballon>
+                        <balloon who="Rick"> God damn it. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2524,7 +2527,7 @@
                 <panelDesc>
                     <action> Rick lands short and grabs the side of the building. </action>
                     
-                        <ballon who="Rick"> OOF! </ballon>
+                        <balloon who="Rick"> OOF! </balloon>
                     
                     <sound> FWUMP! </sound>
                 </panelDesc>
@@ -2535,8 +2538,8 @@
                 <panelDesc>
                     <action> The man grabs Rick and helps him onto the building. </action>
                     
-                        <ballon who="Glenn"> Jesus man! You should have thrown the duffle bag
-                            over first! </ballon>
+                        <balloon who="Glenn"> Jesus man! You should have thrown the duffle bag
+                            over first! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2546,7 +2549,7 @@
                 <panelDesc>
                     <action> Rick adjusting his hat. </action>
                     
-                        <ballon who="Rick"> Now you tell me. </ballon>
+                        <balloon who="Rick"> Now you tell me. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2556,9 +2559,9 @@
                 <panelDesc>
                     <action> Rick follows the man across the roof top. </action>
                     
-                        <ballon who="Glenn"> We've got to hurry before they spread out again.
+                        <balloon who="Glenn"> We've got to hurry before they spread out again.
                             When we climb down this building, be ready to run. Don't worry, we don't
-                            have far to go.</ballon>
+                            have far to go.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -2568,11 +2571,11 @@
                 <panelDesc>
                     <action> The man starts to climb down the ladder. </action>
                     
-                        <ballon who="Glenn"> We're not in the clear yet... but this building is
+                        <balloon who="Glenn"> We're not in the clear yet... but this building is
                             close to the woods at the edge of the city. We've got to run about a
                             block before we get to them... and there's liable to be a few of those
                             things on the way. As long as we keep moving, though... they shouldn't
-                            be able to surround us. </ballon>
+                            be able to surround us. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2582,9 +2585,9 @@
                 <panelDesc>
                     <action> Rick follows the man down the ladder. </action>
                     
-                        <ballon who="Glenn"> those things are slow as hell, so you should be able
+                        <balloon who="Glenn"> those things are slow as hell, so you should be able
                             to maneuver around them. Don't use your gun.. and don't let them touch
-                            you. One bite and it's all over for you. </ballon>
+                            you. One bite and it's all over for you. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2598,7 +2601,7 @@
                 <panelDesc>
                     <action> The man and Rick make it to the end of the ladder. </action>
                     
-                        <ballon who="Glenn"> This way. </ballon>
+                        <balloon who="Glenn"> This way. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2615,11 +2618,11 @@
                 <panelDesc>
                     <action> Rick and the man slip through a wooden fence. </action>
                     
-                        <ballon who="Glenn"> From this point on is where we need to be careful.
-                        </ballon>
+                        <balloon who="Glenn"> From this point on is where we need to be careful.
+                        </balloon>
                     
                     
-                        <ballon who="Rick"> Gotcha. </ballon>
+                        <balloon who="Rick"> Gotcha. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2630,7 +2633,7 @@
                     <action> Rick slips through the wooden panels and the man is standing infront of
                         a warehouse. </action>
                     
-                        <ballon who="Glenn"> It's not far, now. </ballon>
+                        <balloon who="Glenn"> It's not far, now. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2647,7 +2650,7 @@
                 <panelDesc>
                     <action> While running they go by a zombie that's leaning on the wall. </action>
                     
-                        <ballon who="Glenn"> Heads up! </ballon>
+                        <balloon who="Glenn"> Heads up! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2657,14 +2660,14 @@
                 <panelDesc>
                     <action> Rick and the guy continue running. </action>
                     
-                        <ballon who="Rick"> I didn't even see it! </ballon>
+                        <balloon who="Rick"> I didn't even see it! </balloon>
                     
                     
-                        <ballon who="Glenn"> You're going to have to keep your eyes open, man.
-                            Where've you been for the past month?</ballon>
+                        <balloon who="Glenn"> You're going to have to keep your eyes open, man.
+                            Where've you been for the past month?</balloon>
                     
                     
-                        <ballon who="Rick"> Coma. </ballon>
+                        <balloon who="Rick"> Coma. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2678,7 +2681,7 @@
                 <panelDesc>
                     <action> Rick and the man are running through the woods. </action>
                     
-                        <ballon who="Glenn"> Seriously? </ballon>
+                        <balloon who="Glenn"> Seriously? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2688,8 +2691,8 @@
                 <panelDesc>
                     <action> Rick is running. </action>
                     
-                        <ballon who="Rick"> Yeah... I woke up in the hospital yesterday.. I...
-                        </ballon>
+                        <balloon who="Rick"> Yeah... I woke up in the hospital yesterday.. I...
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2699,10 +2702,10 @@
                 <panelDesc>
                     <action> Rick puts his hand on the mans shoulder. </action>
                     
-                        <ballon who="Rick"> Can we stop here? Is it safe? </ballon>
+                        <balloon who="Rick"> Can we stop here? Is it safe? </balloon>
                     
                     
-                        <ballon who="Glenn"> For a minute. </ballon>
+                        <balloon who="Glenn"> For a minute. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2712,8 +2715,8 @@
                 <panelDesc>
                     <action> Rick looks at the man. </action>
                     
-                        <ballon who="Rick"> What you said about the city earlier.. How dangerous
-                            it is. Where are all the people that were there? </ballon>
+                        <balloon who="Rick"> What you said about the city earlier.. How dangerous
+                            it is. Where are all the people that were there? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2723,14 +2726,14 @@
                 <panelDesc>
                     <action> The man looks concerned. </action>
                     
-                        <ballon who="Glenn"> That... That was them trying to eat us back there.
+                        <balloon who="Glenn"> That... That was them trying to eat us back there.
                             You can't go into the cities anymore.. Everyone that was there is dead.
                             The government tried to herd everyone into the cities so we'd be easier
                             to protect. All that did was put all the food in one place. Every time
                             one of those things kills one of us we become one of them. It took a
                             week for just about everyone in the city to be killed. After that... We
                             don't know. Nobody can get in or out. Did you have family in there?
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2744,7 +2747,7 @@
                 <panelDesc>
                     <action> Rick falls to his knees. </action>
                     
-                        <ballon who="Rick"> My wife... my son... </ballon>
+                        <balloon who="Rick"> My wife... my son... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2754,8 +2757,8 @@
                 <panelDesc>
                     <action> The man tries to comfort Rick. </action>
                     
-                        <ballon who="Glenn"> I'm sorry, man.. I hate for you to have to hear it
-                            this way. </ballon>
+                        <balloon who="Glenn"> I'm sorry, man.. I hate for you to have to hear it
+                            this way. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2765,10 +2768,10 @@
                 <panelDesc>
                     <action> Rick is crying and wiping away his tears. </action>
                     
-                        <ballon who="Rick"> We... we're from Kentucky... but when I was told
+                        <balloon who="Rick"> We... we're from Kentucky... but when I was told
                             people were ordered to larger cities I figured my wife would have taken
                             my son to her parents place.. here in Atlanta. They may not have come..
-                            but I don't know where else they'd be. </ballon>
+                            but I don't know where else they'd be. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2778,9 +2781,9 @@
                 <panelDesc>
                     <action> The man offers Rick his hand to help him up. </action>
                     
-                        <ballon who="Glenn"> Don't give up hope, man... I've seen all kinds of
+                        <balloon who="Glenn"> Don't give up hope, man... I've seen all kinds of
                             people that have survived some crazy shit. We've got a guy at the camp
-                            that actually made it out of Atlanta.. </ballon>
+                            that actually made it out of Atlanta.. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2790,7 +2793,7 @@
                 <panelDesc>
                     <action> Rick wipes his tears away. </action>
                     
-                        <ballon who="Rick"> Did you say... camp? </ballon>
+                        <balloon who="Rick"> Did you say... camp? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2800,8 +2803,8 @@
                 <panelDesc>
                     <action> Rick and the man start walking. </action>
                     
-                        <ballon who="Glenn"> Yeah... That's where we're headed. They're more
-                            people there. </ballon>
+                        <balloon who="Glenn"> Yeah... That's where we're headed. They're more
+                            people there. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2815,7 +2818,7 @@
                 <panelDesc>
                     <action> Rick and the man are standing in a big field. </action>
                     
-                        <ballon who="Glenn"> We're almost there, c'mon. </ballon>
+                        <balloon who="Glenn"> We're almost there, c'mon. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2825,9 +2828,9 @@
                 <panelDesc>
                     <action> Rick and the man continue walking. </action>
                     
-                        <ballon who="Glenn"> We're mostly latecomers, people that tried to get
+                        <balloon who="Glenn"> We're mostly latecomers, people that tried to get
                             into Atlanta too late.. like you. We couldn't get in, so we set up camp
-                            here. </ballon>
+                            here. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2837,8 +2840,8 @@
                 <panelDesc>
                     <action> Rick continues to walk with the man. </action>
                     
-                        <ballon who="Rick"> So you're just camping out here? Is that safe?
-                        </ballon>
+                        <balloon who="Rick"> So you're just camping out here? Is that safe?
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2848,10 +2851,10 @@
                 <panelDesc>
                     <action> The man responds to Ricks question. </action>
                     
-                        <ballon who="Glenn"> Yeah... we've got some cars for shelter.. and we all
+                        <balloon who="Glenn"> Yeah... we've got some cars for shelter.. and we all
                             take turns keeping watch at night. We figure if we stick close to the
                             city they'll be able to find us when the government sorts all this mess
-                            out. </ballon>
+                            out. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2861,7 +2864,7 @@
                 <panelDesc>
                     <action> Rick and the man walk up to the camp </action>
                     
-                        <ballon who="Glenn"> Here we are. </ballon>
+                        <balloon who="Glenn"> Here we are. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2871,7 +2874,7 @@
                 <panelDesc>
                     <action> Rick looks super suprised. </action>
                     
-                        <ballon who="Rick"> Holy shit. </ballon>
+                        <balloon who="Rick"> Holy shit. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2885,7 +2888,7 @@
                 <panelDesc>
                     <action> Lori, Ricks wife, is running towards Rick and she is super excited. </action>
                     
-                        <ballon who="Lori"> RICK! </ballon>
+                        <balloon who="Lori"> RICK! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2895,7 +2898,7 @@
                 <panelDesc>
                     <action> Carl, Ricks son, is running towards Rick. He is very happy. </action>
                     
-                        <ballon who="Carl"> DAD! </ballon>
+                        <balloon who="Carl"> DAD! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2905,7 +2908,7 @@
                 <panelDesc>
                     <action> Rick, Lori, and Carl are embracing each other. </action>
                     
-                        <ballon who="Rick"> Oh, Thank God. </ballon>
+                        <balloon who="Rick"> Oh, Thank God. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2919,7 +2922,7 @@
                 <panelDesc>
                     <action> Rick is huggin his wife and son. In the back ground shane is watching. </action>
                     
-                        <ballon who="Rick"> I--I was so worried about you. </ballon>
+                        <balloon who="Rick"> I--I was so worried about you. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2929,7 +2932,7 @@
                 <panelDesc>
                     <action> Shane approached Rick and put his hand on his shoulder. </action>
                     
-                        <ballon who="Shane"> It's good to see you man. </ballon>
+                        <balloon who="Shane"> It's good to see you man. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2939,7 +2942,7 @@
                 <panelDesc>
                     <action> Rick is surpised to see Shane. </action>
                     
-                        <ballon who="Rick"> Oh my god shane! </ballon>
+                        <balloon who="Rick"> Oh my god shane! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2949,8 +2952,8 @@
                 <panelDesc>
                     <action> Lori is wiping away her tears. </action>
                     
-                        <ballon who="Lori"> Shane helped us get here.. we wouldn't have made it
-                            without him. </ballon>
+                        <balloon who="Lori"> Shane helped us get here.. we wouldn't have made it
+                            without him. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -2961,19 +2964,19 @@
                     <action> Rick is grabbing Shanes shoulders to thank him. Lori and Carl standing
                         watching. </action>
                     
-                        <ballon who="Rick"> I guess I owe you more than I'll ever be able to
-                            repay. </ballon>
+                        <balloon who="Rick"> I guess I owe you more than I'll ever be able to
+                            repay. </balloon>
                     
                     
-                        <ballon who="Shane"> Rick, please. It was nothing. I had to make up for
-                            letting you get shot like that...</ballon>
+                        <balloon who="Shane"> Rick, please. It was nothing. I had to make up for
+                            letting you get shot like that...</balloon>
                     
                     
-                        <ballon who="Rick"> Man that wasn't your fault. Besides, I'm fine
-                            now.</ballon>
+                        <balloon who="Rick"> Man that wasn't your fault. Besides, I'm fine
+                            now.</balloon>
                     
                     
-                        <ballon who="Shane"> Fair enough. Let me show you around.</ballon>
+                        <balloon who="Shane"> Fair enough. Let me show you around.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -2987,14 +2990,14 @@
                 <panelDesc>
                     <action> One of the men at camp is nealing down with the guy that saved Rick. </action>
                     
-                        <ballon who="Allen"> What'd you get this time, Glenn? </ballon>
+                        <balloon who="Allen"> What'd you get this time, Glenn? </balloon>
                     
                     
-                        <ballon who="Glenn"> I got some candy bars for the kids, some soap,
-                            detergent.. A couple rolls of toilet paper.</ballon>
+                        <balloon who="Glenn"> I got some candy bars for the kids, some soap,
+                            detergent.. A couple rolls of toilet paper.</balloon>
                     
                     
-                        <ballon who="Allen"> Great! </ballon>
+                        <balloon who="Allen"> Great! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3004,9 +3007,9 @@
                 <panelDesc>
                     <action> Shane is introducing Rick to Allen and Glenn. </action>
                     
-                        <ballon who="Shane"> You've met Glenn, that's Allen hounding him for
+                        <balloon who="Shane"> You've met Glenn, that's Allen hounding him for
                             supplies. Allen's wife, Donna is around here somewhere. They've got
-                            twins, Billy and Ben... They're hellions. </ballon>
+                            twins, Billy and Ben... They're hellions. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3016,9 +3019,9 @@
                 <panelDesc>
                     <action> Shane is introducing Rick to Dale, Jim, Carol, and Sophia. </action>
                     
-                        <ballon who="Shane"> That's Dale up there keeping watch. That's his
+                        <balloon who="Shane"> That's Dale up there keeping watch. That's his
                             camper. Jim is over there eating. That's Carol and her daughter Sophia
-                            sitting on the back of the car.</ballon>
+                            sitting on the back of the car.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3032,11 +3035,11 @@
                 <panelDesc>
                     <action> Shane is introducing Rick to Amy and Andrea. </action>
                     
-                        <ballon who="Shane"> This is Amy and Andrea... they're sisters.
-                        </ballon>
+                        <balloon who="Shane"> This is Amy and Andrea... they're sisters.
+                        </balloon>
                     
                     
-                        <ballon who="Shane"> You guys seen Donna an the twins? </ballon>
+                        <balloon who="Shane"> You guys seen Donna an the twins? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3046,8 +3049,8 @@
                 <panelDesc>
                     <action> Donna dna the twins exit the RV. </action>
                     
-                        <ballon who="Donna"> We're right here, what-- Oh.. new arrival?
-                        </ballon>
+                        <balloon who="Donna"> We're right here, what-- Oh.. new arrival?
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3057,7 +3060,7 @@
                 <panelDesc>
                     <action> Shane is talking to Donna. </action>
                     
-                        <ballon who="Shane"> This is Lori's husband. </ballon>
+                        <balloon who="Shane"> This is Lori's husband. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3067,12 +3070,12 @@
                 <panelDesc>
                     <action> Rick, Shane, Donna, Lori, and Jim are standing in a circle . </action>
                     
-                        <ballon who="Donna"> My word... that's the best news I've heard all
+                        <balloon who="Donna"> My word... that's the best news I've heard all
                             month. Shane, darling... come with me... those two have got some
-                            catching up to o. </ballon>
+                            catching up to o. </balloon>
                     
                     
-                        <ballon who="Shane"> Yeah. </ballon>
+                        <balloon who="Shane"> Yeah. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3100,11 +3103,11 @@
                 <panelDesc>
                     <action> Lori pops her head out of the ten to talk to Rick. </action>
                     
-                        <ballon who="Rick"> I'm so glad you saved this for me. I felt naked
-                            without it. Is he asleep? </ballon>
+                        <balloon who="Rick"> I'm so glad you saved this for me. I felt naked
+                            without it. Is he asleep? </balloon>
                     
                     
-                        <ballon who="Lori"> Yeah..finally.</ballon>
+                        <balloon who="Lori"> Yeah..finally.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3114,15 +3117,15 @@
                 <panelDesc>
                     <action> Lori gets out of the ten and joins Rick by the fire. </action>
                     
-                        <ballon who="Lori"> He can't sleep anymore unless he knows I'm right next
+                        <balloon who="Lori"> He can't sleep anymore unless he knows I'm right next
                             to him. Never really had to slip away from him like that... I usually
-                            just lie there and look at him... he's... </ballon>
+                            just lie there and look at him... he's... </balloon>
                     
                     
-                        <ballon who="Rick"> You've been through a lot.</ballon>
+                        <balloon who="Rick"> You've been through a lot.</balloon>
                     
                     
-                        <ballon who="Lori"> Yeah.. I'm sorry we left you Rick.</ballon>
+                        <balloon who="Lori"> Yeah.. I'm sorry we left you Rick.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3132,14 +3135,14 @@
                 <panelDesc>
                     <action> Rick holds Lori closer to comfort her. </action>
                     
-                        <ballon who="Rick"> Lori, please. i understand the circumstances. you
+                        <balloon who="Rick"> Lori, please. i understand the circumstances. you
                             thought Atlanta would be safer for Carl. I would've done the same thing.
-                        </ballon>
+                        </balloon>
                     
                     
-                        <ballon who="Lori"> They said people were going to sty at the hospital
+                        <balloon who="Lori"> They said people were going to sty at the hospital
                             when they evacuated us. From what you told me... They must have
-                            abandoned the hospital less than a week after we left.</ballon>
+                            abandoned the hospital less than a week after we left.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3149,8 +3152,8 @@
                 <panelDesc>
                     <action> Rick looks at Lori. </action>
                     
-                        <ballon who="Rick"> You did what's right for little Carl. I'm just glad
-                            Shane was around to help you get here. </ballon>
+                        <balloon who="Rick"> You did what's right for little Carl. I'm just glad
+                            Shane was around to help you get here. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3160,11 +3163,11 @@
                 <panelDesc>
                     <action> Lori talking to Rick. </action>
                     
-                        <ballon who="Lori"> I don't even think I would've found the way down here
-                            without him. Let alone survived after we got here. </ballon>
+                        <balloon who="Lori"> I don't even think I would've found the way down here
+                            without him. Let alone survived after we got here. </balloon>
                     
                     
-                        <ballon who="Lori"> Your hand !</ballon>
+                        <balloon who="Lori"> Your hand !</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3174,11 +3177,11 @@
                 <panelDesc>
                     <action> Rick examines his hand while Lori watches.</action>
                     
-                        <ballon who="Rick"> That's just from the IV. It's not a big deal..
-                        </ballon>
+                        <balloon who="Rick"> That's just from the IV. It's not a big deal..
+                        </balloon>
                     
                     
-                        <ballon who="Lori"> Oh. </ballon>
+                        <balloon who="Lori"> Oh. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3192,12 +3195,12 @@
                 <panelDesc>
                     <action> Rick points out the one watch man to Lori. </action>
                     
-                        <ballon who="Rick"> Is he enough up there? </ballon>
+                        <balloon who="Rick"> Is he enough up there? </balloon>
                     
                     
-                        <ballon who="Lori"> So far that's all we've needed. Luckily those things
+                        <balloon who="Lori"> So far that's all we've needed. Luckily those things
                             haven't come at us in any numer. Most we've had at one time is
-                            three.</ballon>
+                            three.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3207,9 +3210,9 @@
                 <panelDesc>
                     <action> Lori sits infront of the tent talking to Rick. </action>
                     
-                        <ballon who="Lori"> This is... none of us really sleep anymore. Soon as
+                        <balloon who="Lori"> This is... none of us really sleep anymore. Soon as
                             we hear one of the shots, we're up ready to defend this place.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3219,9 +3222,9 @@
                 <panelDesc>
                     <action> Lori is talking with Rick. </action>
                     
-                        <ballon who="Rick"> We've only got two guns. Shane's pistol and Dale's
+                        <balloon who="Rick"> We've only got two guns. Shane's pistol and Dale's
                             rifle.... but we've got shovels around the camp that we can hit them
-                            with... it's worked so far.. They don't come very often...</ballon>
+                            with... it's worked so far.. They don't come very often...</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3238,7 +3241,7 @@
                 <panelDesc>
                     <action> Lori turns to Rick. </action>
                     
-                        <ballon who="Lori"> Rick.. you're shaking. </ballon>
+                        <balloon who="Lori"> Rick.. you're shaking. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3248,9 +3251,9 @@
                 <panelDesc>
                     <action> A close up of Ricks face and he looks scared. </action>
                     
-                        <ballon who="Rick"> The past two days... I've been so worried about
+                        <balloon who="Rick"> The past two days... I've been so worried about
                             finding you and Carl... and getting here in one piece... I haven't had
-                            time to be scared. </ballon>
+                            time to be scared. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3285,7 +3288,7 @@
                 <panelDesc>
                     <action> Rick sits up in bed and looks at his family.</action>
                     
-                        <ballon who="Rick"> .... </ballon>
+                        <balloon who="Rick"> .... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3313,7 +3316,7 @@
                 <panelDesc>
                     <action> Shane greets Rick who si stretching outside of the tent. </action>
                     
-                        <ballon who="Shane"> Morning, partner ! </ballon>
+                        <balloon who="Shane"> Morning, partner ! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3323,8 +3326,8 @@
                 <panelDesc>
                     <action> Rick is looking st Shane. </action>
                     
-                        <ballon who="Rick"> Hey, man... I thought you'd still be asleep. You kept
-                            watch most of the night, didn't you? </ballon>
+                        <balloon who="Rick"> Hey, man... I thought you'd still be asleep. You kept
+                            watch most of the night, didn't you? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3334,10 +3337,10 @@
                 <panelDesc>
                     <action> Shane gives Rick a thumbs up. </action>
                     
-                        <ballon who="Rick"> Glenn took over about half way through.. but I don't
+                        <balloon who="Rick"> Glenn took over about half way through.. but I don't
                             sleep much anyway. You want to take a shower? The one in Dale's camper
                             still works. It's pond water... but it's better than nothing.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3347,8 +3350,8 @@
                 <panelDesc>
                     <action> Rick rubs his head. </action>
                     
-                        <ballon who="Rick"> Man, I'd love a shower... I had already kissed that
-                            luxury goodbye. </ballon>
+                        <balloon who="Rick"> Man, I'd love a shower... I had already kissed that
+                            luxury goodbye. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3358,8 +3361,8 @@
                 <panelDesc>
                     <action> Shane responds to Rick. </action>
                     
-                        <ballon who="Shane"> Don't linger too long... you and I are going hunting
-                            today. </ballon>
+                        <balloon who="Shane"> Don't linger too long... you and I are going hunting
+                            today. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3380,7 +3383,7 @@
                 <panelDesc>
                     <action> Rick looks suprised. </action>
                     
-                        <ballon who="Rick"> Oh, Hey! </ballon>
+                        <balloon who="Rick"> Oh, Hey! </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3390,14 +3393,14 @@
                 <panelDesc>
                     <action> Dale and Rick are talking. </action>
                     
-                        <ballon who="Rick"> I didn't see you there, man... you almost scared me
-                            to death. </ballon>
+                        <balloon who="Rick"> I didn't see you there, man... you almost scared me
+                            to death. </balloon>
                     
                     
-                        <ballon who="Dale"> So you're Lori's husband huh?</ballon>
+                        <balloon who="Dale"> So you're Lori's husband huh?</balloon>
                     
                     
-                        <ballon who="Rick"> Yeah. </ballon>
+                        <balloon who="Rick"> Yeah. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3407,13 +3410,13 @@
                 <panelDesc>
                     <action> Dale is talking to Rick. </action>
                     
-                        <ballon who="Dale"> I don't want to stir nothing up... and you gotta
+                        <balloon who="Dale"> I don't want to stir nothing up... and you gotta
                             understand this has nothing to do with your wife. She did nothing but
                             talk about you while you were gone... she worried about you. She felt
                             bad about leaving you. But that Shane... he's a good man... he helps out
                             a lot around here... he took care of your wife.. but he's not glad
                             you're back. he's had his eye on Lori for as long as I've known them.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3423,9 +3426,9 @@
                 <panelDesc>
                     <action> Rick puts his hand on Dale's shoulder. </action>
                     
-                        <ballon who="Rick"> I appreciate the advice, but Shane is my friend. he
+                        <balloon who="Rick"> I appreciate the advice, but Shane is my friend. he
                             was just keeping her safe. I don't have anything to worry about.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3436,10 +3439,10 @@
                     <action> Rick turns to leave the RV and on his way out Dale say's something to
                         him. </action>
                     
-                        <ballon who="Dale"> I woulnd't trust him around my wife...</ballon>
+                        <balloon who="Dale"> I woulnd't trust him around my wife...</balloon>
                     
                     
-                        <ballon who="Rick"> I'll keep that in mind. </ballon>
+                        <balloon who="Rick"> I'll keep that in mind. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3467,7 +3470,7 @@
                 <panelDesc>
                     <action> Rick contemplates. </action>
                     
-                        <ballon who="Rick"> Crazy old man... </ballon>
+                        <balloon who="Rick"> Crazy old man... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3477,11 +3480,11 @@
                 <panelDesc>
                     <action> Shane stops talking to Lori and looks over to Rick. </action>
                     
-                        <ballon who="Shane"> You ready? We should get going if we're going to
-                            find anything. </ballon>
+                        <balloon who="Shane"> You ready? We should get going if we're going to
+                            find anything. </balloon>
                     
                     
-                        <ballon who="Rick"> I'm ready when you are. </ballon>
+                        <balloon who="Rick"> I'm ready when you are. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3491,11 +3494,11 @@
                 <panelDesc>
                     <action> Rick hands Lori his clothes. </action>
                     
-                        <ballon who="Lori"> I'll take those hon. </ballon>
+                        <balloon who="Lori"> I'll take those hon. </balloon>
                     
                     
-                        <ballon who="Rick"> Scrub 'em really good... they're a bit
-                            funky.</ballon>
+                        <balloon who="Rick"> Scrub 'em really good... they're a bit
+                            funky.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3505,11 +3508,11 @@
                 <panelDesc>
                     <action> Shane hands Rick a shot gun. </action>
                     
-                        <ballon who="Lori"> Uh-huh... Don't you have some animals to try and
-                            shoot? </ballon>
+                        <balloon who="Lori"> Uh-huh... Don't you have some animals to try and
+                            shoot? </balloon>
                     
                     
-                        <ballon who="Rick"> That's the plan..love you.</ballon>
+                        <balloon who="Rick"> That's the plan..love you.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3519,7 +3522,7 @@
                 <panelDesc>
                     <action> Rick puts his cowboy hat on and turns to leave with Shane. </action>
                     
-                        <ballon who="Lori"> I lov eyou too. Be careful. </ballon>
+                        <balloon who="Lori"> I lov eyou too. Be careful. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3540,7 +3543,7 @@
                 <panelDesc>
                     <action> Lori sees Carl with a bucket. </action>
                     
-                        <ballon who="Lori"> CARL! Where are you going? </ballon>
+                        <balloon who="Lori"> CARL! Where are you going? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3550,8 +3553,8 @@
                 <panelDesc>
                     <action> Carl is holding a small shovel and pointing behind him. </action>
                     
-                        <ballon who="Carl"> Over by Sophia's car... we're going to play in the
-                            dirt. </ballon>
+                        <balloon who="Carl"> Over by Sophia's car... we're going to play in the
+                            dirt. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3561,12 +3564,12 @@
                 <panelDesc>
                     <action> Lori grabs Carl by the chin. </action>
                     
-                        <ballon who="Lori"> Alright, i'm going to go wash our clothes with Donna
+                        <balloon who="Lori"> Alright, i'm going to go wash our clothes with Donna
                             and Carol. you make sure you and Sophia keep an eye on Allen. if he
-                            tells you to get in the RV, you do it! </ballon>
+                            tells you to get in the RV, you do it! </balloon>
                     
                     
-                        <ballon who="Carl"> Okay, momma.</ballon>
+                        <balloon who="Carl"> Okay, momma.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3577,14 +3580,14 @@
                     <action> Donna and Carol talk to Lori. Amy and Andrea are in the back ground
                         standing with the twins. </action>
                     
-                        <ballon who="Donna"> Don't worry. Amy and Andrea are going to watch the
-                            kids. </ballon>
+                        <balloon who="Donna"> Don't worry. Amy and Andrea are going to watch the
+                            kids. </balloon>
                     
                     
-                        <ballon who="Carol"> Anything to get out of laundry duty.</ballon>
+                        <balloon who="Carol"> Anything to get out of laundry duty.</balloon>
                     
                     
-                        <ballon who="Amy"> You're damn right!</ballon>
+                        <balloon who="Amy"> You're damn right!</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3594,10 +3597,10 @@
                 <panelDesc>
                     <action> Donna turns to Amy angry. </action>
                     
-                        <ballon who="Donna"> Not in front of the kids. </ballon>
+                        <balloon who="Donna"> Not in front of the kids. </balloon>
                     
                     
-                        <ballon who="Amy"> Oh, bite me.</ballon>
+                        <balloon who="Amy"> Oh, bite me.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3607,10 +3610,10 @@
                 <panelDesc>
                     <action> Amy and Andrea watch Lori and Donna leave to wash the clothes. </action>
                     
-                        <ballon who="Amy"> Stay safe. </ballon>
+                        <balloon who="Amy"> Stay safe. </balloon>
                     
                     
-                        <ballon who="Lori"> Always. </ballon>
+                        <balloon who="Lori"> Always. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3624,12 +3627,12 @@
                 <panelDesc>
                     <action> Donna, Carol and Lori walk away from the camp. </action>
                     
-                        <ballon who="Carol"> I can't wait to see how these things smell with the
-                            new detergent Glenn got from the city! </ballon>
+                        <balloon who="Carol"> I can't wait to see how these things smell with the
+                            new detergent Glenn got from the city! </balloon>
                     
                     
-                        <ballon who="Lori"> That stuff Dale had in the RV just wasn't working. It
-                            made the clothes smell better.. but not by much.</ballon>
+                        <balloon who="Lori"> That stuff Dale had in the RV just wasn't working. It
+                            made the clothes smell better.. but not by much.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3639,9 +3642,9 @@
                 <panelDesc>
                     <action> Donna is carrying a laundry bag on her back. </action>
                     
-                        <ballon who="Donna"> Jesus christ, will you listen to yourselves?! You're
+                        <balloon who="Donna"> Jesus christ, will you listen to yourselves?! You're
                             excited about trying out a new detergent?! This is such bullshit.
-                        </ballon>
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3651,9 +3654,9 @@
                 <panelDesc>
                     <action> Lori looks at Donna. </action>
                     
-                        <ballon who="Rick"> Damn, Donna. We're not throwing a party. i'm just
+                        <balloon who="Rick"> Damn, Donna. We're not throwing a party. i'm just
                             looking forward to the possibility of clean smelling clothes. that'd be
-                            a welcome change at this point. </ballon>
+                            a welcome change at this point. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3663,12 +3666,12 @@
                 <panelDesc>
                     <action> Donna is frustrated while talking to Lori. </action>
                     
-                        <ballon who="Donna"> I just don't understand why we're the ones doing
+                        <balloon who="Donna"> I just don't understand why we're the ones doing
                             laundry while they go off and hunt. when things get back to normal I
-                            wonder if we'll still be allowed to vote. </ballon>
+                            wonder if we'll still be allowed to vote. </balloon>
                     
                     
-                        <ballon who="Lori"> Are you serious? </ballon>
+                        <balloon who="Lori"> Are you serious? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3678,10 +3681,10 @@
                 <panelDesc>
                     <action> Lori talks back to Donna. </action>
                     
-                        <ballon who="Lori"> I don't know about you but I can't shoot a gun...
+                        <balloon who="Lori"> I don't know about you but I can't shoot a gun...
                             I've never even tried. To be honest... I wouldn't trust any of those
                             guys to wash my clothes. Rick couldn't do it with a washing machine..
-                            he'd be lost out here. </ballon>
+                            he'd be lost out here. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3691,14 +3694,14 @@
                 <panelDesc>
                     <action> Lori, Donna and Carol make it to the creek. </action>
                     
-                        <ballon who="Lori"> This isn't about women's rights.. </ballon>
+                        <balloon who="Lori"> This isn't about women's rights.. </balloon>
                     
                     
-                        <ballon who="Donna"> Whatever. </ballon>
+                        <balloon who="Donna"> Whatever. </balloon>
                     
                     
-                        <ballon who="Lori"> It' about being realistic and doing what needs to be
-                            done.</ballon>
+                        <balloon who="Lori"> It' about being realistic and doing what needs to be
+                            done.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3713,7 +3716,7 @@
                     <action> Sophia and Carrl play in the dirt while Amy and Andrea are watching
                         them. </action>
                     
-                        <ballon who="Sophia"> You think my daddy will come back too? </ballon>
+                        <balloon who="Sophia"> You think my daddy will come back too? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3723,7 +3726,7 @@
                 <panelDesc>
                     <action> Carl puts dirt into a bucket. </action>
                     
-                        <ballon who="Carl"> Ain't your daddy dead? </ballon>
+                        <balloon who="Carl"> Ain't your daddy dead? </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3733,8 +3736,8 @@
                 <panelDesc>
                     <action> Sophia is making a castle in the dirt. </action>
                     
-                        <ballon who="Sophia"> Yeah, but so was your daddy and he came back.
-                        </ballon>
+                        <balloon who="Sophia"> Yeah, but so was your daddy and he came back.
+                        </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3744,8 +3747,8 @@
                 <panelDesc>
                     <action> Carl looks up at Sophia. </action>
                     
-                        <ballon who="Carl"> My dady was just sick. we had to leave him in the
-                            hospital back home so he could get better. He wasn't dead. </ballon>
+                        <balloon who="Carl"> My dady was just sick. we had to leave him in the
+                            hospital back home so he could get better. He wasn't dead. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3755,7 +3758,7 @@
                 <panelDesc>
                     <action> Carl and Sophia continue to play. </action>
                     
-                        <ballon who="Sophia"> oh... I miss my daddy.</ballon>
+                        <balloon who="Sophia"> oh... I miss my daddy.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3769,18 +3772,18 @@
                 <panelDesc>
                     <action> Shane and Rick are in the woods hunting. </action>
                     
-                        <ballon who="Shane"> I thought I'd take Lori and Carl down here to her
+                        <balloon who="Shane"> I thought I'd take Lori and Carl down here to her
                             parents and come back. I thought this thing would be over in a week. I
                             didn't want to explain stolen guns to the captain when I got back.
-                        </ballon>
+                        </balloon>
                     
                     
-                        <ballon who="Rick"> Well.. if you had seen the place the way I did.. you
+                        <balloon who="Rick"> Well.. if you had seen the place the way I did.. you
                             wouldn't have been so worried about the rules. I don't think it'll ever
-                            be the same again.</ballon>
+                            be the same again.</balloon>
                     
                     
-                        <ballon who="Shane"> Don't say that man.. this won't last.</ballon>
+                        <balloon who="Shane"> Don't say that man.. this won't last.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3790,10 +3793,10 @@
                 <panelDesc>
                     <action> Rick looks back at Shane. </action>
                     
-                        <ballon who="Rick"> i don't know, man... it looked bad.</ballon>
+                        <balloon who="Rick"> i don't know, man... it looked bad.</balloon>
                     
                     
-                        <ballon who="Shane"> Well... I'm glad you brought these guns.</ballon>
+                        <balloon who="Shane"> Well... I'm glad you brought these guns.</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3803,10 +3806,10 @@
                 <panelDesc>
                     <action> Rick and Shane looks for animals. </action>
                     
-                        <ballon who="Shane"> We just had Dale's rifle and my side arm. Someone
+                        <balloon who="Shane"> We just had Dale's rifle and my side arm. Someone
                             had to keep watch with the rifle at all times.. and it's hard as hell to
                             hunt with a pistol. Just about all we've had to eat was canned goods
-                            Glenn brought back from the city. </ballon>
+                            Glenn brought back from the city. </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3816,9 +3819,9 @@
                 <panelDesc>
                     <action> Rick looks back at Shane. </action>
                     
-                        <ballon who="Rick"> Man... what's up with that guy? Risking his life
+                        <balloon who="Rick"> Man... what's up with that guy? Risking his life
                             every day to get toilet paper and candy bars? I mean... it's a great
-                            help, and he did save my life, but damn... </ballon>
+                            help, and he did save my life, but damn... </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3828,8 +3831,8 @@
                 <panelDesc>
                     <action> Shane and Rick continue to talk. </action>
                     
-                        <ballon who="Shane"> I have no idea... he seems to know how to get in and
-                            get out before they gang up on him. It's-- </ballon>
+                        <balloon who="Shane"> I have no idea... he seems to know how to get in and
+                            get out before they gang up on him. It's-- </balloon>
                     
                     <sound> Rustle Rustle </sound>
                 </panelDesc>
@@ -3852,7 +3855,7 @@
                     <sound> CHOMP </sound>
                     <action> A zombie is eating a deer. </action>
                     
-                        <ballon who="Zombie"> GUH. </ballon>
+                        <balloon who="Zombie"> GUH. </balloon>
                     
                     <sound> SLURP </sound>
                 </panelDesc>
@@ -3870,7 +3873,7 @@
                 <panelDesc>
                     <action> Shane and Rick watch the zombie eat the deer. </action>
                     
-                        <ballon who="Rick"> It doesn't even know we're here..., </ballon>
+                        <balloon who="Rick"> It doesn't even know we're here..., </balloon>
                     
                 </panelDesc>
             </panel>
@@ -3880,8 +3883,8 @@
                 <panelDesc>
                     <action> Shane is looking at the deer. </action>
                     
-                        <ballon who="Shane"> Do you think we should get the deer away from
-                            it?</ballon>
+                        <balloon who="Shane"> Do you think we should get the deer away from
+                            it?</balloon>
                     
                 </panelDesc>
             </panel>
@@ -3891,7 +3894,7 @@
                 <panelDesc>
                     <action> Shane and Rick are still watching the zombie eat the deer. </action>
                     
-                        <ballon who="Shane"> Do you think it's be safe to eat? </ballon>
+                        <balloon who="Shane"> Do you think it's be safe to eat? </balloon>
                     
                 </panelDesc>
             </panel>
