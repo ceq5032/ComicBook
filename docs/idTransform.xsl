@@ -7,6 +7,12 @@
     
     <xsl:mode on-no-match="shallow-copy"/>
     
+    <!-- ebb: This is an identity transformation XSLT that's ONLY to be used to 
+    patch or change the XML. It just remakes the original XML file. 
+    
+    Use a TOTALLY DIFFERENT XSLT to output HTML!  See your homeworks. :-) 
+    -->
+    
   <xsl:template match="panel">
       <panel num="{count(preceding-sibling::panel) + 1}">
           <xsl:apply-templates/>
