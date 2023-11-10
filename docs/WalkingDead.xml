@@ -44,7 +44,7 @@
     <comic>
         <title> Chapter One: Days Gone By </title>
         <page num="1">
-            <!-- <div type="panelGrp"> -->
+      
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -57,8 +57,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <sound> Boom </sound>
                     <action> Rick and Shane are leaning on a cop car and talking. </action>
@@ -74,8 +73,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> The active shooter is holding a gun. </action>
                     
@@ -84,8 +82,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick and Shane are leaning on a cop car and talking. </action>
                     
@@ -96,16 +93,14 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane is covering Rick but while doing so his gun is shot out of his
                         hand by the shooter. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Shane is holding his hand that was shot and he see's rick being shot in
                         the chest by the shooter. </action>
@@ -114,12 +109,12 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
 
 
         <page num="2">
-            <!-- <div type="panelGrp"> -->
+          
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -130,10 +125,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="3">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -142,29 +137,25 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick sits up and swings his leg to the side of the bed. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick hangs onto the IV pole and tries to stand up. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick takes a step and falls instantly to the ground. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick looks up from the ground and looks for the nurse.</action>
                     
@@ -173,40 +164,36 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick crawls his way back to the bed and finds the emergency button. He
                         pushes the button. </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick sits with his back against the bed on the floor. </action>
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick sits with his back against the bed on the floor. He notices the
                         dresser to his right. </action>
                 </panelDesc>
             </panel>
             <panel num="9">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick opens the dresser and sees his belongings which include his
                         clothes, shoes, keys , and his badge. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="4">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -218,8 +205,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick starts his way down the hall way. Its empty. </action>
                     
@@ -228,8 +214,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is at the information desk in the hospital. </action>
                     
@@ -239,38 +224,33 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues walking through the empty halls of the hospital
                     </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick finds an elevator. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick eneters the elevator.</action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <sound> DING! </sound>
                     <action> The elevator stops and Rick is waiting for the door to open. </action>
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <sound> FWUMP!</sound>
                     <action> The elevator door opens and a zo,bie falls into the elevator. </action>
@@ -279,10 +259,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="5">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -294,8 +274,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick jumps over the zombie and out of the elevator. </action>
                     
@@ -304,8 +283,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick coninues his way down the hospital hall. </action>
                     
@@ -314,15 +292,13 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues his way down the hospital halls. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick sees a double door and its blocked with a board. </action>
                     
@@ -331,8 +307,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick removed the wooden board. </action>
                     
@@ -341,16 +316,15 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens the door slowly. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="6">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -361,10 +335,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="7">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -376,8 +350,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <sound> THAP!</sound>
                     <action> Rick falls to the ground as hes backing away from the zombies. They are
@@ -388,8 +361,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick is on the floor moving away from the zombie. </action>
                     
@@ -398,8 +370,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie grabs rick by the shirt has he tries to exit the hospital. </action>
                     
@@ -408,8 +379,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <sound> FWUMP! </sound>
                     <action> The zombie pushes Rick out of the door and they are falling to the
@@ -420,8 +390,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <sound>WHUMP!</sound>
                     <action> The zombie is ontop of Rick and they are falling down the stairs
@@ -429,17 +398,16 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <sound> SNAP! </sound>
                     <action> The zombies neck snaps on the way down the stairs. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="8">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -452,23 +420,20 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets up and makes his way down the stairs. Zombies are after
                         him.</action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick pushes a door openand is taking off his belt. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gopes through the door and closes it shut with his belt. </action>
                     
@@ -477,8 +442,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is standing in an almost empty parking structure and there is one
                         car. </action>
@@ -488,8 +452,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick tries to open the car door. </action>
                     
@@ -498,16 +461,15 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks away from the car. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="9">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -516,15 +478,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick contunies to walk down the sidewalk. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick comes across a wrecked car and there is a dead body hanging out of
                         it. </action>
@@ -534,22 +494,19 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick sees a bike in the grass up ahead of him. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks up to the bike. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks horrified by what he sees. </action>
                     
@@ -557,10 +514,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="10">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -572,15 +529,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick covers his mouth in disbelief. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie sees rick and is looking at him. </action>
                     
@@ -589,15 +544,13 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A close up to Rick's face. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie lays there on the ground with its mouth open. </action>
                     
@@ -606,15 +559,13 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A close up to Ricks face and he starts to cry. </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie lays on the ground looking at Rick. </action>
                     
@@ -622,10 +573,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="11">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -634,8 +585,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick falls to his knees dropping the bike. </action>
                     
@@ -644,23 +594,20 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick crys into his hands in the middle of the road. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is still crying into his hands in the middle of the road.
                     </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick stands up and is looking at the bike. </action>
                     
@@ -669,37 +616,33 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets on the bike. </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick wipes away his tears. </action>
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick starts riding the bike. </action>
                 </panelDesc>
             </panel>
             <panel num="9">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is riding the bike down the empty road. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="12">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -715,16 +658,14 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets off the bike and makes his way to the front door of the
                         house. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets closer to the front door. </action>
                     
@@ -733,16 +674,15 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens the screen door and grabs the door knob. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="13">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -751,37 +691,32 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks pass a family picture showing two parents and a son.
                     </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens a door and peaks into a bedroom. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks into the kitchen. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick steps outside is on the porch. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick leans on the railing of the porch. </action>
                     
@@ -790,30 +725,27 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks around the outside of the house. </action>
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks around. </action>
                 </panelDesc>
             </panel>
             <panel num="9">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A shovel is being swung. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="14">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -823,8 +755,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A young boy is standing above rick holding a shovel. </action>
                     
@@ -833,8 +764,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father and son are standing above Rick. </action>
                     
@@ -846,8 +776,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> The father and son are standing above rick. </action>
                     
@@ -861,10 +790,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="15">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -876,8 +805,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father and son are in the kitchen. Rick is sitting up looking at
                         them. </action>
@@ -891,8 +819,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick, the father, and the son are sitting at the dining room table. </action>
                     
@@ -909,8 +836,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick is confused. </action>
                     
@@ -920,8 +846,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father is trying to calm Rick down. </action>
                     
@@ -931,8 +856,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is wanting answers. </action>
                     
@@ -941,8 +865,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father is confused that Rick doesnt know what has happened. </action>
                     
@@ -951,10 +874,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="16">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -983,8 +906,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father looks worried. </action>
                     
@@ -995,8 +917,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick seems relieved. </action>
                     
@@ -1007,8 +928,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father leans back in his chair. He seems suspicious. </action>
                     
@@ -1017,8 +937,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick stands up holding a key. </action>
                     
@@ -1027,10 +946,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="17">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1051,8 +970,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks back at the father while putting the key in the door. </action>
                     
@@ -1064,8 +982,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the father, and his son are standing in the entry of the
                         police station. </action>
@@ -1083,8 +1000,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The father seems happy. </action>
                     
@@ -1094,8 +1010,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the father are shaking hands. </action>
                     
@@ -1109,8 +1024,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and Morgan are looking around the police station. </action>
                     
@@ -1124,10 +1038,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="18">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1139,15 +1053,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks sad. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks guilty. </action>
                     
@@ -1157,8 +1069,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is standing with Morgan and Duane infront of a computer desk. Rick
                         is holding a gun. </action>
@@ -1177,8 +1088,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is looks at his gun. Morgan and Duane watch him. </action>
                     
@@ -1188,8 +1098,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is opening a locked door. Morgan and Duane are standing behind
                         him. </action>
@@ -1199,10 +1108,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="19">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1219,8 +1128,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is pointing out where the ammo is located. </action>
                     
@@ -1230,8 +1138,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Duane watches his father Morgan reach for a shot gun. </action>
                     
@@ -1243,8 +1150,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Morgan is holding two guns while Duane watches. </action>
                     
@@ -1257,8 +1163,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks back into the room and is dressed in his cop uniform. </action>
                     
@@ -1268,8 +1173,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks towards Morgan. </action>
                     
@@ -1284,8 +1188,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is smiling with a handful of guns and ammo. </action>
                     
@@ -1294,10 +1197,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="20">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1316,8 +1219,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is holding his bag filled with guns and ammo on his back. </action>
                     
@@ -1330,8 +1232,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is handing Morgan car keys. </action>
                     
@@ -1342,8 +1243,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens the door to his patrol car. Morgan and Duane watch. </action>
                     
@@ -1354,8 +1254,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Morgan looks grateful. </action>
                     
@@ -1365,8 +1264,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues to put his stuff in the patrol car. </action>
                     
@@ -1376,8 +1274,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks up from the car. </action>
                     
@@ -1385,10 +1282,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+          
         </page>
         <page num="21">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1403,15 +1300,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts his hand on his pistol in the holster of his belt. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie is leaning on the fence. It's face is smooshed against the
                         chain links. </action>
@@ -1421,8 +1316,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick draws his pistol ready to shoot the zombie. Morgan put's his hand
                         ontop of the gun. </action>
@@ -1431,10 +1325,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="22">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1447,8 +1341,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts his gun away. </action>
                     
@@ -1458,8 +1351,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and Morgan are getting into the patrol cars. </action>
                     
@@ -1475,30 +1367,26 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens the gate for Morgan and Duane to exit. Morgan drives out the
                         gate. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick drives the patrol car out of the gate. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets out of the car and closes the gate behind him. </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A zombie watches Rick drive off.</action>
                     
@@ -1506,10 +1394,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="23">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1518,29 +1406,25 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick makes it to the highway. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick stops the car and gets out. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks over to the side of the road. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie that Rick ran into by the bicycle is still laying in the
                         same spot. </action>
@@ -1549,10 +1433,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="24">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1562,58 +1446,51 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks down at the zombie. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie lays dead with a shot to the head. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick starts to cry. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick wipes away his tears. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks back to the car. </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets into the car. </action>
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick drives away. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="25">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1622,15 +1499,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick drives past a welcome to Georgia sign. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick stops for gas, and its empty. </action>
                     
@@ -1639,8 +1514,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets into his patrol car and looks over to see a zombie in a car
                         next to him. </action>
@@ -1650,16 +1524,15 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues driving down the highway. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+          
         </page>
         <page num="26">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1670,10 +1543,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="27">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1682,29 +1555,25 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick starts walking leaving his car behind. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is farther into the ditance leaving his car behind. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick sees a farm house in the ditance. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks at the farm house. </action>
                     
@@ -1713,24 +1582,22 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick jumps over the fence heading his way towards the farm house.
                     </action>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is standing infront of the house. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="28">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1740,8 +1607,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick calls out to see if anyone is home. </action>
                     
@@ -1750,8 +1616,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick turns the door knob to enter the house. </action>
                     
@@ -1760,8 +1625,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick opens the door and steps in. </action>
                     
@@ -1771,8 +1635,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks into the house. </action>
                     
@@ -1781,8 +1644,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is terrified. </action>
                     
@@ -1791,17 +1653,16 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick holds is hand to his mouth looking into a living room filled with
                         a dead rotting family. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="29">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1810,37 +1671,32 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick makes it to the door and throws up. </action>
                     <sound> HWAGG! </sound>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick wipes his face. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick walks towards a locked barn. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick unlocked the barn and goes inside. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick sees a horse in the barn. </action>
                     
@@ -1848,10 +1704,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="30">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1864,8 +1720,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick grabs a saddle to put on the horse. </action>
                     
@@ -1875,8 +1730,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts the saddle on the horse. </action>
                     
@@ -1886,8 +1740,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick see's an axe.</action>
                     
@@ -1897,8 +1750,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets on the horse. </action>
                     
@@ -1907,8 +1759,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick leaves the barn on the horse. </action>
                     
@@ -1916,10 +1767,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="31">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1932,15 +1783,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the horse jump over a fence. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick pulls back the reigns. </action>
                     
@@ -1949,8 +1798,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the horse find a road. </action>
                     
@@ -1960,8 +1808,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick rides the horse down the road. </action>
                     
@@ -1969,10 +1816,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="32">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -1986,8 +1833,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is reminiscing. </action>
                     
@@ -1999,8 +1845,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is still talking to the horse. </action>
                     
@@ -2012,8 +1857,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is talking to the horse. </action>
                     
@@ -2026,8 +1870,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is talking to the horse.</action>
                     
@@ -2037,8 +1880,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks off into the distance as he rides the horse. </action>
                     
@@ -2047,8 +1889,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is holding back his tears. </action>
                     
@@ -2057,8 +1898,7 @@
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is riding the horse down the road. </action>
                     
@@ -2067,10 +1907,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="33">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2082,22 +1922,19 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick rides the horse into the city. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick passes by an alley. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A zombie laying against a building notices Rick. </action>
                     
@@ -2106,24 +1943,22 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues riding the horse into the city surrounded by zombies.
                     </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombies on the street are noticing Rick and the horse. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="34">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2134,10 +1969,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="35">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2150,8 +1985,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick realizes there is no way out. </action>
                     
@@ -2160,8 +1994,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombies close in on Rick and the horse. Making the horse buck Rick
                         off. </action>
@@ -2171,8 +2004,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick falls to the ground with zombies surrounding him. </action>
                     
@@ -2181,10 +2013,10 @@
                     <sound> THUMP! </sound>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="36">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2196,8 +2028,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The horse is being eaten by zombies. </action>
                     
@@ -2206,8 +2037,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick watches the horse being eaten and the notices a zombie notice him. </action>
                     
@@ -2219,8 +2049,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A zombie grabs Rick as he is on the ground with his axe. </action>
                     
@@ -2229,16 +2058,14 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick swings the axe into the zombies head. </action>
                     <sound> THONK! </sound>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombie falls to the side of Rick. </action>
                     
@@ -2247,17 +2074,16 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick stands up and grabs his axe out of the head of the zombie. </action>
                     <sound> SHUKK! </sound>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+        
         </page>
         <page num="37">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2270,15 +2096,13 @@
             </panel>
             <!-- </div> -->
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The zombies are tearing a person apart. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is outraged. </action>
                     
@@ -2288,32 +2112,28 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick starts shooting the zombies. </action>
                     <sound> BLAM! </sound>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick shots a zombie in the head. </action>
                     <sound> BLAM! </sound>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick shoots another zombie in the head. </action>
                     <sound> BLAM! </sound>
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick shoots another zombie in the head. </action>
                     <sound> BLAM! </sound>
@@ -2321,7 +2141,7 @@
             </panel>
         </page>
         <page num="38">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2330,17 +2150,15 @@
                     <sound> Thunk!</sound>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick finds an alley and makes a run for it. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Someone grabed Ricks shoulder. </action>
                     
@@ -2349,8 +2167,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A man holds Rick to the side. </action>
                     
@@ -2359,8 +2176,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man runs ahead of Rick down an alley. </action>
                     
@@ -2371,7 +2187,7 @@
             </panel>
         </page>
         <page num="39">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2384,15 +2200,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man pulls down an escape ladder. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man is pulling the ladder down. Rick is watching the zombies move
                         toward them. </action>
@@ -2402,8 +2216,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man starts to climb the ladder while Rick watches. </action>
                     
@@ -2413,8 +2226,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the man start climbing up the ladder. </action>
                     
@@ -2423,10 +2235,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="40">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2440,8 +2252,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man helps Rick off the ladder and onto the roof. </action>
                     
@@ -2450,8 +2261,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man starts to run but Rick just stands there. </action>
                     
@@ -2460,8 +2270,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick holds his hand out. </action>
                     
@@ -2470,15 +2279,13 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man jumps to the next building. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks over the side of the building scared. </action>
                     
@@ -2487,8 +2294,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the man look at each other ontop of the buildings. </action>
                     
@@ -2501,8 +2307,7 @@
                 </panelDesc>
             </panel>
             <panel num="8">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick gets ready to jump. </action>
                     
@@ -2510,10 +2315,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+          
         </page>
         <page num="41">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2522,8 +2327,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick lands short and grabs the side of the building. </action>
                     
@@ -2533,8 +2337,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man grabs Rick and helps him onto the building. </action>
                     
@@ -2544,8 +2347,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick adjusting his hat. </action>
                     
@@ -2554,8 +2356,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick follows the man across the roof top. </action>
                     
@@ -2566,8 +2367,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man starts to climb down the ladder. </action>
                     
@@ -2580,8 +2380,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick follows the man down the ladder. </action>
                     
@@ -2591,10 +2390,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="42">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2606,15 +2405,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man and Rick start running down the alley. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the man slip through a wooden fence. </action>
                     
@@ -2627,8 +2424,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick slips through the wooden panels and the man is standing infront of
                         a warehouse. </action>
@@ -2638,15 +2434,13 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the Man run inbetween the warehouses. </action>
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> While running they go by a zombie that's leaning on the wall. </action>
                     
@@ -2655,8 +2449,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the guy continue running. </action>
                     
@@ -2671,10 +2464,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="43">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2686,8 +2479,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is running. </action>
                     
@@ -2697,8 +2489,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts his hand on the mans shoulder. </action>
                     
@@ -2710,8 +2501,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks at the man. </action>
                     
@@ -2721,8 +2511,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man looks concerned. </action>
                     
@@ -2737,10 +2526,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="44">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2752,8 +2541,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man tries to comfort Rick. </action>
                     
@@ -2763,8 +2551,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is crying and wiping away his tears. </action>
                     
@@ -2776,8 +2563,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man offers Rick his hand to help him up. </action>
                     
@@ -2788,8 +2574,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick wipes his tears away. </action>
                     
@@ -2798,8 +2583,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the man start walking. </action>
                     
@@ -2808,10 +2592,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="45">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2823,8 +2607,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick and the man continue walking. </action>
                     
@@ -2835,8 +2618,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick continues to walk with the man. </action>
                     
@@ -2846,8 +2628,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> The man responds to Ricks question. </action>
                     
@@ -2859,8 +2640,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and the man walk up to the camp </action>
                     
@@ -2869,8 +2649,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks super suprised. </action>
                     
@@ -2878,10 +2657,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="46">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2893,8 +2672,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Carl, Ricks son, is running towards Rick. He is very happy. </action>
                     
@@ -2903,8 +2681,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick, Lori, and Carl are embracing each other. </action>
                     
@@ -2912,10 +2689,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="47">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -2927,8 +2704,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane approached Rick and put his hand on his shoulder. </action>
                     
@@ -2937,8 +2713,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is surpised to see Shane. </action>
                     
@@ -2947,8 +2722,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori is wiping away her tears. </action>
                     
@@ -2958,8 +2732,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is grabbing Shanes shoulders to thank him. Lori and Carl standing
                         watching. </action>
@@ -2980,10 +2753,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="48">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3002,8 +2775,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane is introducing Rick to Allen and Glenn. </action>
                     
@@ -3014,8 +2786,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane is introducing Rick to Dale, Jim, Carol, and Sophia. </action>
                     
@@ -3025,10 +2796,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="49">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3044,8 +2815,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Donna dna the twins exit the RV. </action>
                     
@@ -3055,8 +2825,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane is talking to Donna. </action>
                     
@@ -3065,8 +2834,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick, Shane, Donna, Lori, and Jim are standing in a circle . </action>
                     
@@ -3080,16 +2848,15 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and Lori hug while Donna and Shane give them space. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+          
         </page>
         <page num="50">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3098,8 +2865,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori pops her head out of the ten to talk to Rick. </action>
                     
@@ -3112,8 +2878,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori gets out of the ten and joins Rick by the fire. </action>
                     
@@ -3130,8 +2895,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick holds Lori closer to comfort her. </action>
                     
@@ -3147,8 +2911,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks at Lori. </action>
                     
@@ -3158,8 +2921,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori talking to Rick. </action>
                     
@@ -3172,8 +2934,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick examines his hand while Lori watches.</action>
                     
@@ -3185,10 +2946,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="51">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3205,8 +2966,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori sits infront of the tent talking to Rick. </action>
                     
@@ -3217,8 +2977,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori is talking with Rick. </action>
                     
@@ -3229,15 +2988,13 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick and Lori embrace each other while staring at the fire. </action>
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori turns to Rick. </action>
                     
@@ -3246,8 +3003,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> A close up of Ricks face and he looks scared. </action>
                     
@@ -3257,10 +3013,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="52">
-            <!-- <div type="panelGrp"> -->
+           
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3269,22 +3025,19 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick moves closer to Carl in the tent. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+               
                 <panelDesc>
                     <action> Rick's eyes open. </action>
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick sits up in bed and looks at his family.</action>
                     
@@ -3293,16 +3046,15 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick reaches over and puts his hand on Loris face. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="53">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3311,8 +3063,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane greets Rick who si stretching outside of the tent. </action>
                     
@@ -3321,8 +3072,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick is looking st Shane. </action>
                     
@@ -3332,8 +3082,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane gives Rick a thumbs up. </action>
                     
@@ -3345,8 +3094,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick rubs his head. </action>
                     
@@ -3356,8 +3104,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane responds to Rick. </action>
                     
@@ -3366,10 +3113,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="54">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3378,8 +3125,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks suprised. </action>
                     
@@ -3388,8 +3134,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Dale and Rick are talking. </action>
                     
@@ -3405,8 +3150,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Dale is talking to Rick. </action>
                     
@@ -3421,8 +3165,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts his hand on Dale's shoulder. </action>
                     
@@ -3433,8 +3176,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick turns to leave the RV and on his way out Dale say's something to
                         him. </action>
@@ -3446,10 +3188,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="55">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3458,15 +3200,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori and Shane are laughing with each other. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick contemplates. </action>
                     
@@ -3475,8 +3215,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane stops talking to Lori and looks over to Rick. </action>
                     
@@ -3489,8 +3228,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick hands Lori his clothes. </action>
                     
@@ -3503,8 +3241,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane hands Rick a shot gun. </action>
                     
@@ -3517,8 +3254,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick puts his cowboy hat on and turns to leave with Shane. </action>
                     
@@ -3526,10 +3262,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="56">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3538,8 +3274,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori sees Carl with a bucket. </action>
                     
@@ -3548,8 +3283,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Carl is holding a small shovel and pointing behind him. </action>
                     
@@ -3559,8 +3293,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori grabs Carl by the chin. </action>
                     
@@ -3574,8 +3307,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Donna and Carol talk to Lori. Amy and Andrea are in the back ground
                         standing with the twins. </action>
@@ -3592,8 +3324,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Donna turns to Amy angry. </action>
                     
@@ -3605,8 +3336,7 @@
                 </panelDesc>
             </panel>
             <panel num="7">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Amy and Andrea watch Lori and Donna leave to wash the clothes. </action>
                     
@@ -3617,10 +3347,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="57">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3637,8 +3367,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Donna is carrying a laundry bag on her back. </action>
                     
@@ -3649,8 +3378,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori looks at Donna. </action>
                     
@@ -3661,8 +3389,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Donna is frustrated while talking to Lori. </action>
                     
@@ -3676,8 +3403,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori talks back to Donna. </action>
                     
@@ -3689,8 +3415,7 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Lori, Donna and Carol make it to the creek. </action>
                     
@@ -3705,10 +3430,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="58">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3721,8 +3446,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Carl puts dirt into a bucket. </action>
                     
@@ -3731,8 +3455,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Sophia is making a castle in the dirt. </action>
                     
@@ -3742,8 +3465,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Carl looks up at Sophia. </action>
                     
@@ -3753,8 +3475,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Carl and Sophia continue to play. </action>
                     
@@ -3762,10 +3483,10 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+           
         </page>
         <page num="59">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3788,8 +3509,7 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks back at Shane. </action>
                     
@@ -3801,8 +3521,7 @@
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick and Shane looks for animals. </action>
                     
@@ -3814,8 +3533,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Rick looks back at Shane. </action>
                     
@@ -3826,8 +3544,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane and Rick continue to talk. </action>
                     
@@ -3838,16 +3555,15 @@
                 </panelDesc>
             </panel>
             <panel num="6">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane tells Rick to be quiet. </action>
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
         <page num="60">
-            <!-- <div type="panelGrp"> -->
+            
             <panel num="1">
                 <url>
                     https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
@@ -3861,15 +3577,13 @@
                 </panelDesc>
             </panel>
             <panel num="2">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane and Rick look suprised to see the zombie. </action>
                 </panelDesc>
             </panel>
             <panel num="3">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane and Rick watch the zombie eat the deer. </action>
                     
@@ -3878,8 +3592,7 @@
                 </panelDesc>
             </panel>
             <panel num="4">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane is looking at the deer. </action>
                     
@@ -3889,8 +3602,7 @@
                 </panelDesc>
             </panel>
             <panel num="5">
-                <url>
-                    https://archive.org/details/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29/page/n3/mode/1up?view=theater</url>
+                
                 <panelDesc>
                     <action> Shane and Rick are still watching the zombie eat the deer. </action>
                     
@@ -3898,7 +3610,7 @@
                     
                 </panelDesc>
             </panel>
-            <!-- </div> -->
+            
         </page>
     </comic>
 </root>
