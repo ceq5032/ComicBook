@@ -1,21 +1,38 @@
 
 start = root
-root = element root { title, person+, addDate, char, page+ }
+root = element root {metadata, comic}
+metadata = element metadata {title, digitalEdition, source}
+digitalEdition = element digitalEdition {about, editor+}
+
+source = element source {digital, print}
+digital = element digital {about}
+
+print = element print {author, illustrator, about}
+
+author = element author {text}
+illustrator = element illustrator {text}
+
+about = element about {mixed{ (date | url)* }}
+
+date = element date {xsd:date | xsd:gYear}
+
+comic = element comic {(title | page)+}
+
+# { title, person+, addDate, char, page+ }
 title = element title {text}
-person = element person {mixed{firstname, lastname, email}}
+editor = element editor {mixed{firstname, lastname, email}}
 firstname = element firstname {text}
 lastname = element lastname {text}
 email = element email {text}
 addDate = element addDate {text}
-char = element char {text}
+
 page = element page {text, num, panel+}
-num = attribute num {text}
+num = attribute num {xsd:integer}
 type = attribute type {text}
-panel = element panel {url, panelDesc}
-url = element url {text}
-panelDesc = element panelDesc {mixed{sound*, action?, balloon*, sound*}}
+panel = element panel {num, url?, panelDesc}
+url = element url {xsd:anyURI}
+panelDesc = element panelDesc {mixed{ (sound | action | balloon | sound)* }}
 sound = element sound {text}
 action = element action {text}
-balloon = element balloon {narration}
-narration = element narration {who, text}
+balloon = element balloon {who, text}
 who = attribute who {text}
