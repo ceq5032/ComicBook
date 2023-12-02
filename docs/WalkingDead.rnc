@@ -28,8 +28,9 @@ addDate = element addDate {text}
 
 page = element page {text, num, panel+}
 num = attribute num {xsd:integer}
+n = attribute n {xsd:integer}
 type = attribute type {text}
-panel = element panel {num, url?, panelDesc}
+panel = element panel {n, url?, panelDesc}
 url = element url {xsd:anyURI}
 panelDesc = element panelDesc {mixed{ (sound | action | balloon | sound)* }}
 sound = element sound {text}

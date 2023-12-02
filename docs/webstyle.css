@@ -71,6 +71,33 @@ header {
     font-weight: bold;
     margin-top: 40%;
 }
+.text {
+    color: #580204;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 740px;
+    margin: auto;
+    text-align: left;
+    width: 40%;
+
+    }
+.moreText {
+    color: #580204;
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    text-align: left;
+    width: 40%;
+}
+.moreText2 {
+    color: #580204;
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    text-align: left;
+    width: 40%;
+    padding-top: 300px;
+}
 .odd {
     position: sticky;
     top: 0;
