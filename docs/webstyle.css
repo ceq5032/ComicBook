@@ -1,12 +1,27 @@
 
+@font-face {
+    font-family: 'nikopol-regular';
+    src: url('Font/nikopol-regular.otf') format('opentype');
+    }
+@font-face {
+    font-family: 'deathrattleebb';
+    src: url('Font/deathrattlebb_reg.ttf') format('truetype');
+}
+
+
 body {
     color: black;
-    font-family: "Comic Sans MS";
+    font-family: "nikopol-regular";
     text-align: center;
     background-image: url("images/dots.png");
     background-size: 100vw;
+    letter-spacing: 1px;
+    font-size: 22px;
 }
-
+p {
+    width: 80%;
+    margin: 0 auto;
+}
 img {
     padding: 0;
     display: table;
@@ -23,8 +38,11 @@ img {
     overflow: hidden;
     background-color: #333;
     position: sticky;
-    font-weight: bold;
-    font-size: large;
+    font-size: x-large;
+}
+h2 {
+    font-family: "deathrattleebb";
+    font-size: 48px;
 }
 li {
     display: inline-block;
@@ -66,33 +84,28 @@ header {
 
 }
 .construction {
-    font-size:xx-large;
+    font-size: xx-large;
     color: #580204;
     font-weight: bold;
     margin-top: 40%;
 }
 .text {
     color: #580204;
-    font-size: 20px;
-    font-weight: bold;
     padding-top: 740px;
     margin: auto;
     text-align: left;
     width: 40%;
 
-    }
+}
 .moreText {
     color: #580204;
-    font-size: 20px;
-    font-weight: bold;
     margin: auto;
     text-align: left;
     width: 40%;
+    margin-top: 20px;
 }
 .moreText2 {
     color: #580204;
-    font-size: 20px;
-    font-weight: bold;
     margin: auto;
     text-align: left;
     width: 40%;
@@ -103,6 +116,40 @@ header {
     top: 0;
     left: 0;
     right: 0;
-   margin-top: 720px;
+    margin-top: 720px;
     max-width: 100vw;
+}
+* {
+    box-sizing: border-box;
+}
+.column {
+    width: calc(30% - 20px); /* Adjust the width as needed and subtract padding */
+    box-sizing: border-box;
+    margin: 0 10px 20px; /* Add space between columns */
+    padding: 10px;
+    text-align: center;
+    border: black 5px solid;
+    background-color: lightgrey;
+}
+.column img {
+    border-radius: 50%;
+    border: 5px solid #333;
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+.row p {
+    margin-bottom: 20px;
 }
