@@ -157,11 +157,73 @@ header {
     justify-content: center;
     margin: 0 auto;
 }
+
 .row p {
     margin-bottom: 20px;
+}
+
+
+/* Apply Flexbox to each column for equal height */
+.row .columnL,
+.row .columnR {
+    display: flex;
+    flex-direction: column;
+}
+
+.columnL {
+     width: calc(50% - 20px);
+    box-sizing: border-box;
+    margin: 0 10px 20px;
+    padding: 10px;
+    text-align: left;
+    border: black 5px solid;
+    background-color: lightgrey;   
+    
+}
+.columnR {
+    width: calc(50% - 20px);
+    box-sizing: border-box;
+    margin: 0 10px 20px;
+    padding: 10px;
+}
+
+.columnR img {
+    border: 5px solid #333;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 .name {
     color: #580204;
     font-size: 42px;
     text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2);
+}
+hr {
+    margin: 20px auto;
+    width: 60%;
+}
+.action {
+    color: #333;
+    padding: 5px 0;
+    margin: auto;
+    text-align: left;
+    width: 90%;
+    text-indent: 0;
+    }
+.balloon {
+    color: #580204;
+    padding: 5px 0;
+    margin: auto;
+    text-align: left;
+    width: 90%;
+    text-indent: 0;
+}
+.panel {
+    text-align: center;
+    text-indent: 0;
+}
+.sound {
+    display: inline-block;
+    color: red;
 }
