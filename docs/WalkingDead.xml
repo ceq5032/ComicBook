@@ -48,8 +48,7 @@
             <panel n="1">
                 <url> https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0004.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick and Shane are hiding behind a police car to avoid an active
-                        shooter. </action>
+                    <action>Rick and Shane find refuge behind a police car, seeking safety from an ongoing threat posed by an active shooter. </action>
                     
                         <balloon who="#Rick"> This is not good. </balloon>
                     
@@ -59,7 +58,7 @@
                
                 <panelDesc>
                     <sound> Boom </sound>
-                    <action> Rick and Shane are leaning on a cop car and talking. </action>
+                    <action> Rick and Shane, while discreetly hiding from the shooter, engage in conversation,leaning against a police car. </action>
                     
                         <balloon who="#Shane"> I don't think he is from around here. </balloon>
                     
@@ -74,7 +73,7 @@
             <panel n="3">
                
                 <panelDesc>
-                    <action> The active shooter is holding a gun. </action>
+                    <action> The assailant in the midst of the incident is wielding a firearm. </action>
                     
                         <balloon who="#Shooter"> I'm ain't goin' back! I'll die first! </balloon>
                     
@@ -83,7 +82,7 @@
             <panel n="4">
                
                 <panelDesc>
-                    <action> Rick and Shane are leaning on a cop car and talking. </action>
+                    <action> Rick and Shane, while discreetly hiding from the shooter, engage in conversation,leaning against a police car. </action>
                     
                         <balloon who="#Rick"> DAMMIT! Our back-up is probably more than ten miles
                             away! We're sitting ducks behind this car... Cover me.. I'm going to try
@@ -94,15 +93,14 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Shane is covering Rick but while doing so his gun is shot out of his
-                        hand by the shooter. </action>
+                    <action> Shane, in the act of shielding Rick, has his firearm forcefully disarmed by the shooter's gunfire. </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                
                 <panelDesc>
-                    <action> Shane is holding his hand that was shot and he see's rick being shot in
-                        the chest by the shooter. </action>
+                    <action> 
+                        Clutching his wounded hand, Shane witnesses the harrowing scene as the shooter targets Rick, firing a shot directly into his chest. </action>
                     
                         <balloon who="#Shane"> RICK!! </balloon>
                     
@@ -117,7 +115,7 @@
             <panel n="1">
                 <url>https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0005.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is laying in a hospital bed and just woke up </action>
+                    <action> Rick lies in a hospital bed, just rousing from his slumber. </action>
                     
                         <balloon who="#Rick"> GASP! </balloon>
                     
@@ -131,31 +129,31 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0006.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is laying in a hospital bed and then removes his oxygen. </action>
+                    <action> Reclined in the hospital bed, Rick reaches over and carefully removes the oxygen apparatus.</action>
                 </panelDesc>
             </panel>
             <panel n="2">
                
                 <panelDesc>
-                    <action> Rick sits up and swings his leg to the side of the bed. </action>
+                    <action> Rick sits upright, swinging his leg over the side of the bed. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick hangs onto the IV pole and tries to stand up. </action>
+                    <action> Gripping onto the IV pole for support, Rick endeavors to rise to his feet. </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick takes a step and falls instantly to the ground. </action>
+                    <action> Rick attempts to take a step but immediately crumples to the ground. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                
                 <panelDesc>
-                    <action> Rick looks up from the ground and looks for the nurse.</action>
+                    <action> From the ground, Rick gazes upward, scanning the surroundings in search of the nurse.</action>
                     
                         <balloon who="#Rick"> NURSE!! </balloon>
                     
@@ -164,28 +162,26 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick crawls his way back to the bed and finds the emergency button. He
-                        pushes the button. </action>
+                    <action> Rick, determined, crawls back to the bed and locates the emergency button, pressing it with urgency. </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                
                 <panelDesc>
-                    <action> Rick sits with his back against the bed on the floor. </action>
+                    <action>
+                        Rick positions himself on the floor, leaning against the bed with his back for support. </action>
                 </panelDesc>
             </panel>
             <panel n="8">
                 
                 <panelDesc>
-                    <action> Rick sits with his back against the bed on the floor. He notices the
-                        dresser to his right. </action>
+                    <action> Seated on the floor with his back against the bed, Rick observes a dresser to his right. </action>
                 </panelDesc>
             </panel>
             <panel n="9">
                
                 <panelDesc>
-                    <action> Rick opens the dresser and sees his belongings which include his
-                        clothes, shoes, keys , and his badge. </action>
+                    <action> Rick opens the dresser to find his belongings neatly arranged, including his clothes, shoes, keys, and his badge. </action>
                 </panelDesc>
             </panel>
             
@@ -196,7 +192,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0007.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is standing the door way of hospital room 251. </action>
+                    <action> Rick stands in the doorway of the hospital room 251. </action>
                     
                         <balloon who="#Rick"> Hello? </balloon>
                     
@@ -205,7 +201,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick starts his way down the hall way. Its empty. </action>
+                    <action> Rick strides down the empty hallway. </action>
                     
                         <balloon who="#Rick"> Hello?! Anybody?! </balloon>
                     
@@ -214,7 +210,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is at the information desk in the hospital. </action>
+                    <action> Rick approaches the information desk in the hospital. </action>
                     
                         <balloon who="#Rick"> What the hell?! Did everyone just decide to take a
                             break at the same time?! </balloon>
@@ -224,34 +220,33 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick continues walking through the empty halls of the hospital
-                    </action>
+                    <action> Rick continues navigating the deserted hospital corridors. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick finds an elevator. </action>
+                    <action> Rick discovers an elevator. </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick eneters the elevator.</action>
+                    <action> Rick steps into the elevator.</action>
                 </panelDesc>
             </panel>
             <panel n="7">
                
                 <panelDesc>
                     <sound> DING! </sound>
-                    <action> The elevator stops and Rick is waiting for the door to open. </action>
+                    <action> The elevator halts, and Rick waits for the doors to open. </action>
                 </panelDesc>
             </panel>
             <panel n="8">
                 
                 <panelDesc>
                     <sound> FWUMP!</sound>
-                    <action> The elevator door opens and a zo,bie falls into the elevator. </action>
+                    <action> The elevator doors creak open, revealing a zombie that tumbles inside. </action>
                     
                         <balloon who="#Rick"> AHH! </balloon>
                     
@@ -264,7 +259,7 @@
             <panel n="1">
                 <url> https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0008.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is standing over the zombie scared.</action>
+                    <action> Rick stands over the zombie, visibly frightened. </action>
                     
                         <balloon who="#Rick"> Help!! </balloon>
                     
@@ -273,7 +268,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick jumps over the zombie and out of the elevator. </action>
+                    <action> Rick leaps over the zombie, escaping the elevator. </action>
                     
                         <balloon who="#Rick"> Somebody Help!! </balloon>
                     
@@ -282,7 +277,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick coninues his way down the hospital hall. </action>
+                    <action> Rick coninues his journey down the hospital corridor. </action>
                     
                         <balloon who="#Rick"> Anybody? </balloon>
                     
@@ -291,13 +286,13 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick continues his way down the hospital halls. </action>
+                    <action>  Rick proceeds along the hospital halls. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick sees a double door and its blocked with a board. </action>
+                    <action> Rick spots a double door blocked with a board. </action>
                     
                         <balloon who="#Rick"> What the Hell? </balloon>
                     
@@ -306,7 +301,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick removed the wooden board. </action>
+                    <action> Rick removes the wooden board. </action>
                     
                         <balloon who="#Rick"> What happened here? </balloon>
                     
@@ -340,7 +335,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0010.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is scared and moving away from the zombie at the door. </action>
+                    <action> Rick visibly frightened, moves away from zombie at the door. </action>
                     
                         <balloon who="#Rick"> Uh. Uh. Uh. </balloon>
                     
@@ -350,8 +345,7 @@
                 
                 <panelDesc>
                     <sound> THAP!</sound>
-                    <action> Rick falls to the ground as hes backing away from the zombies. They are
-                        startig there way towards them. </action>
+                    <action> Rick falls to the ground while backing away from the approaching zombie.  </action>
                     
                         <balloon who="#Zombie"> UFF! </balloon>
                     
@@ -360,7 +354,7 @@
             <panel n="3">
                
                 <panelDesc>
-                    <action> Rick is on the floor moving away from the zombie. </action>
+                    <action> Rick, on the floor, continues to move away from the zombie.  </action>
                     
                         <balloon who="#Rick"> STOP! Get away from me ! </balloon>
                     
@@ -369,7 +363,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> The zombie grabs rick by the shirt has he tries to exit the hospital. </action>
+                    <action> The zombie grabs Rick by the shirt as he attempts to exit the hospital.  </action>
                     
                         <balloon who="#Rick"> Cant you understand?! </balloon>
                     
@@ -379,8 +373,7 @@
                 
                 <panelDesc>
                     <sound> FWUMP! </sound>
-                    <action> The zombie pushes Rick out of the door and they are falling to the
-                        ground. </action>
+                    <action> The zombie forcefully shoves Rick out of the door, and they tumble to the ground.  </action>
                     
                         <balloon who="#Rick"> PLEASE! </balloon>
                     
@@ -390,15 +383,14 @@
                 
                 <panelDesc>
                     <sound>WHUMP!</sound>
-                    <action> The zombie is ontop of Rick and they are falling down the stairs
-                    </action>
+                    <action> The zombie lands on top of Rick, and together, they descend down the stairs.  </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
                     <sound> SNAP! </sound>
-                    <action> The zombies neck snaps on the way down the stairs. </action>
+                    <action> The zombies neck snaps during the fall down the stairs. </action>
                 </panelDesc>
             </panel>
             
@@ -410,7 +402,7 @@
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0011.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
                     <sound> WHUMP! </sound>
-                    <action> Rick falls onto the zombie at the end of the stairs. </action>
+                    <action> Rick collapses onto the zombie at the bottom of the stairs. </action>
                     
                         <balloon who="#Rick"> OOF! </balloon>
                     
@@ -419,20 +411,19 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick gets up and makes his way down the stairs. Zombies are after
-                        him.</action>
+                    <action> Rick rises and descends the stairs as zombies persue him. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick pushes a door openand is taking off his belt. </action>
+                    <action> Rick pushes open a door and starts removing his belt.  </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick gopes through the door and closes it shut with his belt. </action>
+                    <action> Rick passes through the door, securing it with his belt. </action>
                     
                         <balloon who="#Rick"> What the hell was all that? </balloon>
                     
@@ -441,8 +432,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick is standing in an almost empty parking structure and there is one
-                        car. </action>
+                    <action> Rick stands in an almost empty parking structure with only one car. </action>
                     
                         <balloon who="#Rick"> ... </balloon>
                     
@@ -451,7 +441,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick tries to open the car door. </action>
+                    <action> Rick attempts to open the door. </action>
                     
                         <balloon who="#Rick"> Damn. </balloon>
                     
@@ -471,20 +461,19 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0012.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is outside of the hospital walking down the sidewalk. </action>
+                    <action> Rick is outside the hospital, strolling down the sidewalk.  </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick contunies to walk down the sidewalk. </action>
+                    <action> Rick contunies walking down the sidewalk. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick comes across a wrecked car and there is a dead body hanging out of
-                        it. </action>
+                    <action>Rick comes across a wrecked car with a dead body hanging out of it.  </action>
                     
                         <balloon who="#Rick"> Jesus.. </balloon>
                     
@@ -493,7 +482,7 @@
             <panel n="4">
                
                 <panelDesc>
-                    <action> Rick sees a bike in the grass up ahead of him. </action>
+                    <action> Rick spots a bike in the grass up ahead. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
@@ -519,7 +508,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0013.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> A deteriated zombie is laying by the bike. </action>
+                    <action> A deteriorated zombie lies next to the bike. </action>
                     
                         <balloon who="#Zombie"> GUK...GLAKK. </balloon>
                     
@@ -534,7 +523,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The zombie sees rick and is looking at him. </action>
+                    <action> The zombie notices Rick and gazes at him. </action>
                     
                         <balloon who="#Zombie"> GUK. </balloon>
                     
@@ -543,13 +532,13 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> A close up to Rick's face. </action>
+                    <action> A close-up of Rick's face. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> The zombie lays there on the ground with its mouth open. </action>
+                    <action> The zombie lies on the ground with its mouth open. </action>
                     
                         <balloon who="#Zombie"> GUH. </balloon>
                     
@@ -558,13 +547,13 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> A close up to Ricks face and he starts to cry. </action>
+                    <action> A close-up of Rick's face as he begins to cry. </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
-                    <action> The zombie lays on the ground looking at Rick. </action>
+                    <action> The zombie lies on the ground, looking at Rick. </action>
                     
                         <balloon who="#Zombie"> GAR. </balloon>
                     
@@ -578,13 +567,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0014.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is walking down the road with a bike. </action>
+                    <action> Rick walks down the road with a bike.  </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick falls to his knees dropping the bike. </action>
+                    <action> Rick collapses to his knees, letting the bike fall. </action>
                     
                         <balloon who="#Rick"> Oh God... </balloon>
                     
@@ -593,20 +582,19 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick crys into his hands in the middle of the road. </action>
+                    <action> Rick buries his face in his hands in the middle of the road. </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick is still crying into his hands in the middle of the road.
-                    </action>
+                    <action> Still weeping, Rick remains on his knees in the middle of the road.  </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick stands up and is looking at the bike. </action>
+                    <action> Rick stands up, gazing at the abandoned bike. </action>
                     
                         <balloon who="#Rick"> ... </balloon>
                     
@@ -615,25 +603,25 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick gets on the bike. </action>
+                    <action> Rick mounts the bike.  </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick wipes away his tears. </action>
+                    <action> Wiping away his tears, Rick preapres to ride the bike.  </action>
                 </panelDesc>
             </panel>
             <panel n="8">
                 
                 <panelDesc>
-                    <action> Rick starts riding the bike. </action>
+                    <action> Rick begains to pedal the bike forward. </action>
                 </panelDesc>
             </panel>
             <panel n="9">
                 
                 <panelDesc>
-                    <action> Rick is riding the bike down the empty road. </action>
+                    <action> Riding down the empty road, Rick tries to escape his pain.  </action>
                 </panelDesc>
             </panel>
            
@@ -643,25 +631,24 @@
             <panel n="1">
                 <url> https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0015.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is riding a bike through a neighborhood. </action>
+                    <action> Rick rides a bike through a desolated neighborhood.  </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 <panelDesc>
-                    <action> Rick stops infront of a rundown house. </action>
+                    <action> Rick halts in front of a dilapidated house.  </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick gets off the bike and makes his way to the front door of the
-                        house. </action>
+                    <action> Dismounting, Rick approaches the front door of the house. </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick gets closer to the front door. </action>
+                    <action> As he nears the door, Rick mutters, </action>
                     
                         <balloon who="#Rick"> Son of a bitch. </balloon>
                     
@@ -670,7 +657,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick opens the screen door and grabs the door knob. </action>
+                    <action> Rick opens the screen door and grips the doorknob. </action>
                 </panelDesc>
             </panel>
             
@@ -681,38 +668,37 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0016.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick walks into the house. </action>
+                    <action> Rick enters the house.  </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick walks pass a family picture showing two parents and a son.
-                    </action>
+                    <action> Passing by a family picture showing two parents and a son, Rick reminisces. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick opens a door and peaks into a bedroom. </action>
+                    <action> Rick opens a door and peeks into a bedroom, surveying the silent space.  </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick walks into the kitchen. </action>
+                    <action> Moving on, Rick steps into the kitchen, haunted by memories. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick steps outside is on the porch. </action>
+                    <action> Rick steps outside and onto the porch, leaning on the railing.  </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick leans on the railing of the porch. </action>
+                    <action> Reflecting, Rick walks around the exterior of the house.  </action>
                     
                         <balloon who="#Rick"> Nothing. </balloon>
                     
@@ -721,19 +707,19 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick walks around the outside of the house. </action>
+                    <action> Rick surveys the surroundings. </action>
                 </panelDesc>
             </panel>
             <panel n="8">
                 
                 <panelDesc>
-                    <action> Rick looks around. </action>
+                    <action> Rick's gaze wanders, taking in the desolation that surrounds him. </action>
                 </panelDesc>
             </panel>
             <panel n="9">
                 
                 <panelDesc>
-                    <action> A shovel is being swung. </action>
+                    <action> A shovel swings through the air, catching Rick off guard.  </action>
                 </panelDesc>
             </panel>
            
@@ -745,13 +731,13 @@
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0017.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
                     <sound> CLUNGG!!</sound>
-                    <action> Rick is hit in the back of the head with a shovel. </action>
+                    <action> Rick is struck in the back of the head with a shovel.  </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> A young boy is standing above rick holding a shovel. </action>
+                    <action> A young boy stands above Rick, wielding a shovel. </action>
                     
                         <balloon who="#Duane"> Dad! </balloon>
                     
@@ -760,7 +746,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The father and son are standing above Rick. </action>
+                    <action> Father and son loom over Rick, the shovel-weilding boy explaining his actions.  </action>
                     
                         <balloon who="#Morgan"> Jesus, Shit! Son.. What did you do? </balloon>
                     
@@ -772,7 +758,7 @@
             <panel n="4">
                
                 <panelDesc>
-                    <action> The father and son are standing above rick. </action>
+                    <action> The father corrects the misunderstanding, realizing Rick is still alive.  </action>
                     
                         <balloon who="#Morgan"> No, son..This man is alive.</balloon>
                     
@@ -792,7 +778,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0018.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick wakes up on a couch. </action>
+                    <action> Rick regains consciousness on a couch.  </action>
                     
                         <balloon who="#Rick"> Huh! </balloon>
                     
@@ -801,8 +787,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> The father and son are in the kitchen. Rick is sitting up looking at
-                        them. </action>
+                    <action> The father and son are in the kitchen; Rick, now sitting up, questions them.  </action>
                     
                         <balloon who="#Morgan"> Oh, You're awake. We're just getting ready to have
                             dinner. Would you care to join us? </balloon>
@@ -815,7 +800,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick, the father, and the son are sitting at the dining room table. </action>
+                    <action> The trio sits at the dining room table, the father explaining the shovel incident.  </action>
                     
                         <balloon who="#Morgan"> Oh, sorry about my boy. He hit you over the head
                             with a shovel. </balloon>
@@ -832,7 +817,7 @@
             <panel n="4">
                
                 <panelDesc>
-                    <action> Rick is confused. </action>
+                    <action> Rick is bewildered. </action>
                     
                         <balloon who="#Rick"> "Things?" You mean those monsters that are at the
                             hospital?! Who are you people? What the hell is going on? </balloon>
@@ -842,7 +827,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> The father is trying to calm Rick down. </action>
+                    <action> The father attempts to soothe Rick's confusion. </action>
                     
                         <balloon who="#Morgan"> Whoa, whoa.. calm down there buddy. This was all
                             just a misunderstanding. My boy didn't mean nothing. </balloon>
@@ -852,7 +837,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick is wanting answers. </action>
+                    <action> Rick demands answers. </action>
                     
                         <balloon who="#Rick"> How did it all happen? What went wrong? </balloon>
                     
@@ -861,7 +846,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> The father is confused that Rick doesnt know what has happened. </action>
+                    <action> The father is suprised that Rick is unaware of the situation.  </action>
                     
                         <balloon who="#Morgan"> What a minute. Hold up. Damn son.. You don't know
                             about any of it? </balloon>
@@ -876,8 +861,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0019.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick, the father and son are sitting infront of a fireplace. The son is
-                        drawing on the floor. </action>
+                    <action> Rick, the father, and son father in front of a fireplace. The son is drawing on the floor.  </action>
                     
                         <balloon who="#Rick"> I was shot... I woke up in the hospital and was
                             atacked. i came home.. My wife and kid were gone.. The whole damn town
@@ -924,7 +908,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> The father leans back in his chair. He seems suspicious. </action>
+                    <action> The father leans back in his chair, appearing suspicious.  </action>
                     
                         <balloon who="#Morgan"> Oh, yeah.. I'm sure they're fine. </balloon>
                     
@@ -933,7 +917,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick stands up holding a key. </action>
+                    <action> Rick stands up, holding a key. </action>
                     
                         <balloon who="#Rick"> Well.. I need a car if im going to Atlanta.. Want to
                             go shopping? </balloon>
@@ -948,8 +932,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0020.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick, the father, and the son are standing infront of the police
-                        station. </action>
+                    <action> Rick, the father, and son stand in front of the police station. </action>
                     
                         <balloon who="#Morgan"> So, you're a cop, huh? </balloon>
                     
@@ -978,8 +961,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick and the father, and his son are standing in the entry of the
-                        police station. </action>
+                    <action> Rick and the father, and his son stand in the entry of the police station. </action>
                     
                         <balloon who="#Morgan"> It's not like we're stealing the place.. Your
                             neighborhood just seemed safer. We don't figure that we're hurting
@@ -1006,7 +988,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick and the father are shaking hands. </action>
+                    <action> Rick and the father shake hands. </action>
                     
                         <balloon who="#Rick"> Rick.. officer Rick Grimes at your service. And you?
                         </balloon>
@@ -1020,7 +1002,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick and Morgan are looking around the police station. </action>
+                    <action> Rick and Morgan look around the police station. </action>
                     
                         <balloon who="#Rick"> You're a good man, Morgan. I really appreciate you
                             driving me over here. you've helped me out a lot. </balloon>
@@ -1065,8 +1047,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick is standing with Morgan and Duane infront of a computer desk. Rick
-                        is holding a gun. </action>
+                    <action> Rick is stands with Morgan and Duane in front of a computer desk. Rick is holding a gun. </action>
                     
                         <balloon who="#Morgan"> Hey, man... It's okay. you've seen some crazy shit
                             out there... We all have. You can't let it get to you. You just gotta
@@ -1084,7 +1065,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick is looks at his gun. Morgan and Duane watch him. </action>
+                    <action> Rick looks at his gun. Morgan and Duane watch him. </action>
                     
                         <balloon who="#Rick"> Oh, this? I figured I might as well bring a few
                             along... just incase. Speaking of which.. Follow me. </balloon>
@@ -1094,8 +1075,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick is opening a locked door. Morgan and Duane are standing behind
-                        him. </action>
+                    <action> Rick opens a locked door. Morgan and Duane are standing behind him. </action>
                     
                         <balloon who="#Rick"> I just need to find the right key... here we
                             are.</balloon>
@@ -1110,7 +1090,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0022.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick opens and door to a gun vault. Morgan and duane walk in. </action>
+                    <action> Rick opens a door to a gun vault. Morgan and Duane walk in. </action>
                     
                         <balloon who="#Morgan"> Wow. </balloon>
                     
@@ -1124,7 +1104,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick is pointing out where the ammo is located. </action>
+                    <action> Rick points out where the ammo is located.</action>
                     
                         <balloon who="#Rick"> The shells are in the cabinet below the gun rack.
                             Make sure you save some for me. I'll be right back.</balloon>
@@ -1134,7 +1114,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Duane watches his father Morgan reach for a shot gun. </action>
+                    <action> Duane observes as his father, Morgan, reaches for a shotgun. </action>
                     
                         <balloon who="#Duane"> Can I--? </balloon>
                     
@@ -1146,7 +1126,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Morgan is holding two guns while Duane watches. </action>
+                    <action> Morgan holds two guns while Duane watches. </action>
                     
                         <balloon who="#Duane"> But I'm old enough. </balloon>
                     
@@ -1159,7 +1139,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick walks back into the room and is dressed in his cop uniform. </action>
+                    <action> Rick reenters the room, dressed in his cop uniform. </action>
                     
                         <balloon who="#Rick"> Are there enough shells for both of us in there?
                         </balloon>
@@ -1184,7 +1164,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick is smiling with a handful of guns and ammo. </action>
+                    <action> Rick smiles, holding a handful of guns and ammo. </action>
                     
                         <balloon who="#Rick"> Grab what you're getting and follow me out back. i
                             got another suprise for you. </balloon>
@@ -1199,8 +1179,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0023.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick, Morgan and Duane exit the back of the police station into the
-                        parking lot. There are patrol cars parked by the door. </action>
+                    <action> Rick, Morgan, and Duane exit the back of the police station into the parking lot, surrounded by patrol cars. </action>
                     
                         <balloon who="#Rick"> You take that one of the left. It doesn't run as good
                             as the one I'm taking but btter than that hatchback you're driving. If
@@ -1215,7 +1194,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick is holding his bag filled with guns and ammo on his back. </action>
+                    <action> Rick straps his bag filled with guns and ammo on  his back. </action>
                     
                         <balloon who="#Rick"> You'll be safer in one of these things if you need to
                             go anywhere. </balloon>
@@ -1228,7 +1207,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is handing Morgan car keys. </action>
+                    <action> Rick hands Morgan car keys. </action>
                     
                         <balloon who="#Rick"> Don't sweat it, man. I'm just doing my job. I can't
                             think of a better way to "protect and serve" under the circumstances.
@@ -1239,7 +1218,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick opens the door to his patrol car. Morgan and Duane watch. </action>
+                    <action> Rick opens the door to his patrol car; Morgan and Duane watch. </action>
                     
                         <balloon who="#Rick"> When things get back to normal... You'll have to give
                             it back.. So try not to bang it up or put too many miles on it.
@@ -1284,7 +1263,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0024.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick, Morgan and Duane look to the chainlink fence. Theres a Zombie. </action>
+                    <action> Rick, Morgan and Duane turn to the chain-link fence, where a zombie appears. </action>
                     
                         <balloon who="#Zombie"> UHH! UHH! UHH! </balloon>
                     
@@ -1296,14 +1275,13 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick puts his hand on his pistol in the holster of his belt. </action>
+                    <action> Rick places his hand on his holstered pistol. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The zombie is leaning on the fence. It's face is smooshed against the
-                        chain links. </action>
+                    <action> The zombie leans on the fence, its face pressed against the chain links.  </action>
                     
                         <balloon who="#Zombie"> RUH! RUOALIAGH! </balloon>
                     
@@ -1312,8 +1290,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick draws his pistol ready to shoot the zombie. Morgan put's his hand
-                        ontop of the gun. </action>
+                    <action> Rick draws his pistol, ready to shoot the zombie. Morgan places his hand on top of the gun. </action>
                     
                         <balloon who="#Morgan"> No. </balloon>
                     
@@ -1327,7 +1304,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0025.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Morgan holds his arms out to Rick to stop him from shooting the zombie. </action>
+                    <action> Morgan extends his arms to stop Rick from stooting the zombie.  </action>
                     
                         <balloon who="#Morgan"> Leave it be. it can't get to us in here.. you may
                             need that bullet later. </balloon>
@@ -1337,7 +1314,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick puts his gun away. </action>
+                    <action> Rick holsters his gun. </action>
                     
                         <balloon who="#Rick"> Yeah.. you're right. We better get these cars out of
                             here before it makes its way around to the gate.</balloon>
@@ -1347,7 +1324,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick and Morgan are getting into the patrol cars. </action>
+                    <action> Rick and Morgan get into the patrol cars. </action>
                     
                         <balloon who="#Morgan"> I'll see you around? </balloon>
                     
@@ -1363,26 +1340,25 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick opens the gate for Morgan and Duane to exit. Morgan drives out the
-                        gate. </action>
+                    <action> Rick opens the gate, allowing Morgan and Duane to exit. Morgan drives out of the gate. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick drives the patrol car out of the gate. </action>
+                    <action> Rick takes the wheel, driving the patrol car out of the gate. </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick gets out of the car and closes the gate behind him. </action>
+                    <action> Rick steps out of the car and secures the gate behind him. </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
-                    <action> A zombie watches Rick drive off.</action>
+                    <action> A zombie watches as Rick drives off.</action>
                     
                         <balloon who="#Zombie"> UHH. </balloon>
                     
@@ -1396,19 +1372,19 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0026.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick drives through the empty town.</action>
+                    <action> Rick maneuvers through the empty town in his patrol car.</action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick makes it to the highway. </action>
+                    <action> Rick reaches the highway in his patrol car. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick stops the car and gets out. </action>
+                    <action> Rick stops the patrol car and steps out onto the road. </action>
                 </panelDesc>
             </panel>
             <panel n="4">
@@ -1420,8 +1396,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> The zombie that Rick ran into by the bicycle is still laying in the
-                        same spot. </action>
+                    <action> The zombie that Rick encountered by the bicycle remains in the same spot.  </action>
                     
                         <balloon who="#Zombie"> GAK! </balloon>
                     
@@ -1435,50 +1410,50 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0027.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick pulls his pistol out and shoots the zombie. </action>
+                    <action> Rick draws his pistol and fires, putting down the zombie. </action>
                     <sound> BLAM ! </sound>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick looks down at the zombie. </action>
+                    <action> Rick gazes down at the lifeless zombie.  </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The zombie lays dead with a shot to the head. </action>
+                    <action> The zombie lies motionless, a bullet to the head.  </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick starts to cry. </action>
+                    <action> Rick is overcome with emotion, tears welling up. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick wipes away his tears. </action>
+                    <action> Rick wipes away his tears, colleting himself. </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick walks back to the car. </action>
+                    <action> Rick walks back to the patrol car. </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick gets into the car. </action>
+                    <action> Rick enters the patrol car. </action>
                 </panelDesc>
             </panel>
             <panel n="8">
                 
                 <panelDesc>
-                    <action> Rick drives away. </action>
+                    <action> Rick drives away into the night. </action>
                 </panelDesc>
             </panel>
             
@@ -1489,19 +1464,19 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0028.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is driving down the highway at night.</action>
+                    <action> Rick continues to navigate the dark highway in his patrol car.</action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick drives past a welcome to Georgia sign. </action>
+                    <action> Rick passes a "Welcome to Georgia" sign along the way. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                
                 <panelDesc>
-                    <action> Rick stops for gas, and its empty. </action>
+                    <action> Rick stops for gas, only to find it empty. </action>
                     
                         <balloon who="#Rick"> God dammit!! Not again! </balloon>
                     
@@ -1510,8 +1485,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick gets into his patrol car and looks over to see a zombie in a car
-                        next to him. </action>
+                    <action> Back in his patrol car, Rick notices a zombie in a car adjacent to him. </action>
                     
                         <balloon who="#Rick"> ... </balloon>
                     
@@ -1520,7 +1494,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick continues driving down the highway. </action>
+                    <action> Rick continues driving down the desolate highway. </action>
                 </panelDesc>
             </panel>
           
@@ -1531,7 +1505,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0029.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick stops his car and gets out. </action>
+                    <action> Rick runs out of gas, and the car comes to a halt. He steps out. </action>
                     
                         <balloon who="#Rick"> Damn it! </balloon>
                     
@@ -1545,31 +1519,31 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0030.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick grabs his gear out of the patrol car. </action>
+                    <action> Rick retrieves his gear from the patrol car. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick starts walking leaving his car behind. </action>
+                    <action> Rick starts walking, leaving his car behind. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is farther into the ditance leaving his car behind. </action>
+                    <action> Rick moves further into the distance, leaving his car behind. </action>
                 </panelDesc>
             </panel>
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick sees a farm house in the ditance. </action>
+                    <action> Rick spots a farmhouse in the distance. </action>
                 </panelDesc>
             </panel>
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick looks at the farm house. </action>
+                    <action> Rick gazes at the farmhouse. </action>
                     
                         <balloon who="#Rick"> Huh.. </balloon>
                     
@@ -1578,14 +1552,13 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick jumps over the fence heading his way towards the farm house.
-                    </action>
+                    <action> Rick jumps over the fence, heading towards the farmhouse. </action>
                 </panelDesc>
             </panel>
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick is standing infront of the house. </action>
+                    <action> Rick stands in front of the house. </action>
                 </panelDesc>
             </panel>
             
@@ -1612,7 +1585,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick turns the door knob to enter the house. </action>
+                    <action> Rick turns the doorknob to enter the house. </action>
                     
                         <balloon who="#Rick"> I'm coming in... </balloon>
                     
@@ -1631,7 +1604,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick walks into the house. </action>
+                    <action> Rick walks further into the house.  </action>
                     
                         <balloon who="#Rick"> Sniff.. Sniff </balloon>
                     
@@ -1649,8 +1622,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick holds is hand to his mouth looking into a living room filled with
-                        a dead rotting family. </action>
+                    <action> Rick holds is hand to his mouth looking into a living room filled with a dead, rotting family. </action>
                 </panelDesc>
             </panel>
             
@@ -1661,7 +1633,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0032.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick runs for the door holding his mouth. </action>
+                    <action> Rick runs for the door, holding his mouth. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
@@ -1736,7 +1708,7 @@
             <panel n="4">
                
                 <panelDesc>
-                    <action> Rick see's an axe.</action>
+                    <action> Rick sees an axe.</action>
                     
                         <balloon who="#Rick"> You mind if I take this? I think it might come in
                             handy... </balloon>
@@ -1785,7 +1757,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick pulls back the reigns. </action>
+                    <action> With a pull on the reins, Rick steers the horse, guiding it skillfully. </action>
                     
                         <balloon who="#Rick"> Whoa!! </balloon>
                     
@@ -1794,7 +1766,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick and the horse find a road. </action>
+                    <action> Rick and the horse discover a road, providing a welcome respite.  </action>
                     
                         <balloon who="#Rick"> That's better... I don't want you passing out before
                             we get there. </balloon>
@@ -1804,7 +1776,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick rides the horse down the road. </action>
+                    <action> Rick confidently rides the horse down the open road, seeking solace in conversation. </action>
                     
                         <balloon who="#Rick"> So... you got a name? </balloon>
                     
@@ -1818,7 +1790,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0035.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is riding the horse and talking to her. </action>
+                    <action> Rick rides the horse and shares a moment of solace, recounting the happiest day of his life.</action>
                     
                         <balloon who="#Rick"> Y'know... That's a good idea. Talking about the
                             happiest day of my life will surely get my mind off all the messed up
@@ -1829,7 +1801,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick is reminiscing. </action>
+                    <action> Rick reflects on the past while riding, recalling the morning he received a life-changing call at the station. </action>
                     
                         <balloon who="#Rick"> i had just gone into work that morning. I was sitting
                             at the station drinking my second cup of coffee for the day. Gilroy was
@@ -1841,7 +1813,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is still talking to the horse. </action>
+                    <action> Rick, still conversing with the horse, shares the story of rushing home when Lori went into labor. </action>
                     
                         <balloon who="#Rick"> It was my wife Lori, her water had broken not ten
                             minutes after I left. I grabbed my coat and ran home to get her. Got
@@ -1853,7 +1825,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick is talking to the horse. </action>
+                    <action> Rick talks to the horse, recalling the intense moments at the hospital, where complications arose but everything turned out okay. </action>
                     
                         <balloon who="#Rick"> I got her to the hospital without a hitch. One of the
                             only times I got to use the sirens on my car... It was a small town we
@@ -1866,7 +1838,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick is talking to the horse.</action>
+                    <action> Rick continues sharing memories with the horse, fondly remembering the first time he laid eyes on little Carl.</action>
                     
                         <balloon who="#Rick"> The first time I laid eyes on little
                             Carl.</balloon>
@@ -1876,7 +1848,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick looks off into the distance as he rides the horse. </action>
+                    <action> Rick gazes into the distance, struggling to hold back tears as he rides the horse.  </action>
                     
                         <balloon who="#Rick"> I -- </balloon>
                     
@@ -1885,7 +1857,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick is holding back his tears. </action>
+                    <action> Rick, overcome with emotion, holds back tears while riding the horse. </action>
                     
                         <balloon who="#Rick"> ... </balloon>
                     
@@ -1894,7 +1866,7 @@
             <panel n="8">
                 
                 <panelDesc>
-                    <action> Rick is riding the horse down the road. </action>
+                    <action> Rick rides the horse down the road, reconsidering the impact of reminiscing about the good times. </action>
                     
                         <balloon who="#Rick"> Y'know... on second thought... thinking about the
                             good times makes all this seem so much worse. </balloon>
@@ -1909,7 +1881,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0036.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick and the horse arrive in Atlanta. </action>
+                    <action> Rick and the horse reach Atlanta. </action>
                     
                         <balloon who="#Rick"> Here we are... </balloon>
                     
@@ -1930,7 +1902,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> A zombie laying against a building notices Rick. </action>
+                    <action> A zombie, laying against a building, notices Rick. </action>
                     
                         <balloon who="#Zombie"> RUH? </balloon>
                     
@@ -1939,14 +1911,14 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick continues riding the horse into the city surrounded by zombies.
+                    <action> Rick continues riding the horse into the city, surrounded by zombies.
                     </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> The zombies on the street are noticing Rick and the horse. </action>
+                    <action> Zombies on the street start noticing Rick and the horse. </action>
                 </panelDesc>
             </panel>
            
@@ -1990,7 +1962,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The zombies close in on Rick and the horse. Making the horse buck Rick
+                    <action> The zombies close in on Rick and the horse, making the horse buck Rick
                         off. </action>
                     
                         <balloon who="#Rick"> AAAHH! </balloon>
@@ -2033,7 +2005,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick watches the horse being eaten and the notices a zombie notice him. </action>
+                    <action> Rick watches in horror as the zombies devour the horse, and then notices one of the zombies locking eyes with him. </action>
                     
                         <balloon who="#Zombie"> Ruh? </balloon>
                     
@@ -2045,7 +2017,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> A zombie grabs Rick as he is on the ground with his axe. </action>
+                    <action> A zombie seizes Rick while he's on the ground, clutching his axe.</action>
                     
                         <balloon who="#Rick"> Shit! </balloon>
                     
@@ -2054,7 +2026,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick swings the axe into the zombies head. </action>
+                    <action> Rick swings the axe into the zombie's head. </action>
                     <sound> THONK! </sound>
                 </panelDesc>
             </panel>
@@ -2070,7 +2042,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick stands up and grabs his axe out of the head of the zombie. </action>
+                    <action> Rick stands up, retrieves his axe from the zombie's head. </action>
                     <sound> SHUKK! </sound>
                 </panelDesc>
             </panel>
@@ -2082,7 +2054,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0040.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick stands up and is surrounded by hundreds of zombies. </action>
+                    <action> Rick finds himself surrounded by hundreds of zombies.</action>
                     
                         <balloon who="#Rick"> Son of a bitch... </balloon>
                     
@@ -2092,7 +2064,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> The zombies are tearing a person apart. </action>
+                    <action> Zombies are tearing a person apart. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
@@ -2115,7 +2087,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick shots a zombie in the head. </action>
+                    <action> Rick shoots a zombie in the head. </action>
                     <sound> BLAM! </sound>
                 </panelDesc>
             </panel>
@@ -2140,7 +2112,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0041.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick takes an axe and cuts off a zombies head. </action>
+                    <action> Rick takes his axe and decapitates a zombie. </action>
                     <sound> Thunk!</sound>
                 </panelDesc>
             </panel>
@@ -2154,7 +2126,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Someone grabed Ricks shoulder. </action>
+                    <action> Someone grabs Rick's shoulder. </action>
                     
                         <balloon who="#Rick"> AAUGH! </balloon>
                     
@@ -2202,8 +2174,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The man is pulling the ladder down. Rick is watching the zombies move
-                        toward them. </action>
+                    <action> The man is skillfully lowering the ladder while Rick watches the zombies closing in. </action>
                     
                         <balloon who="#Glenn"> Got it on the first try... </balloon>
                     
@@ -2212,7 +2183,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> The man starts to climb the ladder while Rick watches. </action>
+                    <action> The man starts climbing the ladder, urging Rick to follow. </action>
                     
                         <balloon who="#Glenn"> C'mon man. I'm trying to save your life here!
                             What're you waiting on?! </balloon>
@@ -2222,7 +2193,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick and the man start climbing up the ladder. </action>
+                    <action> Rick and the man begin climbing up the ladder. </action>
                     
                         <balloon who="#Rick"> Sorry... ... It's just ... I've never seen so many of
                             them. </balloon>
@@ -2237,7 +2208,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0043.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> The man is climbing on the roof. </action>
+                    <action> The man successfully climbs onto the roof. </action>
                     
                         <balloon who="#Glenn"> Then you're a lucky man... That's nothing down
                             there... had you gotten fifty more feet into the city before they
@@ -2257,7 +2228,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> The man starts to run but Rick just stands there. </action>
+                    <action> The man starts to run, but Rick hesitates. </action>
                     
                         <balloon who="#Glenn"> C'mon we must hurry! </balloon>
                     
@@ -2281,7 +2252,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick looks over the side of the building scared. </action>
+                    <action> Rick looks over the side of the building, fear evident in his expression. </action>
                     
                         <balloon who="#Rick"> No. No way in hell. </balloon>
                     
@@ -2290,7 +2261,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick and the man look at each other ontop of the buildings. </action>
+                    <action> Rick and the man exchange glances atop the buildings. </action>
                     
                         <balloon who="#Glenn"> You're going to have to. Listen.. It's easy... I do
                             it all the time. When we climb down this building those things will
@@ -2343,7 +2314,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick adjusting his hat. </action>
+                    <action> Rick adjusts his hat. </action>
                     
                         <balloon who="#Rick"> Now you tell me. </balloon>
                     
@@ -2352,7 +2323,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick follows the man across the roof top. </action>
+                    <action> Rick follows the man across the rooftop. </action>
                     
                         <balloon who="#Glenn"> We've got to hurry before they spread out again.
                             When we climb down this building, be ready to run. Don't worry, we don't
@@ -2420,7 +2391,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick slips through the wooden panels and the man is standing infront of
+                    <action> Rick slips through the wooden panels, and the man is standing infront of
                         a warehouse. </action>
                     
                         <balloon who="#Glenn"> It's not far, now. </balloon>
@@ -2430,13 +2401,13 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick and the Man run inbetween the warehouses. </action>
+                    <action> Rick and the man run between the warehouses. </action>
                 </panelDesc>
             </panel>
             <panel n="6">
                 
                 <panelDesc>
-                    <action> While running they go by a zombie that's leaning on the wall. </action>
+                    <action> While running, they pass by a zombie leaning on the wall. </action>
                     
                         <balloon who="#Glenn"> Heads up! </balloon>
                     
@@ -2445,7 +2416,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick and the guy continue running. </action>
+                    <action> Rick and the man continue running. </action>
                     
                         <balloon who="#Rick"> I didn't even see it! </balloon>
                     
@@ -2485,7 +2456,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick puts his hand on the mans shoulder. </action>
+                    <action> Rick puts his hand on the man's shoulder. </action>
                     
                         <balloon who="#Rick"> Can we stop here? Is it safe? </balloon>
                     
@@ -2528,7 +2499,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0047.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick falls to his knees. </action>
+                    <action> Rick collapses to his knees. </action>
                     
                         <balloon who="#Rick"> My wife... my son... </balloon>
                     
@@ -2537,7 +2508,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> The man tries to comfort Rick. </action>
+                    <action> The man attempts to console Rick. </action>
                     
                         <balloon who="#Glenn"> I'm sorry, man.. I hate for you to have to hear it
                             this way. </balloon>
@@ -2547,7 +2518,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is crying and wiping away his tears. </action>
+                    <action> Rick breaks down in tears, wiping them away. </action>
                     
                         <balloon who="#Rick"> We... we're from Kentucky... but when I was told
                             people were ordered to larger cities I figured my wife would have taken
@@ -2559,7 +2530,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> The man offers Rick his hand to help him up. </action>
+                    <action> The man extends a hand to help Rick up. </action>
                     
                         <balloon who="#Glenn"> Don't give up hope, man... I've seen all kinds of
                             people that have survived some crazy shit. We've got a guy at the camp
@@ -2570,7 +2541,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick wipes his tears away. </action>
+                    <action> Rick composes himself. </action>
                     
                         <balloon who="#Rick"> Did you say... camp? </balloon>
                     
@@ -2594,7 +2565,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0048.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0r</url>
                 <panelDesc>
-                    <action> Rick and the man are standing in a big field. </action>
+                    <action> Rick and the man stand in a vast field. </action>
                     
                         <balloon who="#Glenn"> We're almost there, c'mon. </balloon>
                     
@@ -2614,7 +2585,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick continues to walk with the man. </action>
+                    <action> Rick walks alongside the man. </action>
                     
                         <balloon who="#Rick"> So you're just camping out here? Is that safe?
                         </balloon>
@@ -2624,7 +2595,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> The man responds to Ricks question. </action>
+                    <action> The man responds to Rick's question. </action>
                     
                         <balloon who="#Glenn"> Yeah... we've got some cars for shelter.. and we all
                             take turns keeping watch at night. We figure if we stick close to the
@@ -2636,7 +2607,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick and the man walk up to the camp </action>
+                    <action> Rick and the man approach the camp. </action>
                     
                         <balloon who="#Glenn"> Here we are. </balloon>
                     
@@ -2645,7 +2616,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick looks super suprised. </action>
+                    <action> Rick looks astonished. </action>
                     
                         <balloon who="#Rick"> Holy shit. </balloon>
                     
@@ -2659,7 +2630,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0049.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Lori, Ricks wife, is running towards Rick and she is super excited. </action>
+                    <action> Lori, Rick's wife, runs towards Rick, extremely excited. </action>
                     
                         <balloon who="#Lori"> RICK! </balloon>
                     
@@ -2668,7 +2639,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Carl, Ricks son, is running towards Rick. He is very happy. </action>
+                    <action> Carl, Rick's son, rushes towards Rick, overjoyed. </action>
                     
                         <balloon who="#Carl"> DAD! </balloon>
                     
@@ -2677,7 +2648,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick, Lori, and Carl are embracing each other. </action>
+                    <action> Rick, Lori, and Carl embrace each other. </action>
                     
                         <balloon who="#Rick"> Oh, Thank God. </balloon>
                     
@@ -2691,7 +2662,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0050.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is huggin his wife and son. In the back ground shane is watching. </action>
+                    <action> Rick embraces his wife and son, while Shane observes in the background. </action>
                     
                         <balloon who="#Rick"> I--I was so worried about you. </balloon>
                     
@@ -2700,7 +2671,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Shane approached Rick and put his hand on his shoulder. </action>
+                    <action> Shane approaches Rick, placing a hand on his shoulder. </action>
                     
                         <balloon who="#Shane"> It's good to see you man. </balloon>
                     
@@ -2709,7 +2680,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is surpised to see Shane. </action>
+                    <action> Rick is surprised to see Shane. </action>
                     
                         <balloon who="#Rick"> Oh my god shane! </balloon>
                     
@@ -2718,7 +2689,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Lori is wiping away her tears. </action>
+                    <action> Lori wipes away her tears. </action>
                     
                         <balloon who="#Lori"> Shane helped us get here.. we wouldn't have made it
                             without him. </balloon>
@@ -2728,8 +2699,8 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick is grabbing Shanes shoulders to thank him. Lori and Carl standing
-                        watching. </action>
+                    <action> Rick grabs Shane's shoulders to express gratitude, while Lori and Carl watch.
+                        </action>
                     
                         <balloon who="#Rick"> I guess I owe you more than I'll ever be able to
                             repay. </balloon>
@@ -2755,7 +2726,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0051.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> One of the men at camp is nealing down with the guy that saved Rick. </action>
+                    <action> One of the camp members kneels down with the man who saved Rick. </action>
                     
                         <balloon who="#Allen"> What'd you get this time, Glenn? </balloon>
                     
@@ -2771,7 +2742,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Shane is introducing Rick to Allen and Glenn. </action>
+                    <action> Shane introduces Rick to Allen and Glenn. </action>
                     
                         <balloon who="#Shane"> You've met Glenn, that's Allen hounding him for
                             supplies. Allen's wife, Donna is around here somewhere. They've got
@@ -2782,7 +2753,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Shane is introducing Rick to Dale, Jim, Carol, and Sophia. </action>
+                    <action> Shane introduces Rick to Dale, Jim, Carol, and Sophia. </action>
                     
                         <balloon who="#Shane"> That's Dale up there keeping watch. That's his
                             camper. Jim is over there eating. That's Carol and her daughter Sophia
@@ -2798,7 +2769,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0052.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Shane is introducing Rick to Amy and Andrea. </action>
+                    <action> Shane introduces Rick to Amy and Andrea. </action>
                     
                         <balloon who="#Shane"> This is Amy and Andrea... they're sisters.
                         </balloon>
@@ -2811,7 +2782,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Donna dna the twins exit the RV. </action>
+                    <action> Donna and the twins exit the RV. </action>
                     
                         <balloon who="#Donna"> We're right here, what-- Oh.. new arrival?
                         </balloon>
@@ -2821,7 +2792,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Shane is talking to Donna. </action>
+                    <action> Shane talks to Donna. </action>
                     
                         <balloon who="#Shane"> This is Lori's husband. </balloon>
                     
@@ -2830,7 +2801,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick, Shane, Donna, Lori, and Jim are standing in a circle . </action>
+                    <action> Rick, Shane, Donna, Lori, and Jim stand in a circle.  </action>
                     
                         <balloon who="#Donna"> My word... that's the best news I've heard all
                             month. Shane, darling... come with me... those two have got some
@@ -2855,13 +2826,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0053.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick is sitting alone next to camp fire surrounded by tents. </action>
+                    <action> Rick sits alone by the camp fire surrounded by tents. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Lori pops her head out of the ten to talk to Rick. </action>
+                    <action> Lori pops her head out of the tent to talk to Rick. </action>
                     
                         <balloon who="#Rick"> I'm so glad you saved this for me. I felt naked
                             without it. Is he asleep? </balloon>
@@ -2874,7 +2845,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Lori gets out of the ten and joins Rick by the fire. </action>
+                    <action> Lori gets out of the tent and joins Rick by the fire. </action>
                     
                         <balloon who="#Lori"> He can't sleep anymore unless he knows I'm right next
                             to him. Never really had to slip away from him like that... I usually
@@ -2907,7 +2878,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick looks at Lori. </action>
+                    <action> Rick gazes at Lori. </action>
                     
                         <balloon who="#Rick"> You did what's right for little Carl. I'm just glad
                             Shane was around to help you get here. </balloon>
@@ -2917,7 +2888,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Lori talking to Rick. </action>
+                    <action> Lori speaks to Rick. </action>
                     
                         <balloon who="#Lori"> I don't even think I would've found the way down here
                             without him. Let alone survived after we got here. </balloon>
@@ -2930,7 +2901,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick examines his hand while Lori watches.</action>
+                    <action> Rick examines his hand as Lori watches.</action>
                     
                         <balloon who="#Rick"> That's just from the IV. It's not a big deal..
                         </balloon>
@@ -2948,7 +2919,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0054.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0r</url>
                 <panelDesc>
-                    <action> Rick points out the one watch man to Lori. </action>
+                    <action> Rick points out the lone watchman to Lori. </action>
                     
                         <balloon who="#Rick"> Is he enough up there? </balloon>
                     
@@ -2962,7 +2933,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Lori sits infront of the tent talking to Rick. </action>
+                    <action> Lori sits in front of the tent, talking to Rick. </action>
                     
                         <balloon who="#Lori"> This is... none of us really sleep anymore. Soon as
                             we hear one of the shots, we're up ready to defend this place.
@@ -2999,7 +2970,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> A close up of Ricks face and he looks scared. </action>
+                    <action> A close up of Rick's face as he looks scared. </action>
                     
                         <balloon who="#Rick"> The past two days... I've been so worried about
                             finding you and Carl... and getting here in one piece... I haven't had
@@ -3015,13 +2986,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0055.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick, Lori and Carl lay asleep in the tent. </action>
+                    <action> Rick, Lori and Carl peacefully rest inside the tent. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick moves closer to Carl in the tent. </action>
+                    <action> Rick quietly inches closer to Carl within the confines of the tent. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
@@ -3033,7 +3004,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Rick sits up in bed and looks at his family.</action>
+                    <action> Rick sits up in bed, surveying his sleeping family.</action>
                     
                         <balloon who="#Rick"> .... </balloon>
                     
@@ -3042,7 +3013,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick reaches over and puts his hand on Loris face. </action>
+                    <action> Rick extends his hand, tenderly placing it on Lori's face.</action>
                 </panelDesc>
             </panel>
             
@@ -3053,13 +3024,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0056.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick opens the tent door while Lori is rubbing her eyes. </action>
+                    <action> Rick opens the tent door as Lori rubs her eyes, waking up. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Shane greets Rick who is stretching outside of the tent. </action>
+                    <action> Shane greets Rick, who is stretching outside the tent. </action>
                     
                         <balloon who="#Shane"> Morning, partner. </balloon>
                     
@@ -3068,7 +3039,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick is looking st Shane. </action>
+                    <action> Rick looks at Shane. </action>
                     
                         <balloon who="#Rick"> Hey, man... I thought you'd still be asleep. You kept
                             watch most of the night, didn't you? </balloon>
@@ -3115,13 +3086,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0057.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick walks into the camper and Dale is there. </action>
+                    <action> Rick enters the camper, finding dale inside. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick looks suprised. </action>
+                    <action> Rick looks surprised. </action>
                     
                         <balloon who="#Rick"> Oh, Hey! </balloon>
                     
@@ -3130,7 +3101,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Dale and Rick are talking. </action>
+                    <action> Dale and Rick engage in conversation. </action>
                     
                         <balloon who="#Rick"> I didn't see you there, man... you almost scared me
                             to death. </balloon>
@@ -3146,7 +3117,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Dale is talking to Rick. </action>
+                    <action> Dale shares his thoughts with Rick. </action>
                     
                         <balloon who="#Dale"> I don't want to stir nothing up... and you gotta
                             understand this has nothing to do with your wife. She did nothing but
@@ -3161,7 +3132,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Rick puts his hand on Dale's shoulder. </action>
+                    <action> Rick places a reassuring hand on Dale's shoulder. </action>
                     
                         <balloon who="#Rick"> I appreciate the advice, but Shane is my friend. he
                             was just keeping her safe. I don't have anything to worry about.
@@ -3172,8 +3143,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Rick turns to leave the RV and on his way out Dale say's something to
-                        him. </action>
+                    <action> Rick turns to leave the RV, and as he exits, Dale offers a cautionary remark. </action>
                     
                         <balloon who="#Dale"> I woulnd't trust him around my wife...</balloon>
                     
@@ -3190,19 +3160,19 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0058.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Rick leaves the RV holding clothes.. </action>
+                    <action> Rick exits the RV carrying clothes. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Lori and Shane are laughing with each other. </action>
+                    <action> Lori and Shane share a lighthearted moment, laughing together. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick contemplates. </action>
+                    <action> Rick reflects on the situation. </action>
                     
                         <balloon who="#Rick"> Crazy old man... </balloon>
                     
@@ -3211,7 +3181,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Shane stops talking to Lori and looks over to Rick. </action>
+                    <action> Shane interrupts his conversation with Lori and turns to Rick. </action>
                     
                         <balloon who="#Shane"> You ready? We should get going if we're going to
                             find anything. </balloon>
@@ -3237,7 +3207,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Shane hands Rick a shot gun. </action>
+                    <action> Shane hands Rick a shotgun. </action>
                     
                         <balloon who="#Lori"> Uh-huh... Don't you have some animals to try and
                             shoot? </balloon>
@@ -3250,7 +3220,7 @@
             <panel n="7">
                 
                 <panelDesc>
-                    <action> Rick puts his cowboy hat on and turns to leave with Shane. </action>
+                    <action> Rick puts on his cowboy hat and turns to leave with Shane. </action>
                     
                         <balloon who="#Lori"> I lov eyou too. Be careful. </balloon>
                     
@@ -3264,13 +3234,13 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0059.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Lori watches Rick and Shane leave. </action>
+                    <action> Lori observes Rick and Shane departing. </action>
                 </panelDesc>
             </panel>
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Lori sees Carl with a bucket. </action>
+                    <action> Lori spots Carl with a bucket. </action>
                     
                         <balloon who="#Lori"> CARL! Where are you going? </balloon>
                     
@@ -3279,7 +3249,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Carl is holding a small shovel and pointing behind him. </action>
+                    <action> Carl, holding a small shovel, points behind him. </action>
                     
                         <balloon who="#Carl"> Over by Sophia's car... we're going to play in the
                             dirt. </balloon>
@@ -3303,8 +3273,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Donna and Carol talk to Lori. Amy and Andrea are in the back ground
-                        standing with the twins. </action>
+                    <action> Donna and Carol converse with lori, while Amy and Andrea stand with the twins in the background. </action>
                     
                         <balloon who="#Donna"> Don't worry. Amy and Andrea are going to watch the
                             kids. </balloon>
@@ -3320,7 +3289,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Donna turns to Amy angry. </action>
+                    <action> Donna turns to Amy in anger. </action>
                     
                         <balloon who="#Donna"> Not in front of the kids. </balloon>
                     
@@ -3349,7 +3318,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0060.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Donna, Carol and Lori walk away from the camp. </action>
+                    <action> Donna, Carol and Lori depart from the camp. </action>
                     
                         <balloon who="#Carol"> I can't wait to see how these things smell with the
                             new detergent Glenn got from the city! </balloon>
@@ -3363,7 +3332,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Donna is carrying a laundry bag on her back. </action>
+                    <action> Donna carries a laundry bag on her back. </action>
                     
                         <balloon who="#Donna"> Jesus christ, will you listen to yourselves?! You're
                             excited about trying out a new detergent?! This is such bullshit.
@@ -3385,7 +3354,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Donna is frustrated while talking to Lori. </action>
+                    <action> Donna expresses frustration while talking to Lori.  </action>
                     
                         <balloon who="#Donna"> I just don't understand why we're the ones doing
                             laundry while they go off and hunt. when things get back to normal I
@@ -3399,7 +3368,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Lori talks back to Donna. </action>
+                    <action> Lori responds to Donna. </action>
                     
                         <balloon who="#Lori"> I don't know about you but I can't shoot a gun...
                             I've never even tried. To be honest... I wouldn't trust any of those
@@ -3411,7 +3380,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Lori, Donna and Carol make it to the creek. </action>
+                    <action> Lori, Donna and Carol reach the creek. </action>
                     
                         <balloon who="#Lori"> This isn't about women's rights.. </balloon>
                     
@@ -3432,8 +3401,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0061.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Sophia and Carrl play in the dirt while Amy and Andrea are watching
-                        them. </action>
+                    <action> Sophia and Carrl play in the dirt while Amy and Andrea watch them. </action>
                     
                         <balloon who="#Sophia"> You think my daddy will come back too? </balloon>
                     
@@ -3442,7 +3410,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Carl puts dirt into a bucket. </action>
+                    <action> Carl gathers dirt into a bucket. </action>
                     
                         <balloon who="#Carl"> Ain't your daddy dead? </balloon>
                     
@@ -3451,7 +3419,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Sophia is making a castle in the dirt. </action>
+                    <action> Sophia crafts a castle in the dirt. </action>
                     
                         <balloon who="#Sophia"> Yeah, but so was your daddy and he came back.
                         </balloon>
@@ -3471,7 +3439,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Carl and Sophia continue to play. </action>
+                    <action> Carl and Sophia continue their imaginative play. </action>
                     
                         <balloon who="#Sophia"> oh... I miss my daddy.</balloon>
                     
@@ -3485,7 +3453,7 @@
                 <url>
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0062.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
-                    <action> Shane and Rick are in the woods hunting. </action>
+                    <action> Shane and Rick embark on a hunting expedition in the woods. </action>
                     
                         <balloon who="#Shane"> I thought I'd take Lori and Carl down here to her
                             parents and come back. I thought this thing would be over in a week. I
@@ -3505,7 +3473,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Rick looks back at Shane. </action>
+                    <action> Rick glances back at Shane. </action>
                     
                         <balloon who="#Rick"> i don't know, man... it looked bad.</balloon>
                     
@@ -3517,7 +3485,7 @@
             <panel n="3">
                 
                 <panelDesc>
-                    <action> Rick and Shane looks for animals. </action>
+                    <action> Rick and Shane scan the surroundings for animals. </action>
                     
                         <balloon who="#Shane"> We just had Dale's rifle and my side arm. Someone
                             had to keep watch with the rifle at all times.. and it's hard as hell to
@@ -3540,7 +3508,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Shane and Rick continue to talk. </action>
+                    <action> Shane and Rick contine their conversation. </action>
                     
                         <balloon who="#Shane"> I have no idea... he seems to know how to get in and
                             get out before they gang up on him. It's-- </balloon>
@@ -3551,7 +3519,7 @@
             <panel n="6">
                 
                 <panelDesc>
-                    <action> Shane tells Rick to be quiet. </action>
+                    <action> Shane signals Rick to be quiet. </action>
                 </panelDesc>
             </panel>
             
@@ -3563,7 +3531,7 @@
                     https://ia802606.us.archive.org/BookReader/BookReaderImages.php?zip=/6/items/the-walking-dead-compendium-v-01-2011-digital-empire/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2.zip&amp;file=The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_jp2/The%20Walking%20Dead%20Compendium%20v01%20%282011%29%20%28digital-Empire%29_0063.jp2&amp;id=the-walking-dead-compendium-v-01-2011-digital-empire&amp;scale=2&amp;rotate=0</url>
                 <panelDesc>
                     <sound> CHOMP </sound>
-                    <action> A zombie is eating a deer. </action>
+                    <action> A zombie is feasting on a deer. </action>
                     
                         <balloon who="#Zombie"> GUH. </balloon>
                     
@@ -3573,7 +3541,7 @@
             <panel n="2">
                 
                 <panelDesc>
-                    <action> Shane and Rick look suprised to see the zombie. </action>
+                    <action> Shane and Rick exchange surprised glances upon seeing the zombie. </action>
                 </panelDesc>
             </panel>
             <panel n="3">
@@ -3588,7 +3556,7 @@
             <panel n="4">
                 
                 <panelDesc>
-                    <action> Shane is looking at the deer. </action>
+                    <action> Shane gazes at the deer. </action>
                     
                         <balloon who="#Shane"> Do you think we should get the deer away from
                             it?</balloon>
@@ -3598,7 +3566,7 @@
             <panel n="5">
                 
                 <panelDesc>
-                    <action> Shane and Rick are still watching the zombie eat the deer. </action>
+                    <action> Shane and Rick continue observing the zombie devouring the deer. </action>
                     
                         <balloon who="#Shane"> Do you think it's be safe to eat? </balloon>
                     
