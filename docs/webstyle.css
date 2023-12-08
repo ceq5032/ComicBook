@@ -147,6 +147,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     margin: 0 auto;
+    
 }
 
 .row p {
@@ -247,6 +248,9 @@ hr {
     height: 1000px; 
 }
 
+.pageN {
+            text-align: right;
+        }
 
 .contain {
     width: 100%;
