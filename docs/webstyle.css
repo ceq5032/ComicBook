@@ -180,7 +180,7 @@ header {
 
 .columnR img {
     border: 5px solid #333;
-    max-width: 100%;
+    max-width: 750px;
     height: auto;
     display: block;
     margin: auto;
@@ -244,13 +244,13 @@ hr {
     border: black 5px solid;
     background-color: white;
     overflow: auto;
-    height: 1000px; /* You might want to adjust the height if needed */
+    height: 1000px; 
 }
 
+
 .contain {
-    width: 100%; /* Ensure the width of .contain is 100% */
+    width: 100%;
     box-sizing: border-box;
-    /* Add any additional styling for .contain as needed */
 }
 .codebox::-webkit-scrollbar {
     width: 12px;
