@@ -129,6 +129,24 @@ header {
     border: black 5px solid;
     background-color: lightgrey;
 }
+.columnC {
+    box-sizing: border-box;
+    margin: 0 10px 20px;
+    padding: 10px;
+    text-align: left;
+    width: 250px;
+    margin-right: 500px;
+}
+.space {
+    padding-right: 25px;
+}
+li {
+    padding-right: 10px;
+    color: #333;
+}
+.ignore-css {
+    all:unset;
+}
 .column img {
     border-radius: 50%;
     border: 5px solid #333;
@@ -268,3 +286,14 @@ hr {
 .codebox::-webkit-scrollbar-track {
     background-color: #333;
 }
+table {
+   width: 70%; 
+   justify-content: left;
+   margin: auto;
+   padding: 20px;
+   vertical-align: middle;
+   text-align: left;
+}
+
+
+
