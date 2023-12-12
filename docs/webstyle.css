@@ -141,7 +141,9 @@ header {
     text-align: left;
     width: auto; 
     color: #333;
+ 
 }
+
 .character img {
     border-radius: 50%;
     max-width: 125px;
@@ -151,6 +153,7 @@ header {
     border: solid black 4px;
 
 }
+
 .columnC li {
     margin-bottom: 5px;
 }
@@ -169,6 +172,7 @@ header {
 .columnC ul ul {
     margin-top: 5px; 
     padding-left: 15px; 
+    padding-right: 15px;
     border: 2px solid #333; 
     border-radius: 5px; 
 }
@@ -343,6 +347,7 @@ table {
 }
 th {
     padding: 0 25px;
+    
 
 
 
