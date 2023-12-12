@@ -128,7 +128,7 @@ header {
 .column {
     width: calc(30% - 20px);
     box-sizing: border-box;
-    margin: 0 10px 20px;
+    margin: 0 20px 30px;
     padding: 10px;
     text-align: center;
     border: black 5px solid;
@@ -136,7 +136,7 @@ header {
 }
 .columnC {
     box-sizing: border-box;
-    margin: 0 10px 20px;
+    margin: 0 20px 30px;
     padding: 10px;
     text-align: left;
     width: auto; 
