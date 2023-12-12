@@ -51,6 +51,7 @@ img {
     font-size: x-large;
     top: 0;
     width: 100%;
+    z-index: 2;
 }
 h2 {
     font-family: "deathrattleebb";
@@ -213,7 +214,7 @@ header {
 .columnL {
     width: calc(50% - 20px);
     box-sizing: border-box;
-    margin: 0 10px 20px;
+    margin: 0 auto 20px;
     padding: 10px;
     text-align: left;
     border: black 5px solid;
@@ -221,9 +222,9 @@ header {
 
 }
 .columnR {
-    width: calc(50% - 20px);
+    width: calc(40% - 20px);
     box-sizing: border-box;
-    margin: 0 10px 20px;
+    margin: 0 auto 20px;
     padding: 10px;
 }
 
@@ -251,14 +252,30 @@ hr {
     width: 90%;
     text-indent: 0;
 }
+
 .balloon {
-    color: #580204;
+    position: relative;
+    display: inline-block;
+    background-color: lightgrey;
     padding: 5px 0;
     margin: auto;
-    text-align: left;
-    width: 90%;
-    text-indent: 0;
+    border-radius: 15px;
+    border: 2px solid black; 
+    margin: 10px 0;
+    z-index: 1;
 }
+
+.balloon:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -10px; 
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent transparent black; 
+}
+
 .panel {
     text-align: center;
     text-indent: 0;
@@ -326,6 +343,7 @@ table {
 }
 th {
     padding: 0 25px;
-}
+
+
 
 
