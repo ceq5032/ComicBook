@@ -138,9 +138,38 @@ header {
     margin: 0 10px 20px;
     padding: 10px;
     text-align: left;
-    width: 250px;
-    margin-right: 500px;
-    color:#333;
+    width: auto; 
+    color: #333;
+}
+.character img {
+    border-radius: 50%;
+    max-width: 125px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px; 
+    border: solid black 4px;
+
+}
+.columnC li {
+    margin-bottom: 5px;
+}
+.columnC li a {
+    text-decoration: none;
+    color: #580204;
+}
+.columnC li a:hover {
+    text-decoration: underline;
+}
+.columnC ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.columnC ul ul {
+    margin-top: 5px; 
+    padding-left: 15px; 
+    border: 2px solid #333; 
+    border-radius: 5px; 
 }
 .space {
     padding-right: 25px;
