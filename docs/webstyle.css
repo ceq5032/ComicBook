@@ -347,8 +347,29 @@ table {
 }
 th {
     padding: 0 25px;
+    }
     
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: "nikopol-regular";
+}
 
+#myBtn:hover {
+    background-color: #0056b3;
+}
 
 
 
