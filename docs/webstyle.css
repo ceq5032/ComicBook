@@ -267,6 +267,7 @@ hr {
     border: 2px solid black; 
     margin: 10px 0;
     z-index: 1;
+    text-align: center;
 }
 
 .balloon:before {
@@ -370,7 +371,6 @@ th {
 #myBtn:hover {
     background-color: #0056b3;
 }
-
 
 
 
